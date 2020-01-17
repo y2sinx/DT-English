@@ -167,27 +167,52 @@ Don't put me in that position. % 不要让我难堪.
 You wanna go, you go. % 你想走就走.
 You're yesterday's news. % 你已经过气了.
 Everybody inside. % 所有人都进去.
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
- % 
+A deal's a deal. %  说话算话.
+Have a seat. % 坐下. 
+Don't let them break you. % 不要让他们搞垮你.
+Please don't do this. % 请不要这样做.
+Don't trouble youself. % 不要自寻烦恼.
+How much further? --About three hours. % 还有多远? --大概3个小时.
+Good work. % 干得漂亮.
+See you on the other side. % 我们地狱见. 
+I'm coming for you. % 我不会放过你的.
+It was a misunderstanding. % 这是一场误会.
+Time's up. % 时间到了.
+You have my word. % 我向你保证.
+It's not a big deal. % 小事一桩.
+On your knees. % 跪下.
+I blew it. % 我搞砸了.
+I get it. % 我懂了.
+It's complicated. % 一言难尽.
+What should I do. % 我该怎么办?
+Good one. % 说得妙.
+I think I barely recognise you. % 我都认不出你来了. 
+Gotcha. % 逮到你了.
+I got a problem! % 我有麻烦了.
+Don't push me, Craig. % Craig,不要逼我.
+Here we are. % 我们到了.
+Did it work? % 凑效了么?
+Let the past stay in the past. % 让过去的事就过去吧.
+Life is short, death is sure. % 人生苦短(苦于人生太短).
+That's all I ask. % 除此别无所求.
+Congrats. % 恭喜(=Congratulations).
+Leave it. % 放着别管了. 
+
+##单词+词组
+setup: 圈套
+salvation: 救星
+shenanigans: 诡计
+self-pity: 自怨自艾
+
+
+the best view in town: 小镇最好的风景
+time after time: 一次又一次
+take a breath: 深呼吸
+take sb's life: 取某人的性命
+serial number: (抢上的)序列号 
+start over: 重新开始
+Great Lakes: 北美五大湖, Superior,Michigan,Huron,Erie,Ontario.
+ 
  % 
  % 
  % 

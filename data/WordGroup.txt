@@ -39,5 +39,7 @@ give a hand to sb: 帮助某人
 check my balance: 检查我的收支(账户)
 hobo: 流浪汉
 anesthetic: 麻醉剂
+three out of five: 五局三胜
+here and there: 乱逛
 
 
