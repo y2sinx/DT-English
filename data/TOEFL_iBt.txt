@@ -1,3 +1,7 @@
+n, v, vi, vt, adj, adv, pron
+
+==kk0 ========================
+
 # 1 地理
 insular: #adj.海岛的 % Haiwaii's ~ culture;
 island: #n.岛;
@@ -1243,7 +1247,7 @@ compile: #n.编纂;收集;
 entitle: #n.给...权利;
 emend: #n.修订;
 paraphrase: #n.(用更容易理解的文字)解释;
-adaptadaptable: #n.可修改的;
+adaptable: #n.可修改的;
 adaptation: #n.改写;
 excerpt: #n.摘录;
 abstract: #n.提炼;
@@ -1989,7 +1993,6 @@ respect: #n.转眼点;方面
 component: #n.组成部分
 system: #n.系统,体系
 
-==kk2==========================
 
 # 30 现实
 ## 犯罪
@@ -2467,14 +2470,74 @@ mortal: #adj.终有一死的; #n.凡人
 
 # 31 心理
 ## 傲慢
-
-
+partial: #adj.偏袒的
+overbearing: #adj.傲慢的
+arrogant: #adj.傲慢的
+haughty: #adj.傲慢的
+insolent: #adj.傲慢的;无礼的
+fussy: #adj.过分挑剔的
+contemptuous: #adj.蔑视的;傲慢的
+domineering: #adj.盛气凌人的
+presumptuous: #adj.专横的
+arrogance: #n.傲慢
+preference: #n.偏爱
+bias: #n.偏见
 
 ## 悲伤
+doleful: #adj.悲哀的
+upset: #adj.难过的
+trying: #adj.难堪的;痛苦的
+sentimental: #adj.多愁善感的
+grieve : #vi.悲伤
+grieved: #adj.伤心的
+gloom: #adj.忧愁
+torturous: #adj.痛苦的 #v.折磨
+misery: #n.痛苦,苦恼
+miserable: #adj.痛苦的;可怜的
+pensive: #adj.忧愁的;哀思的
+lament: #n.悲伤; #vt.痛惜
+torment: #n.痛苦 #v.折磨
+deplore: #vt.悲痛;深悔
+
 ## 吃惊
+inconceivable: #adj.不可思议的
+uncanny: #adj.不可思议的;离奇的
+marvelous: #adj.不可思议的;了不起的
+breathtaking: #adj.惊人的,惊险的
+astound: #vt.使惊异
+astonishing: #vt.使惊讶
+astonished: #adj.惊讶的
+incredible: #adj.难以相信的
+striking: #adj.显著的,惊人的
+tremor: #n.颤抖,颤栗
+trepidation: #n.惊恐,颤栗
+petrify: #vt.使发呆
+acare: #vt.惊吓,使受惊
+startle: #vt.使大吃一惊 #n.吃惊
+stun: #vt.使昏晕,使目瞪口呆
+dismay: #vt.使惊愕;使沮丧
+
 ## 动机
+impetuous: #adj.冲动的
+impulse: #n.冲动,刺激
+impulsive: #.易冲动的
+urge: #n.冲动
+incentive: #n.刺激;动机
+motivation: #n.动机
+objective: #n.目标
+
 ## 恶意
+grim: #adj.不吉祥的
+sinister: #adj.不祥的;邪恶的
+cruel: #adj.残忍的
+malevolent: #adj.恶意的
+malice: #n.恶意
+malicious: #adj.怀恶意的;心毒的
+ferocious: #adj.凶猛的
+
 ## 烦躁
+gloomy
+
 ## 愤怒
 ## 感觉
 ## 高兴
@@ -2644,12 +2707,91 @@ bulky: #adj.庞大的;笨重的
 capacious: #adj.容量大的;宽敞的
 
 ## 方位
-
+forth: #adv.向前
+entry: #n.入口;进入
+exit: #n.出口
+outlet: #n.出路,出口
+site: #n.地点
+destination: #n.目的地
+veer: #v.改变方向
+spot: #n.地点
+head: #vi.向某处走去
 
 ## 公正
+valid: #adj.正当的
+upright: #adj.正直的
+unfair: #adj.不公平的
+fairly: #adj.公正的
+guileless: #adj.诚实的
+equitable: #adj.公平的
+detached: #adj.公正的
+disinterested: #adj.公正的
+unbiased: #adj.公正的
+partially: #adv.不公正地
+impartial: #adj.公正的
+conscience: #n.良心,良知
+conscientious: #adj.尽职的
+incorruptible: #adj.廉洁的
+descent: #adj.正派的;体面的
+faithful: #adj.忠诚的
+justly: #adv.公正地
+devotion: #n.献身;忠诚;专心
+integrity: #n.正直
+probity: #n.正直
+fidelity: #n.忠诚
+dedicate: #vt.奉献,致力于
+
 ## 合适
+sober: #adj.适度的
+qualified: #adj.合格的
+rational: #adj.合理的
+becoming: #adj.合适的,相称的
+reliable: #adj.可靠的,可信赖的
+preferable: #adj.可取的
+available: #adj.可用的
+competent: #adj.能胜任的
+fit: #adj.适合的
+fitting: #adj.适当的;得体的
+feasible: #adj.切实可行的
+expedient: #adj.权宜的;方便的
+pertinent: #adj.适当的;切题的
+temperate: #adj.适度的,有节制的
+suitable: #adj.适合的
+plausible: #adj.似合理的
+methodical: #adj.有条理的
+entitled: #adj.有资格的
+correspondence: #n.对应;符合
+propriety: #n.适当
+tally: #vi.符合
+coincide: #vi.使符合,相巧合
+suit: #vt.适应
+advisable: #adj.合理的
+adapt: #vt.使适应
+adaptable: #adj.能适应的
+adaptation: #n.适应
+conformity: #n.一致;符合
+
 ## 尖刻
+incisive: #adj.尖锐的
+caustic: #adj.刻薄的
+acid: #adj.尖酸的
+acrimonious: #adj.尖酸的
+acrid: #adj.辛辣的
+acrimony: #n.刻薄
+
 ## 精巧
+== kk1 ========================
+cunning: #adj.可爱的
+elegant: #adj.(举止,服饰)优雅的
+handy: #adj.方便的;灵巧的
+ingenious: #adj.机灵的;精巧制成的
+exquisite: #adj.精美的
+delicate: #adj.精巧的
+refined: #adj.精致的;文雅的
+dexterous: #adj.灵巧的
+crafty: #adj.灵巧的,巧妙的
+elaborate: #vt.精心制作(计划); #adj.精心构思的
+
 ## 距离
 ## 肯定
 ## 空
@@ -2934,7 +3076,7 @@ elevate: #vt.抬高
 sharpen: #vt.削尖
 enhance: #vt.增加
 abate: #v.减少
-accumulate: #vt去.积累
+accumulate: #vt.积累
 amplify: #vt.放大;增强
 amplification: #n.扩大
 
