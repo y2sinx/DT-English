@@ -1,4 +1,4 @@
-## 1 地理
+# 1 地理
 insular: #adj.海岛的 % Haiwaii's ~ culture;
 island: #n.岛;
 peninsula: #n.半岛;
@@ -51,7 +51,7 @@ navigation: #n.航海;
 ranges: #n.射程表尺度;
 salinity: #n.盐分;
 sediment: #n.沉淀物;
-elevation: #n.高地;正面图; 
+elevation: #n.高地;正面图;
 formation: #n.形成;
 geothermy: #n.地热;
 terrain: #n.地形;
@@ -60,7 +60,7 @@ tropical: #adj.热带的;
 tropics: #n.热带地区;回归线 % the Tropic of Cancer(北回归线);
 temperate: #n.(气候)温和的 % ~ latitudes(温带地区);
 
-## 2 地质
+# 2 地质
 vein: #n.矿脉;静脉;
 pit: #n.煤矿;地坑;
 borehole: #n.钻孔,井眼;
@@ -110,7 +110,7 @@ outburst: #n.(火山,情感等的)爆发;
 eruption: #n.爆发; 火山灰;
 volcanic: #n.火山的  % ~ ash;
 
-## 3 动物学  
+# 3 动物学
 gregarious: #adj.(喜欢)群居的;
 swarm: #n.(蜜蜂,蚂蚁等的)群;
 flock: #n.羊群;(家禽,野畜等的)群;
@@ -226,7 +226,7 @@ clam: #n.蛤;
 coral: #n.珊瑚;
 crab: #n.螃蟹;
 
-## 4 法律
+# 4 法律
 penal: #n.受刑罚的;
 illicit: #n.违法的;
 unruly: #n.不守法的;
@@ -325,7 +325,7 @@ standard: #n.标准;
 enact: #n.扮演;
 
 
-## 5 化学  
+# 5 化学
 hackneyed: #n.陈腐的;
 caustic: #n.(具有)腐蚀性的;
 erosion: #n.腐蚀;
@@ -399,7 +399,7 @@ iodine: #n.碘;
 nitrogen: #n.氮;
 oxygen: #n.氧;
 
-## 6 环境  
+# 6 环境
 noxius: #n.有害的;
 pollute: #n.污染;
 pollutant: #n.污染物质;
@@ -415,7 +415,7 @@ fauna: #n.动物群;
 decibel: #n.分贝;
 ozonosphere: #n.臭氧层;
 
-## 7 教育
+# 7 教育
 didactic: #n.说教的;
 leading: #n.指导的;
 sermon: #n.说教;
@@ -430,7 +430,7 @@ conduct: #n.引导;
 curriculum: #n.课程;
 discipline: #n.学科;
 
-## 8 经济  
+# 8 经济
 toll: #n.鸣钟;费用;
 precious: #n.宝贵的;
 prosperous: #n.繁荣的;
@@ -522,7 +522,7 @@ debt: #n.债务;
 fund: #n.基金;
 revenue: #n.收入;
 
-## 9 军事
+# 9 军事
 confidential: #n.机密的;
 clandestine: #n.秘密的;
 cipher: #n.暗号;
@@ -563,7 +563,7 @@ tactics: #n.战术;
 naval: #n.海军的;
 military: #n.军用的;
 
-## 10 考古学  
+# 10 考古学
 archeology: #n.考古学;
 invaluable: #n.无价的;
 unearth: #n.发掘;
@@ -588,7 +588,7 @@ skull: #n.头骨;
 artifact: #n.人造物品;
 
 
-## 11 农业的  
+# 11 农业的
 prolific: #n.多产的 % the ~ author;
 fertile: #n.肥沃的;多产的 % the ~ couple;
 harvest: #n.收获;
@@ -641,7 +641,7 @@ ranch: #n.大农场;
 trough: #n.水槽;
 
 
-## 12 气象  
+# 12 气象
 balmy: #n.温和的;
 humid: #n.潮湿的;
 humidity: #n.潮湿;
@@ -688,7 +688,7 @@ hail: #n.冰雹;
 condense: #n.使浓缩;
 
 
-# 13 人类学  
+# 13 人类学
 juvenile: #n.青少年的;
 adult: #n.成人;
 human: #n.人类的;
@@ -707,7 +707,7 @@ forerunner: #n.先驱;
 hominid: #n.原始人类;
 cranial: #n.头盖形的;
 
-## 14 人物  
+# 14 人物
 counsel: #n.律师;
 crew: #n.船员;
 aviator: #n.飞行家;
@@ -833,7 +833,7 @@ democrat: #n.民主党人;
 independent: #n.中立派;无党派者;
 candidate: #n.候选人;
 
-## 15 社会学  
+# 15 社会学
 urban: #n.城市的;
 rustic: #n.乡村的;
 community: #n.社区;
@@ -852,7 +852,7 @@ marital: #n.婚姻的;
 polygamous: #n.一夫多妻或一妻多夫制的;
 household: #n.一家人;家喻户晓的;
 
-## 16 生物学  
+# 16 生物学
 parasite: #n.寄生虫;
 parasitic: #n.寄生的;
 mimicry: #n.模仿;
@@ -893,7 +893,7 @@ glucose: #n.葡萄糖;
 protein: #n.蛋白质;
 organ: #n.器官;
 
-## 17 数学  
+# 17 数学
 rank: #n.排序;等级;
 discrete: #n.离散的;
 symmetry: #n.对称;
@@ -965,7 +965,7 @@ quarter: #n.四分之一;
 divide: #n.除;分割;
 
 
-## 18 天文
+# 18 天文
 celestial: #n.天体的;
 universal: #n.宇宙的;
 orbit: #n.轨道;
@@ -1017,7 +1017,7 @@ spacecraft: #n.太空船;
 telescope: #n.望远镜;
 
 
-## 19 物理
+# 19 物理
 compatible: #n.兼容的;
 boundary: #n.边界;
 boundless: #n.无限的;
@@ -1114,7 +1114,7 @@ magnifier: #n.放大镜;放大器;
 lens: #n.透镜;
 
 
-## 20 医学
+# 20 医学
 contagious: #n.传染的;
 catching: #n.传染的;
 infect: #n.感染;
@@ -1162,7 +1162,7 @@ mental: #n.精神的;智力的;
 spiritual: #n.心灵的;
 
 
-## 21 艺术
+# 21 艺术
 picturesque: #n.如画般的;
 vivid: #n.生动的;
 sculpture: #n.雕塑品;
@@ -1189,7 +1189,7 @@ conjure: #n.(用魔术)变出;
 aesthetic: #n.美学的;
 romantic: #n.浪漫的;
 
-## 22 音乐
+# 22 音乐
 euphonious: #n.悦耳的;
 harsh: #n.刺耳的;
 jazz: #n.爵士乐;
@@ -1210,7 +1210,7 @@ string: #n.弦乐;
 wind: #n.管乐;
 
 
-## 23 语言学
+# 23 语言学
 implicit: #n.含蓄的;
 concise: #n.简明的;
 succinct: #n.简洁的;
@@ -1252,7 +1252,7 @@ abridge: #n.缩短;
 coin: #n.创造;
 
 
-## 24 政治
+# 24 政治
 factious: #n.党派的;
 partisan: #n.党派的;派系感强的;
 board: #n.委员会;
@@ -1325,7 +1325,7 @@ vote: #n.投票;
 welfare: #n.福利;
 
 
-## 25 植物学
+# 25 植物学
 shrub: #n.灌木丛;
 laurel: #n.月桂树;
 prairie: #n.牧场;
@@ -1375,7 +1375,7 @@ vitamin: #n.维生素;
 luxuriant: #n.繁茂的;多产的;
 
 
-## 26 自然
+# 26 自然
 natural: #n.自然的;
 scenic: #n.风景优美的;
 scenery: #n.景色;
@@ -1395,7 +1395,7 @@ trickle: #n.滴;淌;
 limpid: #n.清澈的;
 
 
-## 27 宗教 
+# 27 宗教
 blessed: #n.受祝福的;
 invocation: #n.祈祷;
 pious: #n.虔诚的;
@@ -1423,8 +1423,8 @@ enchant: #n.施魔法于;
 preach: #n.说教;鼓吹;布道;
 exodus: #n.大批离去;
 
-## 28 品质
-#卑鄙
+# 28 品质
+##  卑鄙
 despicable: #adj.可鄙的
 contemptible: #adj.可鄙的
 ignominious: #.adj.可耻的(不光彩的)
@@ -1433,52 +1433,52 @@ scornful: #adj.轻蔑的
 filthy: #adj.污秽的
 shameless: #adj.无耻的;美剧-无耻之徒;
 disrespectful: #adj.无礼的
-discrimination: #n.歧视  
+discrimination: #n.歧视
 contemn: #vt.蔑视
-belittle: #vt.轻视  
-disdain: #vt.轻视  
-despise: #vt.轻视    
+belittle: #vt.轻视
+disdain: #vt.轻视
+despise: #vt.轻视
 mean: #adj.卑鄙的
 
-#笨拙
+## 笨拙
 awkward: #adj.笨拙的
-clumsy: #adj.笨拙的  
-inert: #adj.迟钝的  
-blunt: #adj.迟钝的; #v.使变钝  
-torpid: #adj.迟钝的  
-silly: #adj.傻的,糊涂的  
-idiotic #adj.愚蠢的  
-fatuous: #adj.愚昧的  
+clumsy: #adj.笨拙的
+inert: #adj.迟钝的
+blunt: #adj.迟钝的; #v.使变钝
+torpid: #adj.迟钝的
+silly: #adj.傻的,糊涂的
+idiotic #adj.愚蠢的
+fatuous: #adj.愚昧的
 hoax: #n.恶作剧; #vt.愚弄
-#草率
-curt: #adj.草率的(简短而失礼的)  
-reckless: #adj.鲁莽的  
-impudent: #adj.鲁莽的  
-rashly: #adj.匆忙的  
-imprudent: #adj.轻率的(不谨慎的)  
-blunt2: #adj.直率的;粗鲁的;  
+## 草率
+curt: #adj.草率的(简短而失礼的)
+reckless: #adj.鲁莽的
+impudent: #adj.鲁莽的
+rashly: #adj.匆忙的
+imprudent: #adj.轻率的(不谨慎的)
+blunt2: #adj.直率的;粗鲁的;
 
-#聪颖
-intelligent: #adj.聪明的  
-smart: #adj.聪明的;敏捷的  
-versatile: #adj.多才多艺的  
-astute: #adj.机敏的;狡猾的  
-shrewd: #adj.精明的  
-sensible: #adj.理智的  
-sane: #adj.理智的;健全的  
-flexible: #adj.灵活的  
-exquisite: #adj.灵敏的  
-expeditious: #adj.敏捷的  
-nimble: #adj.轻快的;灵敏的  
-knowledgeable: #adj.有见识的  
-capable: #adj. 有能力的  
+## 聪颖
+intelligent: #adj.聪明的
+smart: #adj.聪明的;敏捷的
+versatile: #adj.多才多艺的
+astute: #adj.机敏的;狡猾的
+shrewd: #adj.精明的
+sensible: #adj.理智的
+sane: #adj.理智的;健全的
+flexible: #adj.灵活的
+exquisite: #adj.灵敏的
+expeditious: #adj.敏捷的
+nimble: #adj.轻快的;灵敏的
+knowledgeable: #adj.有见识的
+capable: #adj. 有能力的
 tact: #n.老练;机智
 sharpen: #vt.使敏锐
 adroit: #adj.机敏灵巧的
 acute: #adj.敏锐的
 acumen: #n.敏锐
 
-#粗野
+## 粗野
 gauche: #adj.粗鲁的
 rough: #adj.粗暴的
 rugged: #adj.粗俗的
@@ -1487,13 +1487,13 @@ rustic: #adj.粗俗的
 grumpy: #adj.性情暴躁的(坏脾气的)
 brutal: #adj.野蛮的
 
-#胆小
+## 胆小
 spineless: #adj.没骨气的
 timid: #adj.胆怯的;羞怯的
 bashful: #adj.害羞的;胆小的
 shy: 害羞的;胆小的
 
-#和蔼
+## 和蔼
 pitiful: #adj.慈悲的
 genial: #adj.和蔼的
 modest: #adj.谦虚的;适度的
@@ -1516,13 +1516,13 @@ gregarious: #adj.合群的
 gentility: #n.教养;
 affable: #adj.和蔼可亲的
 
-#狡猾
+## 狡猾
 crooked: #adj.狡诈的
 sly: #adj.狡猾的
 cunning: #adj.狡猾的
 designing: #adj.蓄意的
 
-#节俭
+## 节俭
 frugal: #adj.节约的
 economize: #vi.节俭
 economical: #adj.节约的;经济的
@@ -1531,7 +1531,7 @@ stoically: #adv.淡泊地
 austerity: #n.节俭
 thrift: #n.节俭
 
-#谨慎
+## 谨慎
 conservative: #adj.保守的
 composed: #adj.沉着的
 composure: #n.镇静
@@ -1546,7 +1546,7 @@ cautious: #adj.谨慎的
 meticulously: #adv.很仔细地
 sanity: #n.理智(神志清醒)
 
-#懒惰
+## 懒惰
 sluggish: #adj.怠惰的
 indolent: #adj.懒惰的
 inertia: #n.惯性;惰性
@@ -1554,7 +1554,7 @@ slug: #n.慢吞吞的人或物
 sloth: #n.懒惰
 slothful: #adj.偷懒的
 
-#强壮
+## 强壮
 stout: #adj.健壮的
 firm: #adj.坚挺的;结实的
 stocky: #adj.结实的;粗短的
@@ -1563,7 +1563,7 @@ hardy: #adj.强壮的'耐劳的
 lusty: #adj.强壮的;有精神的
 stiff: #adj.硬的;僵直的
 
-#奢侈
+## 奢侈
 prodigal: #adj.浪费的
 improvident: #adj.浪费的
 lavish: #adj.浪费的;奢侈的
@@ -1572,7 +1572,7 @@ extravagant: #adj.奢侈的;浪费的
 squander: #vt.浪费
 flamboyant: #adj.华丽的;浮夸的
 
-#熟练
+## 熟练
 deft: #adj.灵巧的;熟练的
 adept: #adj.擅长的
 skillful: #adj.熟练的
@@ -1583,7 +1583,7 @@ facility: #n.熟练 % have ~ of language;工具(复数)
 familiarize: #vt.熟练
 accomplished: #adj.熟练的
 
-#素质
+## 素质
 aptitude: #n.才能
 vigor: #n.精力
 caliber: #n.品质
@@ -1598,7 +1598,7 @@ ability: #n.能力
 versatile: #adj.通用的(万能的);多才多艺的
 power: #n.能力;力量
 
-#贪婪
+## 贪婪
 avid: #adj.贪婪的
 ravenous: #adj.贪婪的
 rapacious: #adj.贪婪的
@@ -1608,7 +1608,7 @@ avarice: #n.贪婪
 avaricious: #adj.贪婪的
 acquisitive: #adj.贪得无厌的
 
-#严酷
+## 严酷
 exacting: #adj.费力的;严格的
 ascetic: #adj.苦行的
 grim: #adj.冷酷的
@@ -1627,7 +1627,7 @@ severe: #adj.严重的;严肃的
 austerity: #n.严峻
 ordeal: #n.严酷的考研
 
-#勇敢
+## 勇敢
 bold: #adj.大胆的
 daring: #adj.大胆的;勇敢的
 undaunted: #adj.无畏的,勇敢的
@@ -1637,7 +1637,7 @@ gallant: #adj.英勇的
 intrepid: #adj.勇敢的
 valor: #n.勇气
 
-#自私
+## 自私
 flighty: #adj.不负责任的;轻浮的
 skimpy: #adj.吝啬的
 stingy: #adj.吝啬的
@@ -1645,8 +1645,9 @@ miserly: #adj.吝啬的
 snobbish: #adj.势力的
 selfish: #adj.自私的
 
-## 事物
-cabbage: #n.卷心菜(甘蓝) 
+# 29 事物
+## 食品
+cabbage: #n.卷心菜(甘蓝)
 carrot: #n.胡萝卜
 celery: #n.芹菜
 cereal: #n.谷类食品
@@ -1690,7 +1691,7 @@ barley: #n.大麦
 beet: #n.甜菜
 broccoli: #n.花椰菜
 
-#本质
+## 本质
 indigenous: #adj.固有的
 intrinsic: #adj.本质的
 radical: #adj.根本的
@@ -1711,7 +1712,7 @@ interior: #n.内部
 attribute: #n.性质
 abstruse: #adj.深奥的
 
-#比较:
+## 比较
 comparative #adj.比较的
 comparable: #adj.可比的;类似的
 similar: #adj.类似的
@@ -1747,7 +1748,7 @@ imitate: #vt.模仿
 resemble: #vt.像(某人与某人长的像);类似
 affinity: #n.密切关系;类同
 
-#范围
+## 范围
 exception: #n.例外
 exceptional: #adj.例外的
 relieved: #n.免除的
@@ -1769,7 +1770,7 @@ embody: #vt.体现;包含
 accommodate: #vt.容纳
 preclude: #vt.排除;防止
 
-#方法
+## 方法
 forthright: #adj.直接的
 shortcut: #n.捷径
 tip: #n.窍门
@@ -1778,7 +1779,7 @@ via: #prep.经由
 direct: #adj.直接的
 access: #n.通路;入门
 
-#光
+## 光
 faint: #adj.模糊的
 gloom: #n.黑暗
 gloomy: #adj.暗的
@@ -1804,7 +1805,7 @@ extinguish: #vt.熄灭
 ablaze: #adj.闪耀的
 twinkle: #v.闪烁
 
-#科学
+## 科学
 tentative: #adj.试验性的
 mechanical: #adj.机械的
 exact: #adj.精确的;严格的
@@ -1828,7 +1829,7 @@ gauge: #vt.精确计算
 accurate: #adj.准确的;正确的
 scale: #n.规模;尺度;天平
 
-#逻辑
+## 逻辑
 logical: #adj.合逻辑的
 therefore: #adv.因此
 hence: #adv.因此;从此
@@ -1845,7 +1846,7 @@ premise: #vt.提出前提; #n.前提
 infer: #vt.推知
 demonstrate: #vt.演示;论证
 
-#时间
+## 时间
 due: #adj.到期的;约定的,预定的
 cursory: #adj.仓促的
 perennial: #adj.长久的,永远的
@@ -1901,7 +1902,7 @@ improvise: #vt.即席而作
 synchronize: #vt.同时发生
 abruptly: #adv.突然地;唐突地
 
-#水相关动作
+## 水相关动作
 itinerant: #adj.巡回的;流动的
 flow: #n.流程;流动; #v.流动
 influx: #n.流入;灌输
@@ -1925,7 +1926,7 @@ permeate: #vt.渗透;透过
 dampen: #vt.使..发潮;给..泼冷水
 moisten: #vt.使..湿润
 
-#物体
+## 物体
 article: #n.物品
 craft: #n.船(单复数相同)
 vessel: #n.器皿;导管;船
@@ -1947,7 +1948,7 @@ bulk: #n.物体
 varnish: #n.油漆
 tug: #n.拖船
 
-#效果
+## 效果
 null: #adj.无效的
 valid: #adj.有效的
 invalid: #adj.无效的
@@ -1957,7 +1958,7 @@ efficient: #adj.有效率的
 outcome: #adj.结果;成果
 impotence: #adj.无效
 
-#原因
+## 原因
 gratuitous: #adj.无理由的
 source: #n.来源;源头
 account: #n.原因
@@ -1967,7 +1968,7 @@ cause: #vt.导致 #n.原因
 impute: #vt.归咎于
 attribute: #vt.归因于
 
-#局部与整体
+## 局部与整体
 superficial: #adj.表面的;肤浅的
 partial: #adj.部分的
 partially: #adv.部分地
@@ -1986,358 +1987,1027 @@ junction: #n.汇合处
 fraction: #n.片段
 respect: #n.转眼点;方面
 component: #n.组成部分
-system: #n.系统,系
+system: #n.系统,体系
 
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #n.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
-: #adj.
+==kk2==========================
+
+# 30 现实
+## 犯罪
+deceit: #n.欺骗,欺诈
+deceitful: #adj.欺骗的
+deceive: #vt.欺骗
+deceptive: #adj.虚伪的;骗人的
+gangster: #n.歹徒,暴徒
+fraud: #n.欺骗
+fraudulent: #adj.欺诈的,不诚实的
+homicide: #n.杀人
+theft: #n.偷窃
+pilferage: #n.偷窃
+counterfeit: #n.赝品; #adj.伪造的,假冒的
+conspire: #vi.密谋
+conspiracy: #n.阴谋
+sin: #n.罪过;过失
+brew: #v.酿造;图谋
+beguile: #vi.欺骗
+despoil: #vt.抢劫
+forge: #vt.伪造
+assassinate: #vt.暗杀,行刺
+kidnap: #vt.绑架
+embezzle: #vt.盗用(公款,公物)
+extort: #vt.勒索
+blackmail: #vt.勒索
+delude: #vt.欺骗,迷惑
+defraud: #vt.欺诈
+fabricate: #vt.伪造
+purge: #vt.洗涤(罪等)
+belie: #vt.掩饰
+trap: #vt.诱捕;陷害 #n.陷阱
+accomplice: #n.从犯
+abduct: #vt.绑架,诱拐
+
+## 福气
+convenient: #adj.便利的,方便的
+grateful: #adj.感谢的
+gratitude: #n.感谢
+auspicious: #adj.吉兆的;幸运的
+cozy: #adj.舒适的
+fortunate: #adj.幸运的
+readily: #adv.容易地
+boon: #n.恩惠
+bonanza: #n.幸运
+blessing: #n.祝福
+thrive: #vi.繁荣,旺盛
+
+## 工具使用
+furrow: #vt.犁,耕;弄皱
+instrument: #n.工具
+implement: #n.工具
+tool: #n.工具
+shaft: #n.轴;柄
+pump: #n.水泵; #v.抽水,吸
+snap: #v.使猛然断裂
+squeeze: #v.挤
+prune: #v.修剪
+glaze: #v.上釉; #n.釉
+tug: #v.拖,牵引
+fix: #v.修理
+maintain: #vt.维修
+extract: #vt.提取(榨取);拔出
+flay: #vt.剥..的皮
+flush: #vt.冲洗
+clinch: #vt.钉劳;揪住
+gild: #vt.镀金
+scratch: #vt.刮擦; #n.划痕
+clip: #vt.夹住;修剪 #n.夹子;钳子
+clamp: #vt.夹
+hew: #vt.砍,伐;削
+rap: #vt.敲击
+cleanse: #vt.使清洁
+rend: #vt.撕开;揪扯
+cram: #vt.填塞
+smear: #vt.涂
+efface: #vt.涂抹
+remove: #vt.移除;搬开;脱掉
+forge2: #vt.铸造
+tow: #vt.拖拉,牵引
+incise: #vt.切割,切开
+chop: #vt.砍
+harrow: #vt.耙掘
+pick: #v.摘;掘;凿;挖;挑选
+shovel: #n.铁铲 #v.铲
+sickle: #n.镰刀
+spade: #n.铁铲 #v.铲
+bore: #v.钻孔
+
+## 工作
+hectic: #adj.忙碌的
+officially: #adv.官方地;正式地
+entry: #n.登记;入口
+role: #n.任务
+log: #n.日志
+draft: #n.草案; #v.起草;设计
+sketch: #n.草图; #v.勾画
+assumption: #n.就职
+drudgery: #n.苦差事
+chore: #n.零工,杂务
+undertaking: #n.任务,工作
+task: #n.任务,作业
+career: #n.职业,生涯
+audition: #n.试听;面试
+vocation: #n.职业,行业
+charge: #n.职责
+major: #n.专业
+resign: #n.辞职; #v.辞职
+solicit: #v.拉客
+register: #vt.登记
+inaugurate: #vt.开始;使就职
+promote: #vt.升职;促进
+officeholding: #n.任职
+
+## 供给
+provide: #vt.提供
+provision: #n.供应
+accommodate: #vt.供给住宿
+furnish: #vt.供应,供给
+render: #vt.提供
+
+## 关系
+incompatible: #adj.不兼容的
+congruity: #n.一致,协调
+incongruity: #n.不和谐(之物)
+respective: #adj.分别的,各自的
+close: #adj.亲密的 #adv.紧密的
+mutual: #adj.相互的,共同的
+concerted: #adj.协定的;协调的
+fraternal: #adj.兄弟般的,友爱的
+dependent: #adj.依靠的,依赖的
+congenial: #adj.意气相投的
+relevant: #adj.有关的;贴切的
+bond: #n.联结,联系
+complement: #n.补足物; #vt.补足
+complementary: #adj.补充的
+discord: #n.不和谐
+association: #n.关联
+associate: #v.联合; #n.伙伴
+cooperation: #n.合作
+fusion: #n.联合
+intimate: #adj.亲密的; #vt.暗示
+intimacy: #n.熟悉;亲近
+substitute: #n.替代品 #v.替代
+consensus: #n.一致
+concurrence: #n.一致
+impact: #n.影响,作用; #v.对..发生影响
+link: #n.链接; #v.链接
+proximity: #n.接近,邻近
+band: #v.联合,结合
+collaborate: #vi.合作
+hinge: #vi.依..而定
+replenish: #vt.补充
+supplant: #vt.排挤;取代
+implicate: #vt.牵连
+displace: #vt.取代
+supersede: #vt.替代
+correlate: #vt.使关联
+grant: #vt.赠予
+subsidiary: #adj.辅助的;附属的
+affinity: #n.密切关系
+fitting: #adj.适合的,相称的
+sway: #v.影响
+affect: #vt.影响,感动
+derivative: #n.派生的事物
+patronage: #n.保护人的身份;保护;赞助;光顾
+unionization: #n.联合,结合
+
+## 建筑:
+haven #n.港口;避难所
+refuge: #n.避难所
+depot: #n.仓库 #vt.把..存放在仓库里
+auditorium: #n.大礼堂
+vault: #n.地窖;拱形圆顶屋
+block: #n.街区
+stall: #n.摊位;厩
+dormitory: #n.宿舍
+tower: #n.塔; #v.屹立,高耸
+dwelling: #n.住所
+forge: #n.铁匠铺
+canopy: #n.天篷,遮篷子
+
+## 困难
+laborious: #adj.费力的,困难的
+precipitous: #adj.陡峭的;急躁的
+devious: #adj.曲折的
+arduous: #adj.险峻的;困难的
+strenuous: #adj.辛苦的
+plight: #n.恶劣的情势,困境
+strait: #n.困难
+painstaking: #n.辛劳 #adj.辛劳的
+dilemma: #n.左右为难的困境
+flounder: #vi.挣扎
+embarrass: #vt.使困窘
+
+## 流行
+fashionable: #adj.流行的,时髦的
+prevail: #vi.流行,盛行
+prevalent: #adj.普遍的,流行的
+tide: #n.潮流
+vogue: #n.流行
+novelty: #n.新颖,新奇的事物
+
+## 名誉
+gorgeous: #adj.极好的
+outstanding: #adj.杰出的
+obscure: #adj.无名气的
+immortal: #adj.不朽的
+notorious: #adj.臭名昭著的
+infamous: #adj.臭名昭著的
+legendary: #adj.传奇的
+glorious: #adj.光荣的
+illustrious: #adj.辉煌的;著名的
+eminent: #adj.杰出的
+deferential: #adj.充满敌意的
+exemplary: #adj.模范的,典范的
+matchless: #adj.无与伦比的
+excel: #v.胜过他人
+excellent: #adj.优秀的,杰出的
+compliment: #vt.赞美,祝贺
+complimentary: #adj.赞美的
+renowned: #adj.知名的
+laudable: #adj.值得赞美的
+supreme: #adj.至高无上的
+celebrate: #vt.赞扬,表扬
+notable: #adj.著名的,显要的
+noted: #adj.著名的,知名的
+exceptional: #adj.卓越的
+preeminent: #adj.卓越的
+dignify: #vt.使尊荣,使显贵
+dignified: #adj.尊贵的
+dignity: #n.尊严
+lofty: #adj.高尚的
+odor: #n.名声
+credit: #n.信誉
+feat: #n.功绩,壮举
+homage: #n.敬意
+deference: #n.敬意
+virtue: #n.美德
+prestige: #n.威望,声望
+grandeur: #n.庄严,伟大
+reverence: #n.尊敬
+awe: #n.敬畏 #v.敬畏
+esteem: #n.尊敬 #vt.尊敬
+commend: #v.赞扬
+exalt: #n.称赞;提升
+exalted: #adj.尊贵的
+venerate: #vt.敬拜,崇拜
+embalm: #vt.使不朽
+tarnish: #vt.使晦暗,败坏(名誉)
+extol: #vt.颂扬
+laud: #vt.赞美
+revere: #vt.尊敬
+admirable: #adj.可敬的,极好的
+disreputable: #adj.声名狼藉的
+classic: #adj.第一流的
+respect: #vt.尊敬 #n.尊敬
+adore: #vt.敬爱;极喜爱
+admire: #vt.钦佩;赞美,夸奖
+advocate: #vt.拥护
+
+## 气氛
+hilarious: #adj.热闹的
+sullen: #adj.阴沉的
+hilarity: #n.欢闹
+aura: #adj.气氛
+
+## 社会活动
+formal: #adj.正式的;礼仪上的
+session: #n.会议
+conference: #n.会议
+reception: #n.接待;招待会
+etiquette: #n.礼节
+decorum: #n.礼仪
+banquet: #n.宴会,盛会
+bidding: #n.邀请
+ceremony: #n.礼仪
+ceremonial: #adj.正式的 #n.仪式;
+ceremonious: #adj.隆重的;正式的;恭敬的
+unveil: #v.开幕
+celebrate: #vi.庆祝
+entertain: #vt.招待;娱乐
+
+## 身体动作
+glaring: #adj.瞪眼的
+grip: #n.紧握
+posture: #n.人体的姿势
+grasp: #n.抓紧; #v.抓紧 
+jerk: #n.抽搐; #v.抽搐 
+chuckle: #n.咯咯地笑; #v.咯咯地笑 
+flip: #v.翻滚;(用手指)弹,投 
+stagger: #v.使蹒跚 
+trudge: #v.跋涉,吃力的走 
+fasten: #v.扣劳,抓住 
+hurl: #v.猛投;梦冲 
+face: #v.面对 
+leap: #v.跳跃 
+bow: #v.弯腰;屈服 
+blink: #v.眨眼 
+erect: #v.直立 
+trample: #v. 践踏,蹂躏
+tremble: #vi.发抖;摇晃
+glide: #vi.滑动;溜走
+depart: #vi.离开,出发
+slump: #vi.猛然落下
+gaze: #vi.凝视
+creep: #vt.爬,蹑手蹑脚
+limp: #vt.蹒跚,瘸着走
+sigh: #vi.叹息; #n.叹息
+recoil: #vi.后退,退缩; #n.退缩
+uphold: #vt.举起;支撑
+grab: #vt.攫取;抓住
+stride: #vt.跨越
+thrust: #vt.力推
+gnaw: #vt.啮
+spew: #vt.呕吐
+dab: #vt.轻拍
+plunge: #v.投入
+dart: #vt.投掷
+shove: #vt.推挤
+grag: #vt.拖动
+haul: #vt.拖拽,拖运
+shake: #vt.摇;震动
+jolt: #vt.摇动
+embrace: #vt.拥抱
+heave: #vt.用力举起;拖
+slap: #vt.掌击,拍
+clutch: #vt.抓住; #vi.掌握
+sprawl: #v.伸开手脚
+sway: #v.摇摆
+spring: #v.跳跃
+footbeat: #n.跺脚
+
+## 生产
+industrial: #adj.工业的
+practical: #adj.实践的;实用的
+instrument: #n.仪器
+instrumental: #adj.仪器的,器械的
+textile: #adj.纺织的; #n.纺织品
+outfit: #n.装备;用具
+mine: #n/v.采矿
+gear: #n.齿轮
+fixture: #n.固定装置
+monitor: #v.监视,监听
+device: #n.器械,装置;设计
+equipment: #n.设备
+cement: #n.水泥,粘合物; #vt.接合
+pivot: #n.轴
+axis: #n.轴
+release: #n/vt.发行
+load: #n.负荷; #v.装载
+behave: #v.运转
+erect: #v.建设
+raise: #vt.养殖
+manipulate: #vt.操作;操纵
+construct: #vt.建造,构造
+convey: #vt.运输
+fabricate: #vt.制造
+manufacture: #vt.制造
+conserve: #vt.贮藏
+hoist: #n.吊车; #v.升起,提起
+concrete: #n.水泥
+mill: #vt.压榨机;磨粉机(磨坊)
+
+## 生活
+domestic: #adj.家内的
+idyllic: #adj.田园诗的
+scale: #n.秤
+furniture: #n.家具
+rubbish: #n.垃圾
+trash: #n.垃圾
+hurdle: #n.篱笆
+sustenance: #n.生计
+nostalgia: #n.思乡;怀旧
+singe: #n.烧焦
+baggage: #n.行李
+outing: #n.郊游,远足
+regimen: #n.养生法
+slag: #n.渣仔
+sojourn: #vi.逗留;寄居
+dwell: #vi.居住
+baby-sit: #vi.看管婴儿
+tease: #vt.戏弄
+inhabit: #vt.居住于;栖息于
+scorch: #vt.烤焦
+nurture: #vt.养育
+reside: #vi.居住
+resident: #adj.常驻的,居住的
+
+## 土地
+deserted: #adj.荒废的
+desolate: #adj.荒凉的
+bleak: #adj.荒凉的
+sterile: #adj.贫瘠的;不育的
+barren: #adj.贫瘠的;不育的 #n.荒地
+agrarian: #adj.耕地的;有关土地的
+clay: #n.黏土
+clod: #n.土块
+
+## 外表
+stodgy: #adj.躯体笨重的
+stout: #adj.矮胖的
+obese: #adj.肥胖的;硕大的
+corpulent: #adj.肥胖的
+shabby: #adj.衣衫褴褛的;破旧的
+ragged: #adj.衣衫褴褛的;破烂的
+bald: #adj.秃头的,光头的
+aspect: #n.样子,外表
+costume: #n.服装
+attire: #n.服装
+outfit: #n.服装
+garb: #n.服装,装束
+strap: #n.皮带
+guise: #n.外观;装束
+clothing: #n.衣服
+array: #vt.装扮
+cosmetics: #n.化妆品
+suit: #n.套装
+sole: #n.鞋底
+
+## 休息
+drowsy: #adj.昏昏欲睡的
+nap: #n/v.小憩
+recreation: #n.消遣
+lull: #n.歇息
+beguile: #vi.消遣
+doze: #vi.瞌睡
+bask: #vt.取暖;曝日
+
+##预知
+fateful: #adj.预言性的
+estimable: #adj.可估计的
+apt: #adj.有..倾向的
+promising: #adj.有前途的,有希望的
+provident: #adj.有远见的
+prospect: #n.前景;期望
+prospective: #adj.预期的
+perspective: #n.远景
+auspices: #n.征兆
+precursor: #n.趋势
+prediction: #adj.预言;预报
+surmise: #vt.臆测
+foretell: #vt.预言
+foresee: #vt.预知
+foresight: #n.远见
+current: #n.趋势
+forecast: #n.先见;预测
+
+## 灾难与不幸
+disaster: #n.灾难
+helpless: #adj.无助的
+disastrous: #adj.灾难性的;悲惨的
+unfortunately: #adv.不幸地
+calamity: #n.不幸之事;灾难
+holocaust: #n.大屠杀
+carnage: #n.大屠杀,残杀
+cataclysm: #n.大灾难;大洪水
+avalanche: #n.雪崩
+catastrophe: #n.异常的灾难; #使得灾祸.
+plague: #n.疫病;灾祸 #v.折磨,使苦恼
+casualty: #n.意外伤亡;事故
+mishap: #n.灾祸;不幸
+adversity: #n.不幸;逆境
+afflict: #vt.使痛苦;使折磨
+
+## 致命
+defunct: #adj.死的
+lethal: #adj.致命的
+deadly: #adj.致命的
+demise: #n.死亡
+choke: #n.窒息 #v.使窒息
+smother: #v.使窒息;闷死
+expire: #vi.断气
+mortal: #adj.终有一死的; #n.凡人
+
+# 31 心理
+## 傲慢
+
+
+
+## 悲伤
+## 吃惊
+## 动机
+## 恶意
+## 烦躁
+## 愤怒
+## 感觉
+## 高兴
+## 好奇
+## 焦急
+## 沮丧
+## 恐惧
+## 狂热
+## 满意
+## 梦想
+## 情感
+## 热情
+## 态度
+## 犹豫
+## 憎恨
+
+# 32 行为
+## 帮助
+## 保护
+## 抽象行为
+## 处理
+## 促进
+## 得到
+## 躲避
+## 反抗
+## 反叛
+## 否定
+## 服从
+## 负面效果或行为 
+## 改良
+## 干涉
+## 跟踪
+## 固定
+## 观察
+## 坚持 
+## 揭示
+## 控制
+## 理解
+## 掠夺
+## 迷惑
+## 判断
+## 破坏
+## 强迫
+## 勤奋
+## 忍受
+## 认可
+## 失误
+## 思考
+## 探索
+## 拖延
+## 习惯
+## 限制
+## 学习
+## 遗留
+## 运动
+## 战胜
+
+# 33 h语言
+## 诽谤
+## 讽刺
+## 呼喊
+## 建议
+## 交流
+## 夸大
+## 命令
+## 批评
+## 说话
+## 说明
+## 协商
+## 争论
+
+# 34 属性
+## 安静
+sedate: #adj.安静的
+tranquil: #adj.安静的
+placid: #adj.安静的
+static: #adj.静的
+serene: #adj.平静的;沉静的
+serenity: #n.安静;从容
+still: #adj.静止的
+lull: #vt.使平静
+
+## 肮脏
+disgraced: #adj.不光彩的;丢人的
+dingy: #adj.肮脏的
+messy: #adj.凌乱的
+slovenly: #adj.不洁的
+frowzy: #adj.不整洁的;臭的
+obscene: #adj.猥亵的
+indecent: #adj.淫猥的
+impure: #vt.脏的,不纯洁的
+blemish: #n/vt.玷污
+smear: #vt.弄脏
+defile: #vt.弄污
+spot: #vt.玷污 #n.污点
+
+## 不合适
+incompetent: #adj.不称职的
+unbecoming: #adj.不配的,不适当的
+inept: #adj.不适宜的
+unseemly: #adj.不适宜的
+ineligible: #adj.无资格的;不适当的
+impropriety: #n.不适当
+
+## 程度
+fervent: #adj.自然的;强烈的
+rough: #adj.大致的
+roughly: #adv.概略地;粗糙地
+intensive: #adj.密集的;加强的
+exorbitant: #adj.过分的;过度的
+probable: #adj.很可能的,大概
+violent: #adj.激烈的
+drastic: #adj.激烈的
+dead: #adv.安全地
+deadly: #adj.极度的
+sharp: #adj.极剧的
+categorical: #adj.绝对的,无条件的
+impetuous: #adj.猛烈的
+vehemence: #adj.猛烈的;激烈的
+burning: #adj.强烈的
+complete: #adj.完全的 #vt.完成
+completely: #adv.十分,完全地
+inordinate: #adj.无节制的;过度的
+considerable: #adj.相当的
+substantial: #adj.相当的
+grossly: #adv.非常
+extremely: #adv.极端地,非常地
+nearly: #adv.几乎
+virtuelly: #adv.几乎
+hardly: #adv.几乎不
+barely: #adv.仅仅
+profoundly: #adj.
+clean: #adv.安全地
+entirely: #adv.完全地
+utterly: #adv.完全地;彻底地
+somewhat: #adv.有点
+fairly: #adv.相当地
+absolute: #adj.绝对的
+radical: #adj.根本的,基本的;激进的
+
+## 纯
+sheer: #adj.纯粹的;全然的
+pure: #adj.纯洁的
+unblemished: #adj.洁白的,无瑕的
+innocent: #adj.清白的
+impeccable: #adj. 无瑕的
+perfect: #adj.完好无损的
+virtuous: #adj.贞洁的
+chaste: #adj.贞洁的;纯正的
+
+## 大
+colossal: #adj.巨大的
+spacious: #adj.广大的;宽敞的
+expansive: #adj.广阔的;可扩张的,可膨胀的
+prodigious: #adj.巨大的
+massive: #adj.巨大的
+enormous: #adj.巨大的
+mighty: #adj.巨大的
+vast: #adj.巨大的,大量的
+tremendous: #adj.巨大的,惊人的
+immense: #adj.巨大的;无限的
+titanic: #adj.巨大有力的
+commodious: #adj.宽敞的
+broad: #adj.宽的;广泛的
+loose: #adj.宽松的
+bulky: #adj.庞大的;笨重的
+capacious: #adj.容量大的;宽敞的
+
+## 方位
+
+
+## 公正
+## 合适
+## 尖刻
+## 精巧
+## 距离
+## 肯定
+## 空
+## 明显
+## 普遍
+## 事无属性
+## 数量
+## 特殊
+## 危险
+## 味道
+## 物理属性
+## 小
+## 虚幻
+## 需要
+## 真实
+## 重要
+## 壮丽
+
+
+# 35 状态
+## 变化
+diverse: #adj.不同的
+diversity: #vt.使多样化
+fickle: #adj.多变的
+manifold: #adj.多样的;多方面的
+lavish: #adj.丰富的
+profuse: #adj.极其丰富的
+vary: #vt.改变
+variation: #n.变化
+variant: #adj.不同的
+mutation: #n.变化
+transition: #n.转变;过渡
+transform: #vt.变换
+enrich: #vt.丰富
+convert: #vt.转换
+copious: #adj.丰富的
+
+## 冲突
+hostile: #adj.敌对的,不友好的
+diverge: #vt.分歧;差异
+divergent: #adj.分叉的;分歧的
+belligerent: #adj.好战的
+repulsive: #adj.排斥的
+offensive: #adj.无礼的;攻击性的
+strife: #n.冲突
+feud: #n.世仇 #vi.不合
+struggle: #n/vi.竞争;奋斗
+strike: #v. 打击
+contend: #v.奋斗
+compete: #vi.竞争
+frown: #vi.皱眉;反对
+parallel: #vt.匹敌
+tantalize: #vt.使..着急
+rival: #vt.竞争;匹敌
+assail: #vt.猛击;决然面对
+fulminate: #vi.猛烈爆发
+baste: #vt.殴打;公开责骂
+repulse: #vt.排斥
+repel: #vt.排斥
+emulate: #vt.努力赶上或超过
+punch: #vt.重击
+thump: #vt.重击
+adverse: #adj.敌对的;不利的
+impact: #v.冲击
+admonish: #vt.警告
+
+
+## 穿透
+stab: #v/n.刺;戳
+sheathe: #vt.将刀剑入鞘
+insert: #vt.插入
+pierce: #vt.穿透
+transfix: #vt.刺穿
+impale: #vt.刺穿
+penetrate: #vt.刺穿;进入
+interject: #vt.突然插入
+punch: #vt.打孔
+
+## 发展
+successful: #adj.成功的
+incipient: #adj.初期的
+initiate: #vt.开始;创始
+initial: #adj.初始的
+foremost: #adj.最初的
+original: #adj.最初的
+originally: #adv.本来;最初
+primary: #adj.最初的
+eventual: #adj.最后的
+ultimate: #adj.最后的
+final: #adj.最后的
+progress: #n/v.前进;发展
+triumph: #n.成功
+culmination: #n.顶点
+peak: #n.高峰;尖端
+phase: #n.阶段
+condition: #n.条件;状况
+status: #n.状况
+result : #n.结果
+headway: #n.进展
+onset: #n.开始
+halt: #v.停止
+develop: #v.发展;产生;成长
+resume: #v.继续
+exit : #v.退出
+climax: #v.使达到高潮 #n.高峰;顶点
+emerge: #vi.出现
+proceed: #vi.进行
+commence: #vi.开始
+vanish: #vi.消失
+launch: #vt.发动
+engender: #vt.产生
+beget: #vt.引起;产生
+generate: #vt.造成
+terminate: #vt.终止
+accomplished: #adj.完成的
+conclude: #vi.结束
+conclusive: #adj.决定性的;最后的
+advance: #vt.使前进;提出
+achieve: #vt.完成;实现;达到
+
+
+## 分离
+detach: #vt.分开;离开
+detached: #adj.分离的
+solitude: #n.与外界隔绝
+sever: #vt.分开;断绝
+rend: #vt.分离
+segregate: #vt.隔离,分离
+disunite: #vt.使分离
+scatter: #vt.使分散
+
+## 缓和
+cushion: #vt.缓解 #n.垫子
+soothe: #v.安慰;缓和;减轻
+relax: #vt.放松;松弛
+placate: #vt.安抚
+console: #vt.安慰
+assuage: #vt.缓和
+mollify: #vt.缓和
+mitigate: #vt.缓和;减轻
+slacken: #vt.使松弛
+pacify: #vt.镇定;抚慰
+
+
+## 恢复
+rally: #n/v.恢复
+revive: #v.复兴;复苏
+revert: #v.回复
+retract: #v.收回;撤回
+retrieve: #v.重新找回
+energize: #vt.供能;使活跃
+restore: #vt.恢复
+rehabilitate: #vt.恢复
+recover: #vt.恢复
+revoke: #vt.取消
+refresh: #vt.使清新 #vi.恢复精神
+
+## 混乱
+intricate: #adj.错综复杂的;难懂的 
+complex: #adj.复杂的 #n.综合体
+disarray: #n/vt.杂乱;混乱
+confuse: #vt.混淆
+jumble: #v.混杂
+shuffle: #vt.搅乱;混合
+complicate: #vt.使复杂;使陷入
+befuddle: #vt.使混乱
+muddle: #vt.使混乱
+
+## 聚集
+assemble: #vt.聚集
+assembly: #n.集会
+party: #n.团体;一伙
+association: #n.协会
+gather: #v.聚集;集合
+attend: #vt.参加
+convene: #vt.集合
+congregate: #vt.聚集
+accompany: #vt.伴随
+
+## 扩大
+sprawl: #v.蔓延 #n.扩展
+broaden: #v.放宽
+swell: #v.膨胀
+expand: #vi.扩张
+dilate: #vt.使膨胀;使扩大
+augment: #vt.增大;增加
+
+
+## 粘附
+stick: #vi.粘住
+sticky: #adj.粘连的
+attachment: #n.连接物,附件
+cohere: #vi.附着
+cling: #vi.粘附
+adhere: #vi.粘着;坚持
+adherent: #adj.依附的; #n.追随者;信徒
+
+## 频率
+constant: #adj.不变的;持续的
+incessant: #adj.不断的
+coherent: #adj.连贯的
+]incoherent: #adj.不连贯的
+ceaseless: #adj.不停的
+speedy: #adj.迅速的
+swift: #adj.快速的
+successive: #adj.连续的
+consecutive: #adj.连续的
+prompt: #adj.迅速的
+fitful: #adj.一阵阵的,断断续续的
+continually: #adv.不断地
+gradually: #adv.逐渐地
+haunt: #vt.常到
+frequency: #n.频率;周率;发生次数
+
+## 缺乏
+insufficient: #adj.不足的;不够的
+scanty: #adj.贫乏的
+meager: #adj.贫乏的;不足的
+needy: #adj.贫穷的
+stingy: #adj.缺乏的
+devoid: #adj.缺乏的
+scarce: #adj.缺乏的;不足的
+forfeit: #vt.丧失 #adj.丧失了的
+
+## 衰弱
+degenerate: #adj.堕落的 #vi.退步
+decadence: #n.衰落;颓废
+decline: #v.衰落
+languish: #vi.变衰弱
+ebb: #vi.衰退
+flag: #vi.衰退;减弱
+deplete: #vt.耗尽,使衰弱
+degrade: #vt.使..降级;使堕落
+enervate: #vt.使衰弱
+
+## 随机
+informal: #adj.不拘礼节的;随便的
+indefinite: #adj.不明确的;不定的
+casual: #adj.非正式的;随便的
+potential: #adj.可能的;潜在的
+contingent: #adj.可能发生的
+dispensable: #adj.可有可无的
+occasional: #adj.偶然的
+fortuitously: #adv.偶然地;以外地
+haphazard: #adj.偶然的;随便的
+random: #adj.任意的;随便的
+doubtful: #adj.未确定的;不可靠的
+lottery: #n.碰巧之事
+accidental: #adj.偶然的
+
+
+## 缩减
+constrict: #v.使收紧;压缩
+dwindle: #vi.减少
+detract: #vi.去掉;减损
+contract: #vi.收缩
+reduce: #vt.减少;简化
+diminish: #vt.减少;缩小
+curtail: #vt.缩减
+indent: #vt.缩进(用于排版)
+subtraction: #n.减少
+
+## 稳定性
+erratic: #adj.不稳定的
+stable: #adj.稳定的
+unstable: #adj.不稳定的;不牢固的
+steady: #adj.稳固的; #vt.使..稳定
+steadily: #adv.稳定地; 有规则地
+poise: #n.平衡;稳定
+
+## 物理属性变化
+ascent: #n.上升
+descent: #n.下降
+extend: #v.扩充,延伸
+extension: #n.延伸
+hike: #v.上升
+hoist: #v.升起 #n.起重机
+stretch: #v.伸展,伸长
+transform: #vt.明显地改变..的外观或形状
+deform: #vt.使变形
+elevate: #vt.抬高
+sharpen: #vt.削尖
+enhance: #vt.增加
+abate: #v.减少
+accumulate: #vt去.积累
+amplify: #vt.放大;增强
+amplification: #n.扩大
+
+## 物理状态 
+stuffy: #adj.闷热的;不通风的
+tilted: #adj.倾斜的
+regularly: #adv.有规律地;整齐地
+coil: #v.卷;盘绕; #n.盘绕
+slope: #vt.使倾斜; #n.斜面
+slant: #vt.使倾斜; #n.斜面
+protrude: #v.使..突出
+rotate: #v.使..旋转
+roll: #v.滚动
+dangle: #v.悬挂
+project: #v.凸出;投射
+encompass: #vt.包围,环绕;包含
+active: #adj.活跃的;活动的
+hump: #vi.隆起
+tower: #vi.屹立,高耸
+spin: #v.旋转
+concave: #adj.凹的; #n.凹,凹面
+convex: #adj.凸起的,表面弯曲如球的
+pitch: #n.程度;斜度
+
+## 吸引
+glamor: #n.
+glamorous: #adj.
+catching: #adj.
+engross: #vt.
+engrossed: #adj.全神贯注的
+attractive: #adj.有魅力的,吸引人的
+conspicuous: #adj.引人瞩目的的
+inviting: #adj.诱人的,引人注目的
+bait: #n.诱饵
+charisma: #.魅力;感召力
+draw: #v.吸引,拉
+enrapture: #vt.使出神
+induce: #vt.导致,诱使
+intoxicate: #vt.使陶醉
+lure: #vt.诱使
+entice: #vt.诱惑
+tempt: #vt.诱使
+addict: #vt.对..有瘾
+addicted: #adj.上瘾的
+absorb: #vt.吸收;吸引
+absorbing: #adj.引人入胜的
+ 
+## 虚弱
+delicate: #adj.脆弱的
+pitiful: #adj.可怜的
+fragile: #adj.脆的
+emaciate: #vt.使瘦弱
+emaciated: #adj.瘦弱的;憔悴的
+flimsy: #adj.脆弱的;薄弱的
+fragmentary: #adj.碎片的;不连续的
+frail: #adj.虚弱的;脆弱的
+brittle: #adj.易碎的
+slender: #adj.苗条的;微弱的
+impotentce: #n.无力;虚弱
+limp: #adj.柔软的;无力的
+
+## 隐藏
+cryptic: #adj.神秘的,隐藏的
+secluded: #adj.隐蔽的,隐退的
+seclusion: #n.归隐;隔离
+dissemble: #v.隐藏;伪装
+lurk: #vi.躲藏
+sneak: #vi.潜行
+conceal: #vt.把..藏起来
+feign: #vt.假装
+pretend: #vt.伪装
+simulate: #vt.伪装;扮演
+hide: #v.隐藏
+obscure: #vt.掩盖
+screen: #vt.遮蔽
+==kk2======================

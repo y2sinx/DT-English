@@ -34,6 +34,41 @@ warden: 监狱长
 convict: 犯人
 broke: 破产的
 BFF: Best friend forever
+setup: 圈套
+salvation: 救星
+shenanigans: 诡计
+self-pity: 自怨自艾
+mummy: 妈咪;木乃伊
+perverb: 变态
+fetish: 恋物癖
+tenderness: 温柔
+autism: 自闭症
+caregiver: 护理员
+healthcare: 医疗保健
+guardian: 监护人;守护神
+tampon: 棉条(月经用品)
+jinx: 扫把星
+singe: 烧焦
+circus: 马戏团
+scumbag: 避孕套;人渣
+crucify: 将..钉死在十字架
+pox: 痘,疹子
+smallpox: 天花
+cowpox: 牛痘
+sneak: 告密者
+dried-up: 干涸的;年老干瘪的
+arsenic: 砷
+ladybug: 瓢虫
+werewolf: 狼人
+laymen: 外行,非专业人士 
+gut: 肠子,内脏;直觉
+outsmart: 比..更聪明,用计谋胜过
+taxidermist: 动物制标师(制作标本的人)
+
+single losers: 单身狗们
+chestnut: 栗子
+burial: 埋葬;葬礼
+
 
 
 

@@ -197,22 +197,450 @@ Life is short, death is sure. % 人生苦短(苦于人生太短).
 That's all I ask. % 除此别无所求.
 Congrats. % 恭喜(=Congratulations).
 Leave it. % 放着别管了. 
+You must go on. % 你必须坚持下去 
+My phone is dead. % 我的手机没电了
+Where am I? % 我现在在哪?
+It will be fine. % 不会有事的.
+Take it or leave it. % 要么接受要么放弃,不容讨价还价.
+This isn't working. % 这样并不行.
+I'm OK with that. % 我对那没意见.
+You got this. % 你行的.
+What do you do? % 你做什么工作?
+May I ask you a favour? % 我可以求你帮个忙么? 
+I'm in love with Gary. % 我爱上Gary了.
+Why are you still here? % 你怎么还在这?
+I'm gonna die. % 我快要死了.
+Are you in pain? % 你痛么?
+You may exit. % 你可以退下了
+Not again! % 别再来一次了(别这样,抱怨预感要发生的事)
+Listen carefully. Do as I say. % 听好了,按我说的去做.
+Grow up,you two. % 你们两个成熟点.
+Are you thinking what I thinking? % 你想的跟我想的一样么?
+No one will notice. % (自言自语鼓励自己)没有人会注意到自己.
+What was that for? % 这是为什么?(你打我干嘛?)
+Is this really necessary? % 这真的有必要么?
+You make me sick. % 你让我恶心.
+Kiss kiss hug hug. % 亲亲抱抱.
+Oh,come on. % 奥,别这样(抱怨发生了的事情).
+So far, so good. % 目前为止一切安好.
+Terry,Terry,your brother's on the phone. % 
+He's a terrible person. % 他是个烂人.
+Can I see you again? % 我还能再见到你么(对一见钟情的人说)?
+Is this a fucking joke? % 这特么在开玩笑么?
+Come with me. % 跟我来.
+Was she blind or desperate? % 她是瞎了还是对生活绝望了(才做某件事)?
+Are you trying to scare me? % 你想吓唬我么?
 
 ##单词+词组
-setup: 圈套
-salvation: 救星
-shenanigans: 诡计
-self-pity: 自怨自艾
 
 
-the best view in town: 小镇最好的风景
-time after time: 一次又一次
-take a breath: 深呼吸
-take sb's life: 取某人的性命
-serial number: (抢上的)序列号 
-start over: 重新开始
-Great Lakes: 北美五大湖, Superior,Michigan,Huron,Erie,Ontario.
- 
+
+
+% 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
+ % 
  % 
  % 
  % 
