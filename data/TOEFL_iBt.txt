@@ -2580,7 +2580,7 @@ downhearted: #adj.无精打采的
 daze: #vt.使发昏,茫然; #n.昏晕
 intuition: #n.直觉
 starve: #v.挨饿
-hunger: #v/n.饥饿
+hunger: #n/v.饥饿
 famish: #vt.使挨饿
 exhaust: #vt.使疲倦
 gorge: #vt.赛饱
@@ -2665,7 +2665,7 @@ desirous: #adj.渴望的
 desirable: #adj.理想的,如意的
 aspire: #vi.热望
 aspiration: #n.热望,渴望
-hunger: #v/n.渴望
+hunger: #n/v.渴望
 long: #vi.渴望
 crave: #vt.渴求
 realize: #vt.实现
@@ -2748,7 +2748,6 @@ resent: #vt.憎恶
 abhor: #vt.憎恶
 abhorrent: #adj.可恶的,可恨的
 
-==kk1=====================
 # 32 行为
 ## 帮助
 benevolent: #adj.
@@ -2778,24 +2777,281 @@ salvage: #vt.
 save: #vt.
 adopt: #vt.
 
-
 ## 保护
+assert: #vt.维护
+preserve: #vt.保存
+retain: #vt.保留
+shield: #vt.保护
+defend: #vt.防护
+escort: #vt.护送
+convoy: #vt.护送
+safeguard: #vt.保卫,维护
+
 ## 抽象行为
+behave: #v.举止端正
+behavior: #n.行为
+conduct: #v.行为
+deport: #vt.举止
+abstract: #adj.抽象的
+abstraction: #n.抽象概念
+action: #n/v.行动
+
 ## 处理
+shift: #n/v.转移;替换
+dissipate: #vt.
+deal: #vt.
+dispose: #vt.
+bestow: #vt.
+exert: #vt.
+displace: #vt.
+tackle: #vt.
+transact: #vt.
+discard: #vt.
+utilize: #vt.
+harness: #vt.
+arrange: #vt.
+reject: #vt.
+cancel: #vt.取消
+undo: #vt.取消
+delete: #vt.删除
+contrive: #vt.设计
+implement: #vt.实现
+effectuate: #vt.使实现
+glean: #vt.收藏
+purge: #vt.消除
+erase: #vt.消除
+eradicate: #vt.根除
+efface: #vt.消除
+despatch: #vt.迅速处理
+forsake: #vt.抛弃,摒绝
+adopt: #vt.采用
+process: #vt.处理
+scrap: #vt.废弃
+abandon: #vt.抛弃,放弃
+jettison: #vt.抛弃,丢弃
+
+==kk1=====================
 ## 促进
+impulsive: #adj.推动的
+hasten: #v.催促;赶紧
+urge: #v.推进;催促
+prod: #vt.刺激
+stimulate: #vt.刺激;激励
+promote: #vt.促进
+further: #vt.促进,增进
+elicit: #vt.得出,引出
+instigate: #vt.鼓励
+encourage: #vt.鼓励
+inspire: #vt.鼓舞,激发
+evoke: #vt.唤起
+arouse: #vt.唤起
+kindle: #vt.激起
+intensify: #vt.加强
+fortify: #vt.加强
+propel: #vt.推进,促进
+foment: #vt.引发
+incite: #vt.引起;激动;煽动
+impulse: #v.推动
+spur: #vt.刺激,鞭策
+prompt: #vt.鼓动
+
 ## 得到
+due: #vt.应得的; #n.应得物
+attainment: #n. 成就
+gain: #v.得到
+obtain: #vt.得到
+seize: #vt.夺取,捕获
+redeem: #vt.取回,赎回
+procure: #vt.获得,取得
+acquire: #vt.获得
+acquisitive: #adj.可获得的
+
 ## 躲避
+elude: #vt.躲避
+elusive: #adj.躲避的
+sly: #adj.躲躲闪闪的
+evade: #vt.逃避,回避
+evasive: #adj.逃避的,退位的
+evasion: #n.逃避
+escape: #v.避免;逃避
+shun: #vt.避开
+eschew: #vt.避开;远离
+avoid: #vt.避免,回避
+dodge: #vt.躲开;逃避责任
+avert: #vt.转移;避免
+
 ## 反抗
+insubordinate: #adj.不服从的
+defiant: #adj.大胆反抗的
+opposed: #adj.反对的
+rebellion: #n.反抗
+resist: #v.抵抗
+demur: #vi.抗议
+traverse: #vt.反对
+defy: #vt.蔑视,反抗
+
 ## 反叛
+outrageous: #adj.暴乱的
+turbulent: #n.骚动的,骚乱的
+riot: #n.暴乱,骚动
+defection: #n.背叛,缺陷
+uprising: #n.叛乱
+uproar: #n.骚动
+turmoil: #n.骚动,混乱
+treason: #n.通敌,叛国贼
+rebel: #vi.谋反
+rebellion: #n.造反,叛乱
+betray: #vt.背叛
+subvert: #vt.颠覆,推翻
+plot: #vt.密谋,策划
+overturn: #v.推翻,颠倒
+
 ## 否定
+exclusion: #n.拒绝
+decline: #v.拒绝
+relinquish: #vt.放弃
+renounce: #vt.放弃,否认
+gainsay: #vt.否认
+deny: #vt.否认
+disclaim: #vt.否认
+reject: #vt.拒收
+
 ## 服从
+submit: #vi.服从
+submissive: #adj.顺从的
+submission: #n.服从
+subjection: #n.服从
+obedience: #n.服从,顺从
+succumb: #vi.屈服
+enthrall: #vt.使服从
+defer: #vi.服从,屈服
+
 ## 负面效果或行为 
+lash: #v.鞭打
+sustain: #vt.遭受
+pervert: #vt.曲解;导入邪途
+coddle: #vt.娇养,溺爱
+entail: #vt.使负担,惹起
+inflict: #vt.使遭受(损伤,痛苦等)
+distort: #vt.歪曲
+abuse: #vt.滥用
+
 ## 改良
+correct: #vt.纠正; #adj.正确的
+innovation: #n.改革,革新
+modify: #vt.修改
+modification: #n.更改
+ornament: #n.装修,装饰
+coax: #vt.耐心调理
+gild: #vt.虚饰
+modulate: #vt.调整
+mend: #vt.改正;改进
+renovate: #vt.革新
+substantiate: #vt.加强
+strengthen: #v.加强,巩固
+reinforce: #vt.加强
+garnish: #vt.加装饰
+embellish: #vt.装饰
+embroider: #vt.装饰
+temper: #v.缓和
+adjust: #vt.调节
+refine: #vt.精炼
+
 ## 干涉
+conciliatory: #.善于调解的
+hurdle: #n.障碍
+barrier: #n.栅栏,屏障
+barricade: #n.障碍物
+obstacle: #n.障碍
+snag: #n.障碍
+forestall: #v.预先阻止
+intercede: #vi.调停,请求
+intercept: #vt.中途拦截;阻止
+intervene: #vi.干涉
+interface: #vi.干涉,干预;妨碍
+meddle: #vi.干预
+tamper: #vi.干预
+mediate: #vt.调停
+balk: #vt.妨碍
+hinder: #vt.妨碍
+hamper: #vt.妨碍
+handicap: #vt.妨碍;使不利
+incapacitate: #vt.使不能
+prevent: #vt.阻碍
+clog: #vt.阻碍
+stunt: #vt.阻碍
+encumber: #vt.阻碍
+obstruct: #vt.阻碍
+foil: #vt.阻止
+block: #vt.阻碍
+
 ## 跟踪
+trace: #n.痕迹 #vt.跟踪,追溯
+vestige: #n.痕迹,遗迹
+stalk: #v.跟踪猎物
+entrap: #vt.以网或陷阱捕捉
+
 ## 固定
+stationary: #adj.固定的
+immobile: #adj.固定的
+fix: #v.固定
+fixed: #adj.固定的
+solidly: #adv.牢固地
+locate: #vt.设置;使位于
+bear: #vt.支撑
+install: #vt.安装;设置
+set: #vt.放置 #adj.固定的
+sustain: #vt.支撑,维持
+brace: #vt.支持,使固定 #n.支撑物
+
 ## 观察
+perceive: #vt.察觉到,看见
+perceptive: #adj.感觉敏锐的,观察入微的
+detect: #vt.探测,发觉
+detectable: #adj.可发觉的,可看穿的
+discernible: #adj.可觉察的
+inquiry: #n.调查研究
+onserve: #vt.看到
+observation: #n.观察
+perspective: #n.透视;观点
+insight: #n.洞察力,见识
+invesigate: #v.调查,研究
+pierce: #vt.洞察
+survey: #vt.调查;遵守
+scan: #vt.浏览,扫描
+skim: #vt.略读
+spot: #vt.认出
+identify: #vt.认出
+realize: #vt.认识到
+scrutinize: #vt.细察
+locate: #vt.找出
+
 ## 坚持 
+irreconcilable: #adj.不能妥协的
+indomitable: #adj.不屈不挠的
+sturdy: #adj.不屈的,顽强的
+obstinate: #adj.固执的
+bigoted: #adj.固执己见的
+persistent: #adj.坚持不懈的
+inflexible: #adj.坚定的
+steadfast: #adj.坚决的,不变的
+unshaken: #adj.坚决的,不动摇的
+durable: #adj.耐久的,耐用的
+tough: #adj.强硬的,坚韧的,粗暴的
+headstrong: #adj.顽固的
+stubborn: #adj.顽固的
+tenacious: #adj.抓住不放的,顽强的
+resolute: #adj.坚决的
+hardheaded: #adj.顽固的
+stoically: #adv.坚韧地
+fortitude: #n.坚忍,刚毅
+resist: #v.坚持
+remain: #vi.保持,逗留
+persevere: #vi.坚持,不屈不挠
+perseverance: #n.坚定不移
+maintain: #vt.坚持(认为)
+insist: #vt.主张;坚持说
+
 ## 揭示
 ## 控制
 ## 理解
@@ -2828,8 +3084,8 @@ malign: #vt.诋毁,诽谤
 defame: #vt.诽谤,损毁名誉
 disparage: #vt.轻视,毁谤
 humiliate: #vt.使屈辱,贬抑
-slander: #vt/n.造谣,诽谤
-insult: #vt/n.侮辱,凌辱
+slander: #n/vt.造谣,诽谤
+insult: #n/vt.侮辱,凌辱
 
 ## 讽刺
 satirical: #adj.讽刺的
@@ -2838,7 +3094,7 @@ sarcastic: #adj.讽刺的,挖苦的
 sarcasm: #n.讽刺,挖苦
 cynical: #adj.讽刺的,冷嘲热讽的
 mock: #n.嘲弄 #vt.嘲弄,挖苦
-taunt: #vt/n.嘲笑
+taunt: #n/vt.嘲笑
 jeer: #vi.揶揄,嘲笑
 flout: #vt.嘲弄
 sneer: #vt.嘲笑
@@ -2919,7 +3175,7 @@ denounce: #vt.谴责,声讨
 condemn: #vt.谴责
 berate: #vt.痛骂
 rap: #vt.责难
-rebuke: #vt/n.斥责
+rebuke: #n/vt.斥责
 blame: #n/vt.谴责
 repudiate: #vt.批判
 
@@ -2941,7 +3197,7 @@ solicit: #v.恳求
 declaim: #v.朗诵;演讲
 confide: #v.倾诉
 refre: #v.提到
-chat: #v/n.闲谈
+chat: #n/v.闲谈
 grumble: #vi.喃喃诉苦
 equivocate: #vi.支支吾吾,说模棱两可的话
 coax: #vt.哄
@@ -2992,12 +3248,12 @@ placate: #vt.安抚
 ## 争论
 eloquent: #adj.雄辩的,有口才的
 eloquence: #n.雄辩
-debate: #vi/n.争论,辩论
+debate: #n/vi.争论,辩论
 debatable: #adj.争论中的,未决定的
 squabble: #n.口角,争论
-dispute: #vi/n.争论,辩论
+dispute: #n/vi.争论,辩论
 retort: #v.反驳
-brawl: #vi/n.争吵
+brawl: #n/vi.争吵
 bicker: #vi.争论
 haggle: #v.争论
 gainsay: #vt.反驳
@@ -3499,7 +3755,7 @@ admonish: #vt.警告
 
 
 ## 穿透
-stab: #v/n.刺;戳
+stab: #n/v.刺;戳
 sheathe: #vt.将刀剑入鞘
 insert: #vt.插入
 pierce: #vt.穿透
