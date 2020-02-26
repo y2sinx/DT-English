@@ -3055,26 +3055,331 @@ insist: [vt]主张;坚持说
 
 
 ## 揭示
+implicit: #adj.暗示的
+reflection: #n.反映
+expose: #vt.使暴露
+exposure: #n.曝光
+reveal: #vt.揭露;展现
+revelation: #n.显示
+unveil: #vt.显示
+show: #v.展示
+transpire: #vt.泄露
+profess: #vt.表示
+signify: #vt.表示,意味着
+bare: #vt.露出
+exhibit: #vt.显示
+leak: #vt.泄露
+divulge: #vt.泄露
+denote: #vt.指数;表示
+indicate: #vt.指示;表示
+betray: #vt.泄露
+
 ## 控制
+irrepressible: #adj.不可压制的;难以征服的
+unruly: #adj.难控制的
+operate: #vt.操纵
+handle: #vt.操纵
+
 ## 理解
+intelligible: #adj.可理解的
+evident: #adj.明白的
+explicit: #adj.明确的;清楚的
+elusive: #adj.难懂的
+mysterious: #adj.神秘的;难以理解的
+ignorant: #adj.无知的,不了解的
+ignorance: #n.无知
+grasp: #n/v.领会,理解
+comprehend: #vt.理解
+comprehensive: #adj.综合的;有理解力的
+
 ## 掠夺
+rapacious: #adj.强夺的
+strip: #vt.剥,夺去
+bereave: #vt.剥夺
+loot: #vt.掠夺
+harry: #vt.掠夺;折磨
+ravage: #vt.掠夺
+grind: #vt.折磨;压榨
+torment: #vt.折磨
+
 ## 迷惑
+equivocal: #adj.模棱两可的,意义不清的
+enigma: #n.迷
+enigmatic: #n.像迷般的,神秘的
+maze: #n.迷宫;迷惑
+labyrinth: #n.迷宫;错综复杂的事件
+riddle: #n.谜
+puzzle: #n.难题;谜 #v.使迷惑
+elude: #vt.困惑
+captivate: #vt.迷惑
+enthrall: #vt.迷惑
+bewilder: #vt.迷惑,把..弄糊弄
+perplex: #vt.迷惑,难住
+tangle: #vt.使纠缠,使纠结
+confound: #vt.使糊涂,迷惑
+entangle: #vt.使纠缠;使迷惑
+fascinate: #vt.使迷惑
+blur: #vt.使模糊
+dazzle: #vt.使目眩;使迷惑
+
 ## 判断
+dogmatic: #adj.教条的;武断的
+illegible: #adj.难辨认的
+pending: #adj.未决的
+resolve: #vt.决定
+resolved: #adj.下定决心的
+determine: #vt.决定
+determination: #n.决定;决心
+discretion: #n.判断力
+decide: #v.决定
+deem: #v.认为
+vindicate: #vt.辨明
+discern: #vt.辨明
+assert: #vt.断言,宣称
+conclude: #vt.推断出,断定
+affirm: #vt.断言
+
 ## 破坏
+breakdown: #n.奔溃,倒塌;失败
+collapse: #n/v.倒塌,崩溃
+breach: #n.破裂
+shatter: #n.碎片; #v.粉碎
+scrap: #n.碎片;废料
+fragment: #n.碎片,破片
+fracture: #n/v.断裂
+rupture: #n/v.破裂,决裂
+crumble: #v.粉碎,奔溃
+squash: #v.压碎
+crash: #v.撞碎
+ravage: #vt.破坏
+raze: #vt.摧毁
+demolish: #vt.破坏
+disfigure: #vt.破坏
+frustrate: #vt.破坏;挫败
+smash: #vt.破碎
+devastate: #vt.使荒废;破坏
+devastation: #n.毁坏
+disrupt: #vt.使中断,使分裂
+mangle: #vt.撕裂,毁坏
+spoil: #vt.宠坏;糟蹋
+engulf: #vt.吞没;吞食
+devour: #vt.吞食;毁灭
+crumple: #vt.压皱
+crush: #vt.榨,挤,压碎
+disintegration: #n.瓦解
+rift: #n.裂缝,裂口
+ruins: #vt.毁灭,废墟,遗迹
+
 ## 强迫
+compulsive: #adj.强迫的
+pressure: #n.压迫
+tease: #vt.强求
+compel: #vt.强迫
+constrain: #vt.强迫
+accelerate: #vt.迫使
+
 ## 勤奋
+laborious: #adj.勤劳的
+industrious: #adj.勤勉的
+assiduous: #adj.勤勉的
+diligent: #adj.勤勉的,勤奋的
+serious: #adj.认真的
+cordial: #adj.真诚的,诚恳的
+deliberate: #adj.认真的;故意的
+attempt: #n.努力,尝试 #v.尝试
+effort: #n.努力,成就
+endeavor: #vi.努力
+strive: #vi.努力,奋斗;力求
+
 ## 忍受
+reluctant: #adj.不情愿的
+tolerate: #vt.忍受;宽恕
+tolerable: #adj.可容忍的
+insufferable: #adj.难以忍受的
+undergo: #vt.经历,忍受
+stand: #vt.忍受
+endure: #vt.忍受,容忍
+abide: #vt.忍受
+
 ## 认可
+permit: #vt.允许
+permissible: #adj.可容许的
+permissive: #adj.许可的
+tacit: #adj.心照不宣的,默许的
+reception: #n.接受
+connive: #vi.纵容,默许
+conivance: #n.默许
+concede: #vi.让步;承认
+concession: #n.让步,迁就
+recognize: #vt.认出;承认
+recognition: #n.认识;承认
+nod: #n/v.点头,首肯
+confess: #v.忏悔,坦白
+approve: #v.赞成;批准
+comply: #vi.顺从,应允
+concur: #vi.同一
+avow: #vt.公开承认
+ratify: #vt.批准
+guarantee: #vt.确保
+endorse: #vt.确认;赞同,支持
+corroborate: #vt.确证
+grant: #vt.准予
+admit: #vt.承认
+acknowledge: #vt.承认
+affirm: #vt.批准
+pardon: #vt.原谅,宽恕
+
 ## 失误
+innocent: #adj.幼稚的
+regardless: #adv.不管,不顾
+heedless: #adj.不留心的
+erroneous: #adj.错误的
+neglect: #vt.疏忽;忘记
+negligent: #adj.忽略的
+negligence: #n.过失;疏忽
+slovenly: #adj.马虎的
+credulous: #adj.轻信的
+useless: #adj.无效的
+futile: #adj.无益的;徒劳的
+offhand: #adj.无准备的
+fallible: #adj.易错的
+defect: #n.缺陷
+defective: #adj.有缺陷的
+drawback: #n.弊端
+flaw: #n.缺点;瑕疵
+oblivion: #n.忘却,遗忘
+blunder: #v.犯大错
+expire: #vi.失效
+overlook: #vt.忽略,疏忽
+ignore: #vt.忽视
+omit: #vt.省略;遗漏
+absurd: #adj.荒谬的
+abortive: #adj.失败的
+err: #vi.犯错
+
 ## 思考
+consider: #vt.考虑
+considerate: #adj.考虑周到的
+meditative: #adj.深思的
+tender: #adj.细心的;考虑周到的
+conscious: #adj.有意识的
+recollection: #n.记起,回想
+ruminate: #v.沉思
+speculate: #v.推测;沉思
+ponder: #vt.考虑 #vi.沉思
+embalm: #vt.铭记
+contemplate: #vt.凝视;沉思
+elevate : #vt.提高(思想)
+recall: #vt.忆起,记忆
+haunt: #vt.萦绕于心
+
 ## 探索
+venture: #n/vi.冒险,冒昧
+risk: #n/vt.冒险
+probe: #v.探查
+explore: #v.探险,探索
+seek: #v.寻找,探求
+grope: #vi.摸索
+ferret: #vt.搜索
+
 ## 拖延
+tardy: #adj.延迟的
+perpetuate: #vt.使..永恒,使..延续
+detain: #vt.使延迟
+delay: #vt.推迟,延误
+prolong: #vt.拖长,延长
+protract: #vt.延长
+retard: #vt.延迟
+postpone: #vt.延搁
+defer: #vt.延期
+adjourn: #vt.延期
+
 ## 习惯
+inclined: #adj.倾向..的
+prone: #n.倾向于
+habitually: #adv.习惯地
+bent: #n.爱好;倾向
+aptitude: #n.自然倾向
+propensity: #n.倾向
+trend: #n.倾向;趋势
+penchant: #n.倾向;爱好
+custom: #n.习惯
+accustomed: #adj.习惯的
+interest: #n.兴趣
+tend: #vi.趋向,往往是
+inure: #vt.使习惯
+
 ## 限制
+temperance: #n.节制,自制;戒酒
+bondage: #n.束缚
+deterrent: #n.威慑物,制止物
+neutralize: #v.压制
+check: #v.抑制
+circumscribe: #vt.划界限;限制
+shackle: #vt.加桎梏,束缚
+fetter: #vt.束缚,羁绊
+restrict: #vt.限制
+restrain: #vt.限制
+confine: #vt.限制
+quell: #vt.压制
+curb: #vt.抑制
+bound: #n.限制
+leash: #n/v.束缚
+
 ## 学习
+literate: #adj.有文化的
+chalk: #n.粉笔,白垩 #vt.用粉笔写
+transcript: #n.成绩单
+scholarship: #n.奖学金
+article: #n.文章,论文
+ken: #n.视野,知识
+stationery: #n.文具
+brochure: #n.小册子
+pamphlet: #n.小册子
+credit: #n.学分
+semester: #n.学期
+thesis: #n.学位论文
+discourse: #n.演讲,论文
+margin: #n.页边的空白,栏外
+term: #n.学期;专用名词
+discipline: #v.训练;守纪律 #n.学科
+commence: #vi.获得学位
+cram: #vt.仓促用功
+academic: #adj.学院的;理论的
+
 ## 遗留
+heredity: #n.遗传
+heritage: #n.遗产
+bequest: #n.遗产
+legacy: #n.遗产
+relic: #n.遗迹,废墟,纪念物
+remains: #n.遗迹,遗体
+
 ## 运动
+stray: #adj.漂泊的;走失的
+roam: #n/v.漫步
+stalk: #v.阔步
+rumble: #v.隆隆行驶
+scale: #n/v.攀登
+ascend: #v.攀登,登高
+budge: #v.移动
+locomote: #vi.移动,行动
+traverse: #vt.走过
+stroll: #vt.漫步
+insinuate: #vt.迂回进入
+zigzag: #n.Z字形,锯齿形,蜿蜒曲折
+motion: #v.运动,动作 #v.运动
+
 ## 战胜
+unquenchable: #adj.不可熄灭的,不能遏制的
+lag: #n/vi.落后
+subjection: #n.征服
+overcome: #v.战胜;胜过
+surpass: #vt.超过,超越
+transcend: #vt.超越
+surmount: #vt.克服;登上;越过
+precede: #vt.先于 #vi.领先
+vanquish: #vt.征服,克服
 
 # 33 语言
 ## 诽谤
