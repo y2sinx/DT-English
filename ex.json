@@ -1,25 +1,27 @@
 {
   "still": {
     "adv": [
-      "1. 还,仍然 % ~ hungry",
-      "2. (虽然..)还是 % We searched everywhere but we ~ couldn't find it.",
-      "3. 还要,更(加强比较级) % The next day was warmer ~.",
-      "0. even/much/~ less = 更不用说,更何况 % No explanation was offered, ~ less an apology."
+      "含义1. 还,仍然 % ~ hungry",
+      "含义2. (虽然..)还是 % We searched everywhere but we ~ couldn't find it. 我们搜寻了所有的地方,仍然找不到它.",
+      "含义3. 还要,更(加强比较级) % The next day was warmer ~."
     ],
     "adj": [
-      "1. 静止的,平静的 % ~ water",
-      "2. 无风的 % a ~ summer's day",
-      "3. 不起泡的 % ~ mineral water",
-      "0. the ~ of the night = 宁静的夜晚",
-      "0. ~ waters run deep = 静水流深"
+      "含义1. 静止的,平静的 % ~ water",
+      "含义2. 无风的 % a ~ summer's day",
+      "含义3. 不起泡的 % ~ mineral water"
     ],
     "n": [
-      "1. 剧照,视频的定格画面 % a publicity ~ from his new movie",
-      "2. 蒸馏室 % a whisky ~"
+      "含义1. 剧照,视频的定格画面 % a publicity ~ from his new movie",
+      "含义2. 蒸馏室 % a whisky ~"
     ],
     "vt": [
-      "1. 使..平静下来,使..静止 % the wind ~ed, to ~ the frightened child",
-      "0. to ~ sb's doubts/fears = 消除某人的疑虑/恐惧"
+      "含义1. 使..平静下来,使..静止 % the wind ~ed, to ~ the frightened child"
+    ],
+    "idiom": [
+      "习语1. even/much/~ less: 更不用说,更何况 % No explanation was offered, ~ less an apology.",
+      "习语2. in the ~ of the night: 在宁静的夜晚",
+      "习语3. ~ waters run deep: 静水流深",
+      "习语4. to ~ sb's doubts/fears: 消除某人的疑虑/恐惧"
     ]
   }
 }

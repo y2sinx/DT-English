@@ -1,5 +1,5 @@
-## en-basic: 奥格登(Ogden)850词
-## C:\Users\DELL\AppData\Roaming\nltk_data\corpora\words
+[[ en-basic: 奥格登(Ogden)850词
+[[ C:\Users\DELL\AppData\Roaming\nltk_data\corpora\words
 I: 
 a:
 able:
@@ -18,8 +18,8 @@ agreement:
 air:
 all:
 almost:
-among: 在..之中
-amount: #n. 数量; #v. 等于;
+among: 在]]之中
+amount: [n] 数量; [v] 等于;
 amusement:
 and:
 angle:
@@ -119,7 +119,7 @@ care:
 carriage:
 cart: 二轮运货马车
 cat:
-cause: n. 原因;事业;目标 vt. 引起;使遭受
+cause: n] 原因;事业;目标 vt] 引起;使遭受
 certain:
 chain:
 chalk: 粉笔; 白垩底层
@@ -171,7 +171,7 @@ crack:
 credit:
 crime:
 cruel:
-crush: 压碎,压扁;将..塞进(狭小的空间内)
+crush: 压碎,压扁;将]]塞进(狭小的空间内)
 cry:
 cup:
 current:
@@ -707,7 +707,7 @@ step:
 stick:
 sticky:
 stiff:
-still: #n.寂静;剧照;蒸馏室; #conj. 仍然;但是;尽管如此; #vt. 蒸馏;使.静止;使.平静下来
+still: [n]寂静;剧照;蒸馏室; [conj] 仍然;但是;尽管如此; [vt] 蒸馏;使]静止;使]平静下来
 stitch: 针脚;缝合
 stocking: 长筒袜
 stomach:

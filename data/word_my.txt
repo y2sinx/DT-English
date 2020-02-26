@@ -1,3 +1,10 @@
+## 比较难发音的
+etc: [phon] [ei-te'sai-te-ruo],et cetera,等等,及其他
+chaos: 混乱
+roses: 玫瑰
+downloading: 
+uninvited guest: 不速之客
+
 ## 一次性添加到UnixWord
 cozing: 惬意的
 daisy: 菊花
@@ -64,17 +71,98 @@ laymen: 外行,非专业人士
 gut: 肠子,内脏;直觉
 outsmart: 比..更聪明,用计谋胜过
 taxidermist: 动物制标师(制作标本的人)
-
 single losers: 单身狗们
 chestnut: 栗子
 burial: 埋葬;葬礼
+scone: 司康饼
+checkpoint: 关卡
+Troy: 特洛伊
+stash: 藏起来
+clown: 小丑
+joker: 小丑
+orgy: 狂欢(群交)
+twat: 混蛋
+shag: 和..性交
+hoover: 用胡佛牌吸尘器除尘
+karate: 空手道
+wanker: 手淫者
+spliff: 大麻烟卷
+ounce: 盎司
+afterlife: 来世;死后的世界
+nihilist: 虚无主义者, He's a loner nililist who believes in nothing./他是个孤独的虚无主义者,他什么都不相信.
+prostate: 前列腺
+beheaded: 身首异处的
+Jerusalem: 耶路撒冷
+Passover: 逾越节,犹太人的宗教节日,庆祝逃脱埃及的奴役.
+Messiah: 弥赛亚,犹太人所期待的救世主.
+Israel: ;以色列
+Judas: 犹大,背叛耶稣的那个门徒
+curfew: 宵禁
+blasphemer: 亵渎者
+checkmate: 把..将死
+hustler: 皮条客,妓女
+walnut: 核桃
+stopgap: 权宜之计
+ginger: 姜
+sleepwalk: 梦游
+paranormal: 超常的(超自然)
+hallway: 玄关
+misguided: 糊弄人的
+poof: 噗的一声(表示某事突然发生)
+leech: 水蛭
+startover: 重新开始
+cashier: 收银员,柜台
+fluke: 侥幸(侥幸成功)
+workaholic: 工作狂
+crusade: 十字军
+upstart: 暴发户
+foreskin: 包皮
+blossom: 风生水起
+hoarding: 囤货
+gladiator: 角斗士
+Reptilians: 蜥蜴人
+first-timer: 新手
+
+
+##词组
+
+
+
+## 句子
 
 
 
 
-## 比较难发音的
-etc: #phon. [ei-te'sai-te-ruo],et cetera,等等,及其他
-chaos: 混乱
-roses: 玫瑰
-downloading: 
-uninvited guest: 不速之客
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
