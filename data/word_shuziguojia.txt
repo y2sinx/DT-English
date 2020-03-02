@@ -1,0 +1,125 @@
+
+## 数词: 基数词: 序数词
+one: 1st first
+two: 2nd second
+three: 3rd third
+four: 4th fourth
+five: 5th fifth
+
+six: 6th sixth
+seven: 7th seventh
+eight: 8th eighth
+nine: 9th ninth
+ten: 10th tenth
+eleven: 11th eleventh
+twelve: 12th twelfth
+thirteen: 13th thirteenth
+fourteen: 14th fourteenth
+fifteen: 15th fifteenth
+sixteen: 16th sixteenth
+seventeen: 17th seventeenth
+eighteen: 18th eighteenth
+nineteen: 19th nineteenth
+twenty: 20th twentieth
+twenty:-one 21st twenty-first
+twenty:-two 22nd twenty-second
+twenty:-three 23rd twenty-third
+thirty: 30th thirtieth
+forty: 40th fortieth
+fifty: 50th fiftieth
+sixty: 60th sixtieth
+seventy: 70th seventieth
+eighty: 80th eightieth
+ninety: 90th ninetieth
+one: hundred 100th one hundredth
+one: hundred(and) one 101st one hundred and first
+one: hundred(and) two 102nd one hundred and second
+three: hundred 300th three hundredth
+one: thousand 1000th one thousandth
+three: thousand 3000th three thousandth
+
+ten: thousand 10000th ten thousandth
+million: 1000000th millionth
+billion: 1000000000th billionth
+
+## 月份:
+January: (Jan])
+February: (Feb])
+March: (Mar])
+April: (Apr])
+May: (May)
+June: (Jun])
+July: (Jul])
+August: (Aug])
+September: (Sept])
+October: (Oct])
+November: (Nov])
+December: (Dec])
+
+## 星期:
+Monday: (Mon])
+Tuesday: (Tues])
+Wednesday: (Wed])
+Thursday: (Thurs])
+Friday: (Fri])
+Saturday: (Sat])
+Sunday: (Sun])
+
+## 主要国家名称及相关信息:
+国家: COUNTRY n] PERSON n] RELATED ADJECTIVES
+阿富汗: Afghanistan Afghan Afghan
+阿尔及利亚: Algeria Algerian Algerian
+阿根廷: Argentina Argentinian Argentinian
+澳大利亚: Australia Australian Australian
+奥地利: Austria Austrian Austrian
+比利时: Belgium Belgian Belgian
+巴西: Brazil Brazilian Brazilian
+英国: Britain/U]K] = the United Kingdom British British
+缅甸: Burma Burmese Burmese
+加拿大: Canada Canadian Canadian
+中国: China Chinese Chinese
+哥伦比亚: Colombia Colombian Colombian
+古巴: Cuba Cuban Cuban
+丹麦: Denmark Dane Danish
+埃及: Egypt Egyptian Egyptian
+芬兰: Finland Finn Finnish
+法国: France French French
+德国: Germany German German
+希腊: Greece Greek Greek
+荷兰: Holland/Netherlands Dutch Dutch
+匈牙利: Hungary Hungarian Hungarian
+印度: India Indian Indian
+印度尼西亚: Indonesia Indonesian Indonesian
+伊朗: Iran Iranian Iranian
+伊拉克: Iraq Iraqi Iraqi
+爱尔兰: Ireland Irish Irish
+以色列: Israel Israeli Israeli
+意大利: Italy Italian Italian
+日本: Japan Japanese Japanese
+约旦: Jordan Jordanian Jordanian
+
+肯尼亚: Kenya Kenyan Kenyan
+朝鲜: D]P]R]Korea Korean Korean
+科威特: Kuwait Kuwaiti Kuwaiti
+黎巴嫩: Lebanon Lebanese Lebanese
+卢森堡: Luxembourg Luxembourger Luxembourgish
+马来西亚: Malaysia Malaysian Malaysian
+墨西哥: Mexico Mexican Mexican
+新西兰: New Zealand New Zealander Zelanian
+挪威: Norway Norwegian Norwegian
+巴基斯坦: Pakistan Pakistani Pakistani
+巴拿马: Panama Panamanian Panamanian
+菲律宾: Philippines Filipino Philippine
+波兰: Poland Polish Polish
+葡萄牙: Portugal Portuguese Portuguese
+俄罗斯: Russia Russian Russian
+新加坡: Singapore Singaporean Singaporean
+南非: South Africa South African South African
+韩国: South Korea Korean Korean
+西班牙: Spain Spanish Spanish
+瑞典: Sweden Swedish Swedish
+瑞士: Switzerland Swiss Swiss
+泰国: Thailand Thai Thai
+土耳其: Turkey Turk Turkish
+美国: U]S]A] American American
+越南: Vietnam Vietnamese Vietnamese
