@@ -1,4 +1,3 @@
-
 ## 数词: 基数词: 序数词
 one: 1st first
 two: 2nd second

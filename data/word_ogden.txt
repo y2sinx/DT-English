@@ -1,852 +1,852 @@
-[[ en-basic: 奥格登(Ogden)850词
-[[ C:\Users\DELL\AppData\Roaming\nltk_data\corpora\words
-I: 
-a:
-able:
-about:
-account:
-acid:
-across:
-act:
-addition:
-adjustment:
-advertisement:
-after:
-again:
-against:
-agreement:
-air:
-all:
-almost:
-among: 在]]之中
-amount: [n] 数量; [v] 等于;
-amusement:
-and:
-angle:
-angry:
-animal:
-answer:
-ant:
-any:
-apparatus: [ˌæpəˈreɪtəs仪器;器官
-apple:
-approval:
-arch:
-argument:
-arm:
-army:
-art:
-as:
-at:
-attack:
-attempt:
-attention:
-attraction:
-authority:
-automatic:
-awake:
-baby:
-back:
-bad:
-bag:
-balance:
-ball:
-band:
-base:
-basin:
-basket:
-bath:
-be:
-beautiful:
-because:
-bed:
-bee:
-before:
-behaviour:
-belief:
-bell:
-bent:
-berry:
-between:
-bird:
-birth:
-bit:
-bite:
-bitter:
-black:
-blade: 刀片;叶片(螺旋桨;风扇等的轮片)
-blood:
-blow:
-blue:
-board:
-boat:
-body:
-boiling:
-bone:
-book:
-boot: 靴子;踢;启动
-bottle:
-box:
-boy:
-brain:
-brake: 刹车;阻碍(物)
-branch:
-brass: 黄铜
-bread:
-breath:
-brick:
-bridge:
-bright:
-broken:
-brother:
-brown:
-brush:
-bucket:
-building:
-bulb:
-burn:
-burst:
-business:
-but:
-butter:
-button:
-by:
-cake:
-camera:
-canvas:
-card:
-care:
-carriage:
-cart: 二轮运货马车
-cat:
-cause: n] 原因;事业;目标 vt] 引起;使遭受
-certain:
-chain:
-chalk: 粉笔; 白垩底层
-chance:
-change:
-cheap:
-cheese:
-chemical:
-chest:
-chief:
-chin:
-church:
-circle:
-clean:
-clear:
-clock:
-cloth:
-cloud:
-coal: 燃烧着的木炭或者煤块
-coat:
-cold:
-collar:
-colour:
-comb:
-come:
-comfort:
-committee:
-common:
-company:
-comparison:
-competition:
-complete:
-complex:
-condition:
-connection:
-conscious:
-control:
-cook:
-copper: 铜;铜币
-copy:
-cord: 绳索;捆绑
-cork: 瓶塞
-cotton:
-cough:
-country:
-cover:
-cow:
-crack:
-credit:
-crime:
-cruel:
-crush: 压碎,压扁;将]]塞进(狭小的空间内)
-cry:
-cup:
-current:
-curtain:
-curve:
-cushion:
-cut:
-damage:
-danger:
-dark:
-daughter:
-day:
-dead:
-dear:
-death:
-debt:
-decision:
-deep:
-degree:
-delicate: 精美的
-dependent:
-design:
-desire:
-destruction:
-detail:
-development:
-different:
-digestion:
-direction:
-dirty:
-discovery:
-discussion:
-disease:
-disgust:
-distance:
-distribution:
-division:
-do:
-dog:
-door:
-doubt:
-down:
-drain: 下水道;排水
-drawer:
-dress:
-drink:
-driving:
-drop:
-dry:
-dust:
-ear:
-early:
-earth:
-east:
-edge:
-education:
-effect:
-egg:
-elastic:
-electric:
-end:
-engine:
-enough:
-equal:
-error:
-even:
-event:
-ever:
-every:
-example:
-exchange:
-existence:
-expansion:
-experience:
-expert:
-eye:
-face:
-fact:
-fall:
-false:
-family:
-far:
-farm:
-fat:
-father:
-fear:
-feather:
-feeble: 虚弱无力的
-feeling:
-female:
-fertile:
-fiction:
-field:
-fight:
-finger:
-fire:
-first:
-fish:
-fixed:
-flag:
-flame: 火焰;热情
-flat:
-flight:
-floor:
-flower:
-fly:
-fold:
-food:
-foolish:
-foot:
-for:
-force:
-fork:
-form:
-forward:
-fowl:
-frame: 框架;结构
-free:
-frequent:
-friend:
-from:
-front:
-fruit:
-full:
-future:
-garden:
-general:
-get:
-girl:
-give:
-glass:
-glove:
-go:
-goat:
-gold:
-good:
-government:
-grain:
-grass:
-great:
-green:
-grey:
-grip: 紧紧地抓住
-group:
-growth:
-guide:
-gun:
-hair:
-hammer:
-hand:
-hanging: 帘子;悬挂;绞刑
-happy:
-harbour: 港口;避难所
-hard:
-harmony:
-hat:
-hate:
-have:
-he:
-head:
-healthy:
-hearing: 听力;审讯
-heart:
-heat:
-help:
-here:
-high:
-history:
-hole:
-hollow:
-hook:
-hope:
-horn:
-horse:
-hospital:
-hour:
-house:
-how:
-humour:
-ice:
-idea:
-if:
-ill:
-important:
-impulse:
-in:
-increase:
-industry:
-ink:
-insect:
-instrument:
-insurance:
-interest:
-invention:
-iron:
-island:
-jelly: 果冻;胶状物
-jewel:
-join:
-journey:
-judge:
-jump:
-keep:
-kettle: 壶;反应釜
-key:
-kick:
-kind:
-kiss:
-knee:
-knife:
-knot:
-knowledge:
-land:
-language:
-last:
-late:
-laugh:
-law:
-lead:
-leaf:
-learning:
-leather:
-left:
-leg:
-let:
-letter:
-level:
-library:
-lift:
-light:
-like:
-limit:
-line:
-linen: 亚麻布
-lip:
-liquid:
-list:
-little:
-living:
-lock:
-long:
-look:
-loose:
-loss:
-loud:
-love:
-low:
-machine:
-make:
-male:
-man:
-manager:
-map:
-mark:
-market:
-married:
-mass:
-match:
-material:
-may:
-meal:
-measure:
-meat:
-medical:
-meeting:
-memory:
-metal:
-middle:
-military:
-milk:
-mind:
-mine:
-minute:
-mist:
-mixed:
-money:
-monkey:
-month:
-moon:
-morning:
-mother:
-motion:
-mountain:
-mouth:
-move:
-much:
-muscle:
-music:
-nail:
-name:
-narrow:
-nation:
-natural:
-near:
-necessary:
-neck:
-need:
-needle:
-nerve:
-net:
-new:
-news:
-night:
-no:
-noise:
-normal:
-north:
-nose:
-not:
-note:
-now:
-number:
-nut:
-observation:
-of:
-off:
-offer:
-office:
-oil:
-old:
-on:
-only:
-open:
-operation:
-opinion:
-opposite:
-or:
-orange:
-order:
-organization:
-ornament:
-other:
-out:
-oven: 炉;灶;烤炉
-over:
-owner:
-page:
-pain:
-paint:
-paper:
-parallel:
-parcel: 包裹;打包
-part:
-past:
-paste:
-payment:
-peace:
-pen:
-pencil:
-person:
-physical:
-picture:
-pig:
-pin:
-pipe:
-place:
-plane:
-plant:
-plate:
-play:
-please:
-pleasure:
-plough: 犁;耕
-pocket: 口袋
-point:
-poison:
-polish:
-political:
-poor:
-porter: 行李搬运工;守门人
-position:
-possible:
-pot:
-potato:
-powder:
-power:
-present:
-price:
-print:
-prison:
-private:
-probable:
-process:
-produce:
-profit:
-property:
-prose: 散文;乏味的
-protest:
-public:
-pull:
-pump:
-punishment:
-purpose:
-push:
-put:
-quality:
-question:
-quick:
-quiet:
-quite:
-rail:
-rain:
-range:
-rat:
-rate:
-ray:
-reaction:
-reading:
-ready:
-reason:
-receipt:
-record:
-red:
-regret:
-regular:
-relation:
-religion:
-representative:
-request:
-respect:
-responsible:
-rest:
-reward:
-rhythm:
-rice:
-right:
-ring:
-river:
-road:
-rod:
-roll:
-roof: 屋顶
-room:
-root:
-rough:
-round:
-rub: 擦
-rule:
-run:
-sad:
-safe:
-sail:
-salt:
-same:
-sand:
-say:
-scale:
-school:
-science:
-scissors:
-screw:
-sea:
-seat:
-second:
-secret:
-secretary:
-see:
-seed:
-seem:
-selection:
-self:
-send:
-sense:
-separate:
-serious:
-servant:
-sex:
-shade:
-shake:
-shame:
-sharp:
-sheep:
-shelf:
-ship:
-shirt:
-shock:
-shoe:
-short:
-shut:
-side:
-sign:
-silk:
-silver:
-simple:
-sister:
-size:
-skin:
-skirt: 裙子
-sky:
-sleep:
-slip: 滑倒;犯错
-slope:
-slow:
-small:
-smash: 粉碎
-smell:
-smile:
-smoke:
-smooth:
-snake:
-sneeze:
-snow:
-so:
-soap:
-society:
-sock: 短袜
-soft:
-solid:
-some:
-son:
-song:
-sort:
-sound:
-soup:
-south:
-space:
-spade: 铲子
-special:
-sponge: 海绵
-spoon:
-spring:
-square:
-stage:
-stamp:
-star:
-start:
-statement:
-station:
-steam:
-steel:
-stem:
-step:
-stick:
-sticky:
-stiff:
-still: [n]寂静;剧照;蒸馏室; [conj] 仍然;但是;尽管如此; [vt] 蒸馏;使]静止;使]平静下来
-stitch: 针脚;缝合
-stocking: 长筒袜
-stomach:
-stone:
-stop:
-store:
-story:
-straight:
-strange:
-street:
-stretch:
-strong:
-structure:
-substance:
-such:
-sudden:
-sugar:
-suggestion:
-summer:
-sun:
-support:
-surprise:
-sweet:
-swim:
-system:
-table:
-tail:
-take:
-talk:
-tall:
-taste:
-tax:
-teaching:
-tendency:
-test:
-than:
-that:
-the:
-then:
-theory:
-there:
-thick:
-thin:
-thing:
-this:
-though:
-thought:
-thread: 针线;穿过
-throat:
-through:
-thumb: 拇指
-thunder:
-ticket:
-tight:
-till:
-time:
-tin:
-tired:
-to:
-toe:
-together:
-tomorrow:
-tongue:
-tooth:
-top:
-touch:
-town:
-trade:
-train:
-transport:
-tray: 托盘;文件盒
-tree:
-trick:
-trouble:
-trousers: 长裤
-true:
-turn:
-twist:
-umbrella:
-under:
-unit:
-up:
-use:
-value:
-verse:
-very:
-vessel:
-view:
-violent:
-voice:
-waiting:
-walk:
-wall:
-war:
-warm:
-wash:
-waste:
-watch:
-water:
-wave:
-wax:
-way:
-weather:
-week:
-weight:
-well:
-west:
-wet:
-wheel:
-when:
-where:
-while:
-whip: 鞭子;抽打
-whistle:
-white:
-who:
-why:
-wide:
-will:
-wind:
-window:
-wine:
-wing:
-winter:
-wire:
-wise:
-with:
-woman:
-wood:
-wool: 羊毛;毛线;毛织品
-word:
-work:
-worm:
-wound:
-writing:
-wrong:
-year:
-yellow:
-yes:
-yesterday:
-you:
-young:
+## en-basic: 奥格登(Ogden)850词
+## C:\Users\DELL\AppData\Roaming\nltk_data\corpora\words
+I:  [x] mean_cn; [or] ogden;
+a: [x] mean_cn; [or] ogden;
+able: [x] mean_cn; [or] ogden;
+about: [x] mean_cn; [or] ogden;
+account: [x] mean_cn; [or] ogden;
+acid: [x] mean_cn; [or] ogden;
+across: [x] mean_cn; [or] ogden;
+act: [x] mean_cn; [or] ogden;
+addition: [x] mean_cn; [or] ogden;
+adjustment: [x] mean_cn; [or] ogden;
+advertisement: [x] mean_cn; [or] ogden;
+after: [x] mean_cn; [or] ogden;
+again: [x] mean_cn; [or] ogden;
+against: [x] mean_cn; [or] ogden;
+agreement: [x] mean_cn; [or] ogden;
+air: [x] mean_cn; [or] ogden;
+all: [x] mean_cn; [or] ogden;
+almost: [x] mean_cn; [or] ogden;
+among: 在]]之中 [x] mean_cn; [or] ogden;
+amount: [n] 数量; [v] 等于; [x] mean_cn; [or] ogden;
+amusement: [x] mean_cn; [or] ogden;
+and: [x] mean_cn; [or] ogden;
+angle: [x] mean_cn; [or] ogden;
+angry: [x] mean_cn; [or] ogden;
+animal: [x] mean_cn; [or] ogden;
+answer: [x] mean_cn; [or] ogden;
+ant: [x] mean_cn; [or] ogden;
+any: [x] mean_cn; [or] ogden;
+apparatus: [ˌæpəˈreɪtəs仪器;器官 [x] mean_cn; [or] ogden;
+apple: [x] mean_cn; [or] ogden;
+approval: [x] mean_cn; [or] ogden;
+arch: [x] mean_cn; [or] ogden;
+argument: [x] mean_cn; [or] ogden;
+arm: [x] mean_cn; [or] ogden;
+army: [x] mean_cn; [or] ogden;
+art: [x] mean_cn; [or] ogden;
+as: [x] mean_cn; [or] ogden;
+at: [x] mean_cn; [or] ogden;
+attack: [x] mean_cn; [or] ogden;
+attempt: [x] mean_cn; [or] ogden;
+attention: [x] mean_cn; [or] ogden;
+attraction: [x] mean_cn; [or] ogden;
+authority: [x] mean_cn; [or] ogden;
+automatic: [x] mean_cn; [or] ogden;
+awake: [x] mean_cn; [or] ogden;
+baby: [x] mean_cn; [or] ogden;
+back: [x] mean_cn; [or] ogden;
+bad: [x] mean_cn; [or] ogden;
+bag: [x] mean_cn; [or] ogden;
+balance: [x] mean_cn; [or] ogden;
+ball: [x] mean_cn; [or] ogden;
+band: [x] mean_cn; [or] ogden;
+base: [x] mean_cn; [or] ogden;
+basin: [x] mean_cn; [or] ogden;
+basket: [x] mean_cn; [or] ogden;
+bath: [x] mean_cn; [or] ogden;
+be: [x] mean_cn; [or] ogden;
+beautiful: [x] mean_cn; [or] ogden;
+because: [x] mean_cn; [or] ogden;
+bed: [x] mean_cn; [or] ogden;
+bee: [x] mean_cn; [or] ogden;
+before: [x] mean_cn; [or] ogden;
+behaviour: [x] mean_cn; [or] ogden;
+belief: [x] mean_cn; [or] ogden;
+bell: [x] mean_cn; [or] ogden;
+bent: [x] mean_cn; [or] ogden;
+berry: [x] mean_cn; [or] ogden;
+between: [x] mean_cn; [or] ogden;
+bird: [x] mean_cn; [or] ogden;
+birth: [x] mean_cn; [or] ogden;
+bit: [x] mean_cn; [or] ogden;
+bite: [x] mean_cn; [or] ogden;
+bitter: [x] mean_cn; [or] ogden;
+black: [x] mean_cn; [or] ogden;
+blade: 刀片;叶片(螺旋桨;风扇等的轮片) [x] mean_cn; [or] ogden;
+blood: [x] mean_cn; [or] ogden;
+blow: [x] mean_cn; [or] ogden;
+blue: [x] mean_cn; [or] ogden;
+board: [x] mean_cn; [or] ogden;
+boat: [x] mean_cn; [or] ogden;
+body: [x] mean_cn; [or] ogden;
+boiling: [x] mean_cn; [or] ogden;
+bone: [x] mean_cn; [or] ogden;
+book: [x] mean_cn; [or] ogden;
+boot: 靴子;踢;启动 [x] mean_cn; [or] ogden;
+bottle: [x] mean_cn; [or] ogden;
+box: [x] mean_cn; [or] ogden;
+boy: [x] mean_cn; [or] ogden;
+brain: [x] mean_cn; [or] ogden;
+brake: 刹车;阻碍(物) [x] mean_cn; [or] ogden;
+branch: [x] mean_cn; [or] ogden;
+brass: 黄铜 [x] mean_cn; [or] ogden;
+bread: [x] mean_cn; [or] ogden;
+breath: [x] mean_cn; [or] ogden;
+brick: [x] mean_cn; [or] ogden;
+bridge: [x] mean_cn; [or] ogden;
+bright: [x] mean_cn; [or] ogden;
+broken: [x] mean_cn; [or] ogden;
+brother: [x] mean_cn; [or] ogden;
+brown: [x] mean_cn; [or] ogden;
+brush: [x] mean_cn; [or] ogden;
+bucket: [x] mean_cn; [or] ogden;
+building: [x] mean_cn; [or] ogden;
+bulb: [x] mean_cn; [or] ogden;
+burn: [x] mean_cn; [or] ogden;
+burst: [x] mean_cn; [or] ogden;
+business: [x] mean_cn; [or] ogden;
+but: [x] mean_cn; [or] ogden;
+butter: [x] mean_cn; [or] ogden;
+button: [x] mean_cn; [or] ogden;
+by: [x] mean_cn; [or] ogden;
+cake: [x] mean_cn; [or] ogden;
+camera: [x] mean_cn; [or] ogden;
+canvas: [x] mean_cn; [or] ogden;
+card: [x] mean_cn; [or] ogden;
+care: [x] mean_cn; [or] ogden;
+carriage: [x] mean_cn; [or] ogden;
+cart: 二轮运货马车 [x] mean_cn; [or] ogden;
+cat: [x] mean_cn; [or] ogden;
+cause: n] 原因;事业;目标 vt] 引起;使遭受 [x] mean_cn; [or] ogden;
+certain: [x] mean_cn; [or] ogden;
+chain: [x] mean_cn; [or] ogden;
+chalk: 粉笔; 白垩底层 [x] mean_cn; [or] ogden;
+chance: [x] mean_cn; [or] ogden;
+change: [x] mean_cn; [or] ogden;
+cheap: [x] mean_cn; [or] ogden;
+cheese: [x] mean_cn; [or] ogden;
+chemical: [x] mean_cn; [or] ogden;
+chest: [x] mean_cn; [or] ogden;
+chief: [x] mean_cn; [or] ogden;
+chin: [x] mean_cn; [or] ogden;
+church: [x] mean_cn; [or] ogden;
+circle: [x] mean_cn; [or] ogden;
+clean: [x] mean_cn; [or] ogden;
+clear: [x] mean_cn; [or] ogden;
+clock: [x] mean_cn; [or] ogden;
+cloth: [x] mean_cn; [or] ogden;
+cloud: [x] mean_cn; [or] ogden;
+coal: 燃烧着的木炭或者煤块 [x] mean_cn; [or] ogden;
+coat: [x] mean_cn; [or] ogden;
+cold: [x] mean_cn; [or] ogden;
+collar: [x] mean_cn; [or] ogden;
+colour: [x] mean_cn; [or] ogden;
+comb: [x] mean_cn; [or] ogden;
+come: [x] mean_cn; [or] ogden;
+comfort: [x] mean_cn; [or] ogden;
+committee: [x] mean_cn; [or] ogden;
+common: [x] mean_cn; [or] ogden;
+company: [x] mean_cn; [or] ogden;
+comparison: [x] mean_cn; [or] ogden;
+competition: [x] mean_cn; [or] ogden;
+complete: [x] mean_cn; [or] ogden;
+complex: [x] mean_cn; [or] ogden;
+condition: [x] mean_cn; [or] ogden;
+connection: [x] mean_cn; [or] ogden;
+conscious: [x] mean_cn; [or] ogden;
+control: [x] mean_cn; [or] ogden;
+cook: [x] mean_cn; [or] ogden;
+copper: 铜;铜币 [x] mean_cn; [or] ogden;
+copy: [x] mean_cn; [or] ogden;
+cord: 绳索;捆绑 [x] mean_cn; [or] ogden;
+cork: 瓶塞 [x] mean_cn; [or] ogden;
+cotton: [x] mean_cn; [or] ogden;
+cough: [x] mean_cn; [or] ogden;
+country: [x] mean_cn; [or] ogden;
+cover: [x] mean_cn; [or] ogden;
+cow: [x] mean_cn; [or] ogden;
+crack: [x] mean_cn; [or] ogden;
+credit: [x] mean_cn; [or] ogden;
+crime: [x] mean_cn; [or] ogden;
+cruel: [x] mean_cn; [or] ogden;
+crush: 压碎,压扁;将]]塞进(狭小的空间内) [x] mean_cn; [or] ogden;
+cry: [x] mean_cn; [or] ogden;
+cup: [x] mean_cn; [or] ogden;
+current: [x] mean_cn; [or] ogden;
+curtain: [x] mean_cn; [or] ogden;
+curve: [x] mean_cn; [or] ogden;
+cushion: [x] mean_cn; [or] ogden;
+cut: [x] mean_cn; [or] ogden;
+damage: [x] mean_cn; [or] ogden;
+danger: [x] mean_cn; [or] ogden;
+dark: [x] mean_cn; [or] ogden;
+daughter: [x] mean_cn; [or] ogden;
+day: [x] mean_cn; [or] ogden;
+dead: [x] mean_cn; [or] ogden;
+dear: [x] mean_cn; [or] ogden;
+death: [x] mean_cn; [or] ogden;
+debt: [x] mean_cn; [or] ogden;
+decision: [x] mean_cn; [or] ogden;
+deep: [x] mean_cn; [or] ogden;
+degree: [x] mean_cn; [or] ogden;
+delicate: 精美的 [x] mean_cn; [or] ogden;
+dependent: [x] mean_cn; [or] ogden;
+design: [x] mean_cn; [or] ogden;
+desire: [x] mean_cn; [or] ogden;
+destruction: [x] mean_cn; [or] ogden;
+detail: [x] mean_cn; [or] ogden;
+development: [x] mean_cn; [or] ogden;
+different: [x] mean_cn; [or] ogden;
+digestion: [x] mean_cn; [or] ogden;
+direction: [x] mean_cn; [or] ogden;
+dirty: [x] mean_cn; [or] ogden;
+discovery: [x] mean_cn; [or] ogden;
+discussion: [x] mean_cn; [or] ogden;
+disease: [x] mean_cn; [or] ogden;
+disgust: [x] mean_cn; [or] ogden;
+distance: [x] mean_cn; [or] ogden;
+distribution: [x] mean_cn; [or] ogden;
+division: [x] mean_cn; [or] ogden;
+do: [x] mean_cn; [or] ogden;
+dog: [x] mean_cn; [or] ogden;
+door: [x] mean_cn; [or] ogden;
+doubt: [x] mean_cn; [or] ogden;
+down: [x] mean_cn; [or] ogden;
+drain: 下水道;排水 [x] mean_cn; [or] ogden;
+drawer: [x] mean_cn; [or] ogden;
+dress: [x] mean_cn; [or] ogden;
+drink: [x] mean_cn; [or] ogden;
+driving: [x] mean_cn; [or] ogden;
+drop: [x] mean_cn; [or] ogden;
+dry: [x] mean_cn; [or] ogden;
+dust: [x] mean_cn; [or] ogden;
+ear: [x] mean_cn; [or] ogden;
+early: [x] mean_cn; [or] ogden;
+earth: [x] mean_cn; [or] ogden;
+east: [x] mean_cn; [or] ogden;
+edge: [x] mean_cn; [or] ogden;
+education: [x] mean_cn; [or] ogden;
+effect: [x] mean_cn; [or] ogden;
+egg: [x] mean_cn; [or] ogden;
+elastic: [x] mean_cn; [or] ogden;
+electric: [x] mean_cn; [or] ogden;
+end: [x] mean_cn; [or] ogden;
+engine: [x] mean_cn; [or] ogden;
+enough: [x] mean_cn; [or] ogden;
+equal: [x] mean_cn; [or] ogden;
+error: [x] mean_cn; [or] ogden;
+even: [x] mean_cn; [or] ogden;
+event: [x] mean_cn; [or] ogden;
+ever: [x] mean_cn; [or] ogden;
+every: [x] mean_cn; [or] ogden;
+example: [x] mean_cn; [or] ogden;
+exchange: [x] mean_cn; [or] ogden;
+existence: [x] mean_cn; [or] ogden;
+expansion: [x] mean_cn; [or] ogden;
+experience: [x] mean_cn; [or] ogden;
+expert: [x] mean_cn; [or] ogden;
+eye: [x] mean_cn; [or] ogden;
+face: [x] mean_cn; [or] ogden;
+fact: [x] mean_cn; [or] ogden;
+fall: [x] mean_cn; [or] ogden;
+false: [x] mean_cn; [or] ogden;
+family: [x] mean_cn; [or] ogden;
+far: [x] mean_cn; [or] ogden;
+farm: [x] mean_cn; [or] ogden;
+fat: [x] mean_cn; [or] ogden;
+father: [x] mean_cn; [or] ogden;
+fear: [x] mean_cn; [or] ogden;
+feather: [x] mean_cn; [or] ogden;
+feeble: 虚弱无力的 [x] mean_cn; [or] ogden;
+feeling: [x] mean_cn; [or] ogden;
+female: [x] mean_cn; [or] ogden;
+fertile: [x] mean_cn; [or] ogden;
+fiction: [x] mean_cn; [or] ogden;
+field: [x] mean_cn; [or] ogden;
+fight: [x] mean_cn; [or] ogden;
+finger: [x] mean_cn; [or] ogden;
+fire: [x] mean_cn; [or] ogden;
+first: [x] mean_cn; [or] ogden;
+fish: [x] mean_cn; [or] ogden;
+fixed: [x] mean_cn; [or] ogden;
+flag: [x] mean_cn; [or] ogden;
+flame: 火焰;热情 [x] mean_cn; [or] ogden;
+flat: [x] mean_cn; [or] ogden;
+flight: [x] mean_cn; [or] ogden;
+floor: [x] mean_cn; [or] ogden;
+flower: [x] mean_cn; [or] ogden;
+fly: [x] mean_cn; [or] ogden;
+fold: [x] mean_cn; [or] ogden;
+food: [x] mean_cn; [or] ogden;
+foolish: [x] mean_cn; [or] ogden;
+foot: [x] mean_cn; [or] ogden;
+for: [x] mean_cn; [or] ogden;
+force: [x] mean_cn; [or] ogden;
+fork: [x] mean_cn; [or] ogden;
+form: [x] mean_cn; [or] ogden;
+forward: [x] mean_cn; [or] ogden;
+fowl: [x] mean_cn; [or] ogden;
+frame: 框架;结构 [x] mean_cn; [or] ogden;
+free: [x] mean_cn; [or] ogden;
+frequent: [x] mean_cn; [or] ogden;
+friend: [x] mean_cn; [or] ogden;
+from: [x] mean_cn; [or] ogden;
+front: [x] mean_cn; [or] ogden;
+fruit: [x] mean_cn; [or] ogden;
+full: [x] mean_cn; [or] ogden;
+future: [x] mean_cn; [or] ogden;
+garden: [x] mean_cn; [or] ogden;
+general: [x] mean_cn; [or] ogden;
+get: [x] mean_cn; [or] ogden;
+girl: [x] mean_cn; [or] ogden;
+give: [x] mean_cn; [or] ogden;
+glass: [x] mean_cn; [or] ogden;
+glove: [x] mean_cn; [or] ogden;
+go: [x] mean_cn; [or] ogden;
+goat: [x] mean_cn; [or] ogden;
+gold: [x] mean_cn; [or] ogden;
+good: [x] mean_cn; [or] ogden;
+government: [x] mean_cn; [or] ogden;
+grain: [x] mean_cn; [or] ogden;
+grass: [x] mean_cn; [or] ogden;
+great: [x] mean_cn; [or] ogden;
+green: [x] mean_cn; [or] ogden;
+grey: [x] mean_cn; [or] ogden;
+grip: 紧紧地抓住 [x] mean_cn; [or] ogden;
+group: [x] mean_cn; [or] ogden;
+growth: [x] mean_cn; [or] ogden;
+guide: [x] mean_cn; [or] ogden;
+gun: [x] mean_cn; [or] ogden;
+hair: [x] mean_cn; [or] ogden;
+hammer: [x] mean_cn; [or] ogden;
+hand: [x] mean_cn; [or] ogden;
+hanging: 帘子;悬挂;绞刑 [x] mean_cn; [or] ogden;
+happy: [x] mean_cn; [or] ogden;
+harbour: 港口;避难所 [x] mean_cn; [or] ogden;
+hard: [x] mean_cn; [or] ogden;
+harmony: [x] mean_cn; [or] ogden;
+hat: [x] mean_cn; [or] ogden;
+hate: [x] mean_cn; [or] ogden;
+have: [x] mean_cn; [or] ogden;
+he: [x] mean_cn; [or] ogden;
+head: [x] mean_cn; [or] ogden;
+healthy: [x] mean_cn; [or] ogden;
+hearing: 听力;审讯 [x] mean_cn; [or] ogden;
+heart: [x] mean_cn; [or] ogden;
+heat: [x] mean_cn; [or] ogden;
+help: [x] mean_cn; [or] ogden;
+here: [x] mean_cn; [or] ogden;
+high: [x] mean_cn; [or] ogden;
+history: [x] mean_cn; [or] ogden;
+hole: [x] mean_cn; [or] ogden;
+hollow: [x] mean_cn; [or] ogden;
+hook: [x] mean_cn; [or] ogden;
+hope: [x] mean_cn; [or] ogden;
+horn: [x] mean_cn; [or] ogden;
+horse: [x] mean_cn; [or] ogden;
+hospital: [x] mean_cn; [or] ogden;
+hour: [x] mean_cn; [or] ogden;
+house: [x] mean_cn; [or] ogden;
+how: [x] mean_cn; [or] ogden;
+humour: [x] mean_cn; [or] ogden;
+ice: [x] mean_cn; [or] ogden;
+idea: [x] mean_cn; [or] ogden;
+if: [x] mean_cn; [or] ogden;
+ill: [x] mean_cn; [or] ogden;
+important: [x] mean_cn; [or] ogden;
+impulse: [x] mean_cn; [or] ogden;
+in: [x] mean_cn; [or] ogden;
+increase: [x] mean_cn; [or] ogden;
+industry: [x] mean_cn; [or] ogden;
+ink: [x] mean_cn; [or] ogden;
+insect: [x] mean_cn; [or] ogden;
+instrument: [x] mean_cn; [or] ogden;
+insurance: [x] mean_cn; [or] ogden;
+interest: [x] mean_cn; [or] ogden;
+invention: [x] mean_cn; [or] ogden;
+iron: [x] mean_cn; [or] ogden;
+island: [x] mean_cn; [or] ogden;
+jelly: 果冻;胶状物 [x] mean_cn; [or] ogden;
+jewel: [x] mean_cn; [or] ogden;
+join: [x] mean_cn; [or] ogden;
+journey: [x] mean_cn; [or] ogden;
+judge: [x] mean_cn; [or] ogden;
+jump: [x] mean_cn; [or] ogden;
+keep: [x] mean_cn; [or] ogden;
+kettle: 壶;反应釜 [x] mean_cn; [or] ogden;
+key: [x] mean_cn; [or] ogden;
+kick: [x] mean_cn; [or] ogden;
+kind: [x] mean_cn; [or] ogden;
+kiss: [x] mean_cn; [or] ogden;
+knee: [x] mean_cn; [or] ogden;
+knife: [x] mean_cn; [or] ogden;
+knot: [x] mean_cn; [or] ogden;
+knowledge: [x] mean_cn; [or] ogden;
+land: [x] mean_cn; [or] ogden;
+language: [x] mean_cn; [or] ogden;
+last: [x] mean_cn; [or] ogden;
+late: [x] mean_cn; [or] ogden;
+laugh: [x] mean_cn; [or] ogden;
+law: [x] mean_cn; [or] ogden;
+lead: [x] mean_cn; [or] ogden;
+leaf: [x] mean_cn; [or] ogden;
+learning: [x] mean_cn; [or] ogden;
+leather: [x] mean_cn; [or] ogden;
+left: [x] mean_cn; [or] ogden;
+leg: [x] mean_cn; [or] ogden;
+let: [x] mean_cn; [or] ogden;
+letter: [x] mean_cn; [or] ogden;
+level: [x] mean_cn; [or] ogden;
+library: [x] mean_cn; [or] ogden;
+lift: [x] mean_cn; [or] ogden;
+light: [x] mean_cn; [or] ogden;
+like: [x] mean_cn; [or] ogden;
+limit: [x] mean_cn; [or] ogden;
+line: [x] mean_cn; [or] ogden;
+linen: 亚麻布 [x] mean_cn; [or] ogden;
+lip: [x] mean_cn; [or] ogden;
+liquid: [x] mean_cn; [or] ogden;
+list: [x] mean_cn; [or] ogden;
+little: [x] mean_cn; [or] ogden;
+living: [x] mean_cn; [or] ogden;
+lock: [x] mean_cn; [or] ogden;
+long: [x] mean_cn; [or] ogden;
+look: [x] mean_cn; [or] ogden;
+loose: [x] mean_cn; [or] ogden;
+loss: [x] mean_cn; [or] ogden;
+loud: [x] mean_cn; [or] ogden;
+love: [x] mean_cn; [or] ogden;
+low: [x] mean_cn; [or] ogden;
+machine: [x] mean_cn; [or] ogden;
+make: [x] mean_cn; [or] ogden;
+male: [x] mean_cn; [or] ogden;
+man: [x] mean_cn; [or] ogden;
+manager: [x] mean_cn; [or] ogden;
+map: [x] mean_cn; [or] ogden;
+mark: [x] mean_cn; [or] ogden;
+market: [x] mean_cn; [or] ogden;
+married: [x] mean_cn; [or] ogden;
+mass: [x] mean_cn; [or] ogden;
+match: [x] mean_cn; [or] ogden;
+material: [x] mean_cn; [or] ogden;
+may: [x] mean_cn; [or] ogden;
+meal: [x] mean_cn; [or] ogden;
+measure: [x] mean_cn; [or] ogden;
+meat: [x] mean_cn; [or] ogden;
+medical: [x] mean_cn; [or] ogden;
+meeting: [x] mean_cn; [or] ogden;
+memory: [x] mean_cn; [or] ogden;
+metal: [x] mean_cn; [or] ogden;
+middle: [x] mean_cn; [or] ogden;
+military: [x] mean_cn; [or] ogden;
+milk: [x] mean_cn; [or] ogden;
+mind: [x] mean_cn; [or] ogden;
+mine: [x] mean_cn; [or] ogden;
+minute: [x] mean_cn; [or] ogden;
+mist: [x] mean_cn; [or] ogden;
+mixed: [x] mean_cn; [or] ogden;
+money: [x] mean_cn; [or] ogden;
+monkey: [x] mean_cn; [or] ogden;
+month: [x] mean_cn; [or] ogden;
+moon: [x] mean_cn; [or] ogden;
+morning: [x] mean_cn; [or] ogden;
+mother: [x] mean_cn; [or] ogden;
+motion: [x] mean_cn; [or] ogden;
+mountain: [x] mean_cn; [or] ogden;
+mouth: [x] mean_cn; [or] ogden;
+move: [x] mean_cn; [or] ogden;
+much: [x] mean_cn; [or] ogden;
+muscle: [x] mean_cn; [or] ogden;
+music: [x] mean_cn; [or] ogden;
+nail: [x] mean_cn; [or] ogden;
+name: [x] mean_cn; [or] ogden;
+narrow: [x] mean_cn; [or] ogden;
+nation: [x] mean_cn; [or] ogden;
+natural: [x] mean_cn; [or] ogden;
+near: [x] mean_cn; [or] ogden;
+necessary: [x] mean_cn; [or] ogden;
+neck: [x] mean_cn; [or] ogden;
+need: [x] mean_cn; [or] ogden;
+needle: [x] mean_cn; [or] ogden;
+nerve: [x] mean_cn; [or] ogden;
+net: [x] mean_cn; [or] ogden;
+new: [x] mean_cn; [or] ogden;
+news: [x] mean_cn; [or] ogden;
+night: [x] mean_cn; [or] ogden;
+no: [x] mean_cn; [or] ogden;
+noise: [x] mean_cn; [or] ogden;
+normal: [x] mean_cn; [or] ogden;
+north: [x] mean_cn; [or] ogden;
+nose: [x] mean_cn; [or] ogden;
+not: [x] mean_cn; [or] ogden;
+note: [x] mean_cn; [or] ogden;
+now: [x] mean_cn; [or] ogden;
+number: [x] mean_cn; [or] ogden;
+nut: [x] mean_cn; [or] ogden;
+observation: [x] mean_cn; [or] ogden;
+of: [x] mean_cn; [or] ogden;
+off: [x] mean_cn; [or] ogden;
+offer: [x] mean_cn; [or] ogden;
+office: [x] mean_cn; [or] ogden;
+oil: [x] mean_cn; [or] ogden;
+old: [x] mean_cn; [or] ogden;
+on: [x] mean_cn; [or] ogden;
+only: [x] mean_cn; [or] ogden;
+open: [x] mean_cn; [or] ogden;
+operation: [x] mean_cn; [or] ogden;
+opinion: [x] mean_cn; [or] ogden;
+opposite: [x] mean_cn; [or] ogden;
+or: [x] mean_cn; [or] ogden;
+orange: [x] mean_cn; [or] ogden;
+order: [x] mean_cn; [or] ogden;
+organization: [x] mean_cn; [or] ogden;
+ornament: [x] mean_cn; [or] ogden;
+other: [x] mean_cn; [or] ogden;
+out: [x] mean_cn; [or] ogden;
+oven: 炉;灶;烤炉 [x] mean_cn; [or] ogden;
+over: [x] mean_cn; [or] ogden;
+owner: [x] mean_cn; [or] ogden;
+page: [x] mean_cn; [or] ogden;
+pain: [x] mean_cn; [or] ogden;
+paint: [x] mean_cn; [or] ogden;
+paper: [x] mean_cn; [or] ogden;
+parallel: [x] mean_cn; [or] ogden;
+parcel: 包裹;打包 [x] mean_cn; [or] ogden;
+part: [x] mean_cn; [or] ogden;
+past: [x] mean_cn; [or] ogden;
+paste: [x] mean_cn; [or] ogden;
+payment: [x] mean_cn; [or] ogden;
+peace: [x] mean_cn; [or] ogden;
+pen: [x] mean_cn; [or] ogden;
+pencil: [x] mean_cn; [or] ogden;
+person: [x] mean_cn; [or] ogden;
+physical: [x] mean_cn; [or] ogden;
+picture: [x] mean_cn; [or] ogden;
+pig: [x] mean_cn; [or] ogden;
+pin: [x] mean_cn; [or] ogden;
+pipe: [x] mean_cn; [or] ogden;
+place: [x] mean_cn; [or] ogden;
+plane: [x] mean_cn; [or] ogden;
+plant: [x] mean_cn; [or] ogden;
+plate: [x] mean_cn; [or] ogden;
+play: [x] mean_cn; [or] ogden;
+please: [x] mean_cn; [or] ogden;
+pleasure: [x] mean_cn; [or] ogden;
+plough: 犁;耕 [x] mean_cn; [or] ogden;
+pocket: 口袋 [x] mean_cn; [or] ogden;
+point: [x] mean_cn; [or] ogden;
+poison: [x] mean_cn; [or] ogden;
+polish: [x] mean_cn; [or] ogden;
+political: [x] mean_cn; [or] ogden;
+poor: [x] mean_cn; [or] ogden;
+porter: 行李搬运工;守门人 [x] mean_cn; [or] ogden;
+position: [x] mean_cn; [or] ogden;
+possible: [x] mean_cn; [or] ogden;
+pot: [x] mean_cn; [or] ogden;
+potato: [x] mean_cn; [or] ogden;
+powder: [x] mean_cn; [or] ogden;
+power: [x] mean_cn; [or] ogden;
+present: [x] mean_cn; [or] ogden;
+price: [x] mean_cn; [or] ogden;
+print: [x] mean_cn; [or] ogden;
+prison: [x] mean_cn; [or] ogden;
+private: [x] mean_cn; [or] ogden;
+probable: [x] mean_cn; [or] ogden;
+process: [x] mean_cn; [or] ogden;
+produce: [x] mean_cn; [or] ogden;
+profit: [x] mean_cn; [or] ogden;
+property: [x] mean_cn; [or] ogden;
+prose: 散文;乏味的 [x] mean_cn; [or] ogden;
+protest: [x] mean_cn; [or] ogden;
+public: [x] mean_cn; [or] ogden;
+pull: [x] mean_cn; [or] ogden;
+pump: [x] mean_cn; [or] ogden;
+punishment: [x] mean_cn; [or] ogden;
+purpose: [x] mean_cn; [or] ogden;
+push: [x] mean_cn; [or] ogden;
+put: [x] mean_cn; [or] ogden;
+quality: [x] mean_cn; [or] ogden;
+question: [x] mean_cn; [or] ogden;
+quick: [x] mean_cn; [or] ogden;
+quiet: [x] mean_cn; [or] ogden;
+quite: [x] mean_cn; [or] ogden;
+rail: [x] mean_cn; [or] ogden;
+rain: [x] mean_cn; [or] ogden;
+range: [x] mean_cn; [or] ogden;
+rat: [x] mean_cn; [or] ogden;
+rate: [x] mean_cn; [or] ogden;
+ray: [x] mean_cn; [or] ogden;
+reaction: [x] mean_cn; [or] ogden;
+reading: [x] mean_cn; [or] ogden;
+ready: [x] mean_cn; [or] ogden;
+reason: [x] mean_cn; [or] ogden;
+receipt: [x] mean_cn; [or] ogden;
+record: [x] mean_cn; [or] ogden;
+red: [x] mean_cn; [or] ogden;
+regret: [x] mean_cn; [or] ogden;
+regular: [x] mean_cn; [or] ogden;
+relation: [x] mean_cn; [or] ogden;
+religion: [x] mean_cn; [or] ogden;
+representative: [x] mean_cn; [or] ogden;
+request: [x] mean_cn; [or] ogden;
+respect: [x] mean_cn; [or] ogden;
+responsible: [x] mean_cn; [or] ogden;
+rest: [x] mean_cn; [or] ogden;
+reward: [x] mean_cn; [or] ogden;
+rhythm: [x] mean_cn; [or] ogden;
+rice: [x] mean_cn; [or] ogden;
+right: [x] mean_cn; [or] ogden;
+ring: [x] mean_cn; [or] ogden;
+river: [x] mean_cn; [or] ogden;
+road: [x] mean_cn; [or] ogden;
+rod: [x] mean_cn; [or] ogden;
+roll: [x] mean_cn; [or] ogden;
+roof: 屋顶 [x] mean_cn; [or] ogden;
+room: [x] mean_cn; [or] ogden;
+root: [x] mean_cn; [or] ogden;
+rough: [x] mean_cn; [or] ogden;
+round: [x] mean_cn; [or] ogden;
+rub: 擦 [x] mean_cn; [or] ogden;
+rule: [x] mean_cn; [or] ogden;
+run: [x] mean_cn; [or] ogden;
+sad: [x] mean_cn; [or] ogden;
+safe: [x] mean_cn; [or] ogden;
+sail: [x] mean_cn; [or] ogden;
+salt: [x] mean_cn; [or] ogden;
+same: [x] mean_cn; [or] ogden;
+sand: [x] mean_cn; [or] ogden;
+say: [x] mean_cn; [or] ogden;
+scale: [x] mean_cn; [or] ogden;
+school: [x] mean_cn; [or] ogden;
+science: [x] mean_cn; [or] ogden;
+scissors: [x] mean_cn; [or] ogden;
+screw: [x] mean_cn; [or] ogden;
+sea: [x] mean_cn; [or] ogden;
+seat: [x] mean_cn; [or] ogden;
+second: [x] mean_cn; [or] ogden;
+secret: [x] mean_cn; [or] ogden;
+secretary: [x] mean_cn; [or] ogden;
+see: [x] mean_cn; [or] ogden;
+seed: [x] mean_cn; [or] ogden;
+seem: [x] mean_cn; [or] ogden;
+selection: [x] mean_cn; [or] ogden;
+self: [x] mean_cn; [or] ogden;
+send: [x] mean_cn; [or] ogden;
+sense: [x] mean_cn; [or] ogden;
+separate: [x] mean_cn; [or] ogden;
+serious: [x] mean_cn; [or] ogden;
+servant: [x] mean_cn; [or] ogden;
+sex: [x] mean_cn; [or] ogden;
+shade: [x] mean_cn; [or] ogden;
+shake: [x] mean_cn; [or] ogden;
+shame: [x] mean_cn; [or] ogden;
+sharp: [x] mean_cn; [or] ogden;
+sheep: [x] mean_cn; [or] ogden;
+shelf: [x] mean_cn; [or] ogden;
+ship: [x] mean_cn; [or] ogden;
+shirt: [x] mean_cn; [or] ogden;
+shock: [x] mean_cn; [or] ogden;
+shoe: [x] mean_cn; [or] ogden;
+short: [x] mean_cn; [or] ogden;
+shut: [x] mean_cn; [or] ogden;
+side: [x] mean_cn; [or] ogden;
+sign: [x] mean_cn; [or] ogden;
+silk: [x] mean_cn; [or] ogden;
+silver: [x] mean_cn; [or] ogden;
+simple: [x] mean_cn; [or] ogden;
+sister: [x] mean_cn; [or] ogden;
+size: [x] mean_cn; [or] ogden;
+skin: [x] mean_cn; [or] ogden;
+skirt: 裙子 [x] mean_cn; [or] ogden;
+sky: [x] mean_cn; [or] ogden;
+sleep: [x] mean_cn; [or] ogden;
+slip: 滑倒;犯错 [x] mean_cn; [or] ogden;
+slope: [x] mean_cn; [or] ogden;
+slow: [x] mean_cn; [or] ogden;
+small: [x] mean_cn; [or] ogden;
+smash: 粉碎 [x] mean_cn; [or] ogden;
+smell: [x] mean_cn; [or] ogden;
+smile: [x] mean_cn; [or] ogden;
+smoke: [x] mean_cn; [or] ogden;
+smooth: [x] mean_cn; [or] ogden;
+snake: [x] mean_cn; [or] ogden;
+sneeze: [x] mean_cn; [or] ogden;
+snow: [x] mean_cn; [or] ogden;
+so: [x] mean_cn; [or] ogden;
+soap: [x] mean_cn; [or] ogden;
+society: [x] mean_cn; [or] ogden;
+sock: 短袜 [x] mean_cn; [or] ogden;
+soft: [x] mean_cn; [or] ogden;
+solid: [x] mean_cn; [or] ogden;
+some: [x] mean_cn; [or] ogden;
+son: [x] mean_cn; [or] ogden;
+song: [x] mean_cn; [or] ogden;
+sort: [x] mean_cn; [or] ogden;
+sound: [x] mean_cn; [or] ogden;
+soup: [x] mean_cn; [or] ogden;
+south: [x] mean_cn; [or] ogden;
+space: [x] mean_cn; [or] ogden;
+spade: 铲子 [x] mean_cn; [or] ogden;
+special: [x] mean_cn; [or] ogden;
+sponge: 海绵 [x] mean_cn; [or] ogden;
+spoon: [x] mean_cn; [or] ogden;
+spring: [x] mean_cn; [or] ogden;
+square: [x] mean_cn; [or] ogden;
+stage: [x] mean_cn; [or] ogden;
+stamp: [x] mean_cn; [or] ogden;
+star: [x] mean_cn; [or] ogden;
+start: [x] mean_cn; [or] ogden;
+statement: [x] mean_cn; [or] ogden;
+station: [x] mean_cn; [or] ogden;
+steam: [x] mean_cn; [or] ogden;
+steel: [x] mean_cn; [or] ogden;
+stem: [x] mean_cn; [or] ogden;
+step: [x] mean_cn; [or] ogden;
+stick: [x] mean_cn; [or] ogden;
+sticky: [x] mean_cn; [or] ogden;
+stiff: [x] mean_cn; [or] ogden;
+still: [n]寂静;剧照;蒸馏室; [conj] 仍然;但是;尽管如此; [vt] 蒸馏;使]静止;使]平静下来 [x] mean_cn; [or] ogden;
+stitch: 针脚;缝合 [x] mean_cn; [or] ogden;
+stocking: 长筒袜 [x] mean_cn; [or] ogden;
+stomach: [x] mean_cn; [or] ogden;
+stone: [x] mean_cn; [or] ogden;
+stop: [x] mean_cn; [or] ogden;
+store: [x] mean_cn; [or] ogden;
+story: [x] mean_cn; [or] ogden;
+straight: [x] mean_cn; [or] ogden;
+strange: [x] mean_cn; [or] ogden;
+street: [x] mean_cn; [or] ogden;
+stretch: [x] mean_cn; [or] ogden;
+strong: [x] mean_cn; [or] ogden;
+structure: [x] mean_cn; [or] ogden;
+substance: [x] mean_cn; [or] ogden;
+such: [x] mean_cn; [or] ogden;
+sudden: [x] mean_cn; [or] ogden;
+sugar: [x] mean_cn; [or] ogden;
+suggestion: [x] mean_cn; [or] ogden;
+summer: [x] mean_cn; [or] ogden;
+sun: [x] mean_cn; [or] ogden;
+support: [x] mean_cn; [or] ogden;
+surprise: [x] mean_cn; [or] ogden;
+sweet: [x] mean_cn; [or] ogden;
+swim: [x] mean_cn; [or] ogden;
+system: [x] mean_cn; [or] ogden;
+table: [x] mean_cn; [or] ogden;
+tail: [x] mean_cn; [or] ogden;
+take: [x] mean_cn; [or] ogden;
+talk: [x] mean_cn; [or] ogden;
+tall: [x] mean_cn; [or] ogden;
+taste: [x] mean_cn; [or] ogden;
+tax: [x] mean_cn; [or] ogden;
+teaching: [x] mean_cn; [or] ogden;
+tendency: [x] mean_cn; [or] ogden;
+test: [x] mean_cn; [or] ogden;
+than: [x] mean_cn; [or] ogden;
+that: [x] mean_cn; [or] ogden;
+the: [x] mean_cn; [or] ogden;
+then: [x] mean_cn; [or] ogden;
+theory: [x] mean_cn; [or] ogden;
+there: [x] mean_cn; [or] ogden;
+thick: [x] mean_cn; [or] ogden;
+thin: [x] mean_cn; [or] ogden;
+thing: [x] mean_cn; [or] ogden;
+this: [x] mean_cn; [or] ogden;
+though: [x] mean_cn; [or] ogden;
+thought: [x] mean_cn; [or] ogden;
+thread: 针线;穿过 [x] mean_cn; [or] ogden;
+throat: [x] mean_cn; [or] ogden;
+through: [x] mean_cn; [or] ogden;
+thumb: 拇指 [x] mean_cn; [or] ogden;
+thunder: [x] mean_cn; [or] ogden;
+ticket: [x] mean_cn; [or] ogden;
+tight: [x] mean_cn; [or] ogden;
+till: [x] mean_cn; [or] ogden;
+time: [x] mean_cn; [or] ogden;
+tin: [x] mean_cn; [or] ogden;
+tired: [x] mean_cn; [or] ogden;
+to: [x] mean_cn; [or] ogden;
+toe: [x] mean_cn; [or] ogden;
+together: [x] mean_cn; [or] ogden;
+tomorrow: [x] mean_cn; [or] ogden;
+tongue: [x] mean_cn; [or] ogden;
+tooth: [x] mean_cn; [or] ogden;
+top: [x] mean_cn; [or] ogden;
+touch: [x] mean_cn; [or] ogden;
+town: [x] mean_cn; [or] ogden;
+trade: [x] mean_cn; [or] ogden;
+train: [x] mean_cn; [or] ogden;
+transport: [x] mean_cn; [or] ogden;
+tray: 托盘;文件盒 [x] mean_cn; [or] ogden;
+tree: [x] mean_cn; [or] ogden;
+trick: [x] mean_cn; [or] ogden;
+trouble: [x] mean_cn; [or] ogden;
+trousers: 长裤 [x] mean_cn; [or] ogden;
+true: [x] mean_cn; [or] ogden;
+turn: [x] mean_cn; [or] ogden;
+twist: [x] mean_cn; [or] ogden;
+umbrella: [x] mean_cn; [or] ogden;
+under: [x] mean_cn; [or] ogden;
+unit: [x] mean_cn; [or] ogden;
+up: [x] mean_cn; [or] ogden;
+use: [x] mean_cn; [or] ogden;
+value: [x] mean_cn; [or] ogden;
+verse: [x] mean_cn; [or] ogden;
+very: [x] mean_cn; [or] ogden;
+vessel: [x] mean_cn; [or] ogden;
+view: [x] mean_cn; [or] ogden;
+violent: [x] mean_cn; [or] ogden;
+voice: [x] mean_cn; [or] ogden;
+waiting: [x] mean_cn; [or] ogden;
+walk: [x] mean_cn; [or] ogden;
+wall: [x] mean_cn; [or] ogden;
+war: [x] mean_cn; [or] ogden;
+warm: [x] mean_cn; [or] ogden;
+wash: [x] mean_cn; [or] ogden;
+waste: [x] mean_cn; [or] ogden;
+watch: [x] mean_cn; [or] ogden;
+water: [x] mean_cn; [or] ogden;
+wave: [x] mean_cn; [or] ogden;
+wax: [x] mean_cn; [or] ogden;
+way: [x] mean_cn; [or] ogden;
+weather: [x] mean_cn; [or] ogden;
+week: [x] mean_cn; [or] ogden;
+weight: [x] mean_cn; [or] ogden;
+well: [x] mean_cn; [or] ogden;
+west: [x] mean_cn; [or] ogden;
+wet: [x] mean_cn; [or] ogden;
+wheel: [x] mean_cn; [or] ogden;
+when: [x] mean_cn; [or] ogden;
+where: [x] mean_cn; [or] ogden;
+while: [x] mean_cn; [or] ogden;
+whip: 鞭子;抽打 [x] mean_cn; [or] ogden;
+whistle: [x] mean_cn; [or] ogden;
+white: [x] mean_cn; [or] ogden;
+who: [x] mean_cn; [or] ogden;
+why: [x] mean_cn; [or] ogden;
+wide: [x] mean_cn; [or] ogden;
+will: [x] mean_cn; [or] ogden;
+wind: [x] mean_cn; [or] ogden;
+window: [x] mean_cn; [or] ogden;
+wine: [x] mean_cn; [or] ogden;
+wing: [x] mean_cn; [or] ogden;
+winter: [x] mean_cn; [or] ogden;
+wire: [x] mean_cn; [or] ogden;
+wise: [x] mean_cn; [or] ogden;
+with: [x] mean_cn; [or] ogden;
+woman: [x] mean_cn; [or] ogden;
+wood: [x] mean_cn; [or] ogden;
+wool: 羊毛;毛线;毛织品 [x] mean_cn; [or] ogden;
+word: [x] mean_cn; [or] ogden;
+work: [x] mean_cn; [or] ogden;
+worm: [x] mean_cn; [or] ogden;
+wound: [x] mean_cn; [or] ogden;
+writing: [x] mean_cn; [or] ogden;
+wrong: [x] mean_cn; [or] ogden;
+year: [x] mean_cn; [or] ogden;
+yellow: [x] mean_cn; [or] ogden;
+yes: [x] mean_cn; [or] ogden;
+yesterday: [x] mean_cn; [or] ogden;
+you: [x] mean_cn; [or] ogden;
+young: [x] mean_cn; [or] ogden;
