@@ -233,11 +233,6 @@ Are you trying to scare me? % 你想吓唬我么?
 I feel like shit. % 我感觉很操蛋.
 It's wrong. It's disgusting. It's sick. % 这是错误的,恶心的,变态的.(恐同者言论)
 That's it. % 就这样了(分手).
-
-##单词+词组
-
-
-
 Don't do this to me. % 不要这样对我.
 Keep your chin up. % 抬起头来.
 I didn't mean to hurt you. -Who said I was hurt. % 我不是有意伤害你的. -谁说我受到了伤害.
@@ -260,6 +255,39 @@ Ciao. % 再见.
 Aim high but take your time. 大胆梦想,脚踏实地.
 Eat shit. % 吃屎.
 All right, all right, you win. % 好吧,好吧,你赢了.
+How's the job? % 你的工作怎么样?
+You take care of youself, kid. % 孩子,你照顾好自己.
+Have you seen this girl? % 你见过这个女孩么?
+My face is ruined. % 我毁容了.
+I'm wasting my life. % 我在浪费我的生命.
+Tell me more about her. % 告诉我更多关于她的故事.
+If this is the truth of Rome, I'll go with you. % 如果这是罗马真正的面目,我就会跟你走.
+Talk too much. % 多嘴了.
+Never mind. % 算了.
+Home, sweet home. % 到家了.
+I hate you. -I hate you more. % 我恨你. -我更恨你.
+He didn't say that. %他没说(这句话)
+I do not know this man. % 我不认识这个(蠢)人.
+One at a time. % 一个一个的来.
+Will you do me a favour, please, and show a little respect? % 能帮我个忙么,至少表示一点尊重.
+Don't flatter yourself. % 不要吹嘘自己.
+Where'd you go? % 你要去哪?
+This guy's been on us a while. -Is he tailing us? % 这个人一直跟踪我们. -他还跟着我们么?
+Do you think this is a good idea? % 你觉得这主意好么?
+Do you wanna wait inside for her? % 你想进来等她么?
+Just till you get on your feet. % 直到你自力更生为止.
+The fuck. How long have you been there standing behind us? % 你在我们身后站了多久?
+Hello to you too. % 也欢迎你.
+Get Miles on the phone. % 给麦克斯打个电话.
+Something happened? % 发生了一些事.
+The enemy of my enemy is my friend. % 敌人的敌人就是朋友.
+All for one and one for all. % 人人为我,我为人人.
+You pathetic worm. % 你这个可怜虫.
+It wasn't me. % 不管我的事(当一群人盯着你,在想是不是你干的时候).
+Okay, here's the situation. % 好的,情况是这样的.
+Case closed. % 那不就得了.
+How'd you find me? % 你怎么找到我的?
+She's playing with you, Denise. % 她在逗你呢,丹尼丝.
 
  % 
  % 
