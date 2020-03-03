@@ -624,7 +624,7 @@ heart: [n]心,内心;勇气; [acc]/hɑːrt/; [or]zk_bcz;
 August: [n]八月; [acc]/ˈɔːɡəst/; [or]zk_bcz;
 sale: [n]廉价出售,销售额,拍卖; [acc]/seɪl/; [or]zk_bcz;
 fence: [n]篱笆,围栏,栅栏;  [v]击剑;用篱笆围住;束缚; [acc]/fens/; [or]zk_bcz;
-might: [n]力量,强权,势力;  auxv. 可以;或许;可能,也许; [acc]/maɪt/; [or]zk_bcz;
+might: [n]力量,强权,势力;  [auxv]可以;或许;可能,也许; [acc]/maɪt/; [or]zk_bcz;
 lorry: [n]卡车;运货汽车; [acc]/ˈlɔːri/; [or]zk_bcz;
 fasten: [v]系;扎牢;扣住;固定; [acc]/ˈfæsn/; [or]zk_bcz;
 hostess: [n]女主人,女主持人,女服务员(乘务员); [acc]/ˈhoʊstəs/; [or]zk_bcz;
