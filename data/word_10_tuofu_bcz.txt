@@ -3650,7 +3650,7 @@ efficiency: [n]效率;功效;功率;性能; [acc]/ɪˈfɪʃnsi/; [or]tf_bcz;
 majesty: [n]最高权威;雄伟;壮丽;帝王; [acc]/ˈmædʒəsti/; [or]tf_bcz;
 replenish: [v]补充,再装满;把.装满;给.添加燃料; [acc]/rɪˈplenɪʃ/; [or]tf_bcz;
 pebble: [n]小圆石,小鹅卵石;  [vt]用卵石铺;用石子扔;使纹理粗糙; [acc]/ˈpebl/; [or]tf_bcz;
-billion: num. [美]十亿,[英]万亿;万亿,一万亿;大量,无数;  [adj]大量的; [acc]/ˈbɪljən/; [or]tf_bcz;
+billion: [num][美]十亿,[英]万亿;万亿,一万亿;大量,无数;  [adj]大量的; [acc]/ˈbɪljən/; [or]tf_bcz;
 annoying: [adj]讨厌的;恼人的; [acc]/əˈnɔɪɪŋ/; [or]tf_bcz;
 buzzer: [n]蜂鸣器;门铃,汽笛; [acc]/ˈbʌzər/; [or]tf_bcz;
 impermeable: [adj]不渗透的;(水等)不能渗透的; [acc]/ɪmˈpɜːrmiəbl/; [or]tf_bcz;
