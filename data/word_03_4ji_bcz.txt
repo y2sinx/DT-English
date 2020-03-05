@@ -3055,7 +3055,7 @@ desperate: [adj]绝望的;孤注一掷的;极需要的,渴望的;(情况) 极严
 fluid: [n]流体,液体; [adj]流动的;易变的;流畅的; [acc]/ˈfluːɪd/; [or]4j;
 afterward: [adv]之后,后来,以后; [acc]/'ɑːftəwəd/; [or]4j;
 semiconductor: [n]半导体; [acc]/ˌsemikənˈdʌktər/; [or]4j;
-blade: [n]刀刃,刀锋;刀,刀锋;桨叶,(飞机,植物的)叶片; [acc]/bleɪd/; [or]4j;
+blade: [n]刀片,刀刃;(飞机,植物的)叶片; [acc]/bleɪd/; [or]4j;
 straw: [n]稻草,麦杆;吸管; [adj]稻草(或麦秆)做的; [acc]/strɔː/; [or]4j;
 naval: [adj]海军的,军舰的; [acc]/ˈneɪvl/; [or]4j;
 ignorance: [n]不知,不懂;愚昧,无知; [acc]/ˈɪɡnərəns/; [or]4j;

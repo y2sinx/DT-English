@@ -1016,7 +1016,6 @@ spaceship: [n]太空船; [or]tf_ibt;
 spacecraft: [n]太空船; [or]tf_ibt;
 telescope: [n]望远镜; [or]tf_ibt;
 
-
 # 19 物理 
 compatible: [n]兼容的; [or]tf_ibt;
 boundary: [n]边界; [or]tf_ibt;

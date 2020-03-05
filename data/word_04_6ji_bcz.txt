@@ -439,7 +439,7 @@ preach: [v]传教,布道;说教;宣扬; [acc]/priːtʃ/; [or]6j;
 token: [n]象征;礼券,代金券;筹码,代币;  [adj]象征性的; [acc]/ˈtoʊkən/; [or]6j;
 cutter: [n]刀具,切割机;小汽艇;独桅纵帆船; [acc]/ˈkʌtər/; [or]6j;
 resolute: [adj]坚决的;果断的; [acc]/ˈrezəluːt/; [or]6j;
-expertise: [n]专门知识,专门技能; [acc]/ˌekspɜːrˈtiːz/; [or]6j;
+expertise: [n]专长,专门的知识或技能; [acc]/ˌekspɜːrˈtiːz/; [or]6j;
 poll: [n]投票,投票数;投票站;民意测验;  [v]获得(票数);  [adj][法]当事人一方作成的; [acc]/poʊl/; [or]6j;
 wield: [v]运用,行使;挥;  [vt]使用; [acc]/wiːld/; [or]6j;
 device: [n]器械,装置,设备;手段,策略; [acc]/dɪˈvaɪs/; [or]6j;
