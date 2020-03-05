@@ -1,9 +1,9 @@
-## 比较难发音的 
+## 需要注意发音的词
 etc: et cetera,[acc]/ei-te'sai-te-ruo/,,等等,及其他 
 roses: 
 downloading:   
 
-## 一次性添加到UnixWord 
+## 未出现在现有词汇表中的词
 cozing: 惬意的 
 cinnamon: 肉桂 
 badass: 混蛋 
@@ -103,4 +103,12 @@ mayday: 求救(国际无线电求救信号)
 showtime: 作秀时刻
 rainfull: [n]降雨(量) [or]zk;
 optimize: [vt]使完善,优化; [or]zk;
-
+autistic: adj.患有自闭症的
+brainwashing: 洗脑
+mafia: 黑手党
+permafrost: 永冻层
+Siberia: 西伯利亚
+revitalise: 重振
+reindeer: 驯鹿
+snatorium: [ac]/ˌsænəˈtɔːriəm/; [n]疗养院;
+cheeky: [ac]/ˈtʃiːki/; [adj]厚脸皮的,无耻的; 

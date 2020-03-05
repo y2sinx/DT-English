@@ -288,6 +288,7 @@ Okay, here's the situation. % 好的,情况是这样的.
 Case closed. % 那不就得了.
 How'd you find me? % 你怎么找到我的?
 She's playing with you, Denise. % 她在逗你呢,丹尼丝.
+Please,come in. % 请进
 
  % 
  % 

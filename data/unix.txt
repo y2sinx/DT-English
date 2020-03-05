@@ -189732,7 +189732,7 @@ stileman:
 stilet: 
 stiletto: 
 stilettolike: 
-still: [n]寂静;剧照;蒸馏室 conj. 仍然;但是;尽管如此 [vt]蒸馏;使.静止;使.平静下来
+still: [n]寂静;剧照;蒸馏室 [conj]仍然;但是;尽管如此 [vt]蒸馏;使.静止;使.平静下来
 stillage: 
 stillatitious: 
 stillatory: 

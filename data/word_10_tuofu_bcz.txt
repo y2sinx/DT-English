@@ -3152,7 +3152,7 @@ deformation: [n]变形;畸形; [acc]/ˌdiːfɔːrˈmeɪʃn/; [or]tf_bcz;
 urbanization: [n]都市化; [acc]/ˌɜːrbənəˈzeɪʃn/; [or]tf_bcz;
 authentic: [adj]真实的;真正的;可靠的; [acc]/ɔːˈθentɪk/; [or]tf_bcz;
 oddly: ad[v]古怪地;奇妙地;单数地; [acc]/ˈɑːdli/; [or]tf_bcz;
-immediately: ad[v]立即,马上;直接地;靠近地; conj. 一..(就); [acc]/ɪˈmiːdiətli/; [or]tf_bcz;
+immediately: ad[v]立即,马上;直接地;靠近地; [conj]一..(就); [acc]/ɪˈmiːdiətli/; [or]tf_bcz;
 luminosity: [n]光明,发光体;发光度; [acc]/ˌluːmɪˈnɑːsəti/; [or]tf_bcz;
 stimulant: [n][药]兴奋剂;刺激物;酒精饮料; [adj]激励的;使人兴奋的; [acc]/ˈstɪmjələnt/; [or]tf_bcz;
 jungle: [n]丛林,密林;危险地带;丛林音乐; [acc]/ˈdʒʌŋɡl/; [or]tf_bcz;

@@ -643,7 +643,7 @@ penetrate: [v]刺穿,穿透;进入;了解; [acc]/ˈpenətreɪt/; [or]gmat;
 spark: [n]火花,火星;丝毫,微量; [v]发出火花;发动;激励; [acc]/spɑːrk/; [or]gmat;
 ally: [n]盟友;同盟国;(二战时的) 同盟国; [v]结盟; [acc]/ˈælaɪ/; [or]gmat;
 tract: [n]器官系统;一大片地;短文,小册子; [acc]/trækt/; [or]gmat;
-plus: prep. 加,加上; [n]加号;有利因素; [adj]正的,多的;有利的;阳性的; conj. 此外,而且,况且; [acc]/plʌs/; [or]gmat;
+plus: prep. 加,加上; [n]加号;有利因素; [adj]正的,多的;有利的;阳性的; [conj]此外,而且,况且; [acc]/plʌs/; [or]gmat;
 condemn: [v]谴责,责备;判(某人某罪); [acc]/kənˈdem/; [or]gmat;
 unique: [adj]独特的,独一无二的;(唯一的)特有的;不同寻常的; [acc]/juˈniːk/; [or]gmat;
 navigation: [n]导航,航行,航海; [acc]/ˌnævɪˈɡeɪʃn/; [or]gmat;
