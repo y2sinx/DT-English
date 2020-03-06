@@ -21,10 +21,10 @@ confidence: [n]自信,信心 [sw]confluence; [a]/ˈkɑːnfɪdəns/; [or]zk;
 shave: [v]剃,刮 [n]修面 [sw]shaver; [or]zk;
 peaceful: [adj]和平的;平静的,安宁的 [sw]graceful; [a]/ˈpiːsfl/; [or]zk;
 occupy: [v]占用(时间,空间等);居住;任职;侵占(by military force); [add]s3/occupies,pr/occupying,pt/occupied,pp/occupied; [sw]occult; [a]/ˈɑːkjupaɪ/; [or]zk;
-courtyard: [n]庭院,院子; [sw]pl/courtyards; [sw]courtroom,courtly; [a]/ˈkɔːrtjɑːrd/; [or]zk;
+courtyard: [n]庭院,院子; [add]pl/courtyards; [sw]courtroom,courtly; [a]/ˈkɔːrtjɑːrd/; [or]zk;
 shout: [v]呼喊,呼叫; [n]呼喊,呼叫; [add]pl/shouts; s3/shouts,pr/shouting,pt/shouted,pp/shouted; [ex]give someone a shout/引起某人注意(非正式); [sw]stout,spout; [a]/ʃaʊt/; [or]zk;
 praise: [v]赞美,表扬,歌颂; [n]赞美(的话); [add]s3/praises,pr/praising,pt/praised,pp/praised; [ex]~ sb/表扬或赞美某人; [sw]raise,appraise,raised,prairie; [a]/preɪz/; [or]zk;
-crash: [n]碰撞,坠落,轰隆声; [v]碰撞,坠落,崩溃; adj.紧急的; [add]pl/crashes,s3/crashes,pr/crashing,pt/crashed,pp/crashed; [add]crass,brash,rash,clash; [a]/kræʃ/; [or]zk;
+crash: [n]碰撞,坠落,轰隆声; [v]碰撞,坠落,崩溃; adj.紧急的; [add]pl/crashes,s3/crashes,pr/crashing,pt/crashed,pp/crashed; [sw]crass,brash,rash,clash; [a]/kræʃ/; [or]zk;
 ============ [kk1: ]==========================================================================
 
 recognize: [v]辨别,认出;赏识,表彰;承认;赞成; [a]/ˈrekəɡnaɪz/; [or]zk;
