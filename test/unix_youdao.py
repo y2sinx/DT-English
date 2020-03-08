@@ -64,3 +64,28 @@ with open(fn_out,mode='w',encoding='utf-8') as fn1:
             else: fn1.write(line+'\n')
             num=i+1
             print("{}/{}: {}".format(num,len_lookuping,word))
+
+################################
+# 查找科目标签
+with open('F:/Git2/English/test/unix_simple.txt','r',encoding='utf-8') as fn:
+    raw=fn.readlines()
+with open('F:/Git2/English/test/unix_simple.txt','r',encoding='utf-8') as fn2:
+    string=fn2.read()
+
+subject=[]
+for line in raw:
+    pat="^.*\]\[(\w{1,20})\].*$"
+    ex=re.findall(pat,line)
+    if ex!=[]:
+        for i in ex:
+            subject.append(i)
+subject=list(set(lt).difference(set({'adj','n'})))
+
+# 替换科目标签
+for word in subject: 
+    old='['+word+']'
+    new='<'+word+'>'
+    string = string.replace(old,new)
+    
+with open('F:/Git2/English/test/unix_simple_new.txt','w',encoding='utf-8') as fn3:
+    fn3.write(string)
