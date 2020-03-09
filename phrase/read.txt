@@ -1,0 +1,33 @@
+# spk1
+1 Signposting and focusing in lectures/lessons,在论坛和讲座过程中引导方向和集中注意力;
+2 Specifying topics and relations between ideas,指明话题和观点之间的联系
+3 Drawing attention to something or focusing on it,吸引注意力
+4 Clarifying and restating,阐明和重新开始
+5 Giving examples,给出示例
+6 Adding,另外
+7 Using vague language,使用流行语
+8 Classifying and comparing things,分类和比较
+9 Making contrasts,对照
+10 Expressing relationships between things and ideas,表达事物和注意之间的联系
+11 Expressing aims, causes and effects,目标,事业,影响
+12 Ordering content and making time references,订购内容和制作时间参考 
+13 Hedging and expressing degrees of certainty,套期保值与确定度表达 
+14 Marking a shift in or change of topic,改变话题
+15 Direct address or instruction to students/audience,直接向学生/听众演讲或指导 
+16 Expressing quantity and increase/decrease,表达数量递增或递减
+
+# writen
+1. Specifying topics and relations between ideas,
+3. Hedging and expressing degrees of certainty,
+4. Explaining and defining,
+5. Giving examples or presenting evidence,
+6. Expressing aims, causes and effects,
+7. Making contrasts,
+8. Comparing,
+9. Adding,
+10. Expressing quantity/degree and increase/decrease,
+11. Expressing the existence/non-existence of something,
+12. Referring to the text and to other texts,
+13. Referring to time,
+14. Phrases with (the) (noun) of,
+15. Miscellaneous,
