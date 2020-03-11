@@ -1,3 +1,8 @@
 cytokine: [a]/'saɪtə(ʊ)kaɪn/; [n]<细胞> 细胞因子;细胞激素; [add]; [or]:yd;
 sweet: [a]/swiːt/; [adj]甜的,芳香的,美好的,可爱的; [n]糖果,甜食;亲爱的人,宝贝; [add]pl/sweets; [or]zk;
 fudge: [a]/fʌdʒ/; [n]法奇软糖; [v]含糊其辞,模糊处理;回避;篡改,捏造(事实,数字); [int]胡说,废话(表示怀疑或恼怒); [add]pl/fudges,pt/fudged,pp/fudged,pr/fudging,s3/fudges; [gd]un; [or]unix;
+Gutenberg: [a]/'gu:tnbə:g/; [n]古腾堡(人名,德国活版印刷发明人); [or]nm;
+muff: [a]/mʌf/; [n]暖手套,皮手套; [v]错过(机会);搞砸,把(某事)弄糟,做错;漏接(球),接(球)失误; [add]pl/muffs,pt/muffed,pp/muffed,pr/muffing,s3/muffs; [or]unix;
+parasol: [a]/ˈpærəsɒl/; [n]女用阳伞(旧时的);(海滩上,餐馆外等处的)大遮阳伞; [add]pl/parasols; [or]unix;
+be cross: 生气,发怒; [or]self;
+good-natured: [a]/ˌɡʊd ˈneɪtʃəd/; [adj]和蔼的;温厚的;脾气好的; [or]yd;
