@@ -6,3 +6,4 @@ muff: [a]/mʌf/; [n]暖手套,皮手套; [v]错过(机会);搞砸,把(某事)弄
 parasol: [a]/ˈpærəsɒl/; [n]女用阳伞(旧时的);(海滩上,餐馆外等处的)大遮阳伞; [add]pl/parasols; [or]unix;
 be cross: 生气,发怒; [or]self;
 good-natured: [a]/ˌɡʊd ˈneɪtʃəd/; [adj]和蔼的;温厚的;脾气好的; [or]yd;
+breeding ground: 温床
