@@ -1389,7 +1389,7 @@ impregnate: [a]/ɪmˈpreɡneɪt/; [v]使怀孕,使充满; [or]z8;
 impressionable: [a]/ɪmˈpreʃənəbl/; [adj]敏感的;易受影响的; [or]z8;
 imprint: [a]/ɪmˈprɪnt/; [n]印痕;特征;版本说明; [vt]盖;铭刻; [or]z8;
 impromptu: [a]/ɪmˈprɑːmptuː/; [adj]一触即发的;即席的,即兴的; [adv]即席地,即兴地; [n]即兴之作; [or]z8;
-improvise: [a]/ˈɪmprəvaɪz/; [v]即席创作,临时凑成; [or]z8;
+improvise: [a]/ˈɪmprəvaɪz/; [v]即席创作,临时凑成; 随机应变; [or]z8;
 imprudent: [a]/ɪmˈpruːdnt/; [adj]轻率的,鲁莽的; [or]z8;
 inadvertent: [a]/ˌɪnədˈvɜːrtənt/; [adj]疏忽的,漫不经心的,无意中的; [or]z8;
 inanimate: [a]/ɪnˈænɪmət/; [adj]无生命的;无生气的; [or]z8;
