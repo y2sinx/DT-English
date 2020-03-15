@@ -1,0 +1,622 @@
+#1.基础
+add,plus: 加
+subtract: 减
+difference: 差
+multiply times: 乘
+product: 积
+divide: 除
+divisible: 可被整除的
+divided evenly: 被整除
+dividend: 被除数
+divisor: 因子,除数
+quotient: 商
+remainder: 余数
+factorial: 阶乘
+power: 乘方
+radical sign, root sign: 根号
+round to: 四舍五入
+to the nearest: 四舍五入
+
+#2.有关集合
+union: 并集
+proper subset: 真子集
+solution set: 解集
+
+#3.有关代数式,方程和不等式
+algebraic term: 代数项
+like terms, similar terms: 同类项
+numerical coefficient: 数字系数
+literal coefficient: 字母系数
+inequality: 不等式
+triangle inequality: 三角不等式
+range: 值域
+original equation: 原方程
+equivalent equation 同解方程: 等价方程
+linear equation: 线性方程(e.g.5x+6=22)
+
+#4.有关分数和小数
+proper fraction: 真分数
+improper fraction: 假分数
+mixed number: 带分数
+vulgar fraction,common fraction: 普通分数
+simple fraction: 简分数
+complex fraction: 繁分数
+numerator: 分子
+denominator: 分母
+(least)common denominator: (最小)公分母
+quarter: 四分之一
+decimal fraction: 纯小数
+infinite decimal: 无穷小数
+recurring decimal: 循环小数
+tenths unit: 十分位
+
+#5.基本数学概念
+arithmetic mean: 算术平均值
+weighted average: 加权平均值
+geometric mean: 几何平均数
+exponent: 指数,幂
+base: 乘幂的底数,底边
+cube: 立方数,立方体
+square root: 平方根
+cube root: 立方根
+common logarithm: 常用对数
+digit: 数字
+constant: 常数
+variable: 变量
+inverse function: 反函数
+complementary function: 余函数
+linear: 一次的,线性的
+factorization: 因式分解
+absolute value: 绝对值,e.g.｜-32｜=32
+round off: 四舍五入
+
+6.有关数论
+natural number: 自然数
+positive number: 正数
+negative number: 负数
+odd integer: 奇整数,
+odd number: 奇数
+even integer, even number: 偶数
+integer, whole number: 整数
+positive whole number: 正整数
+negative whole number: 负整数
+consecutive number: 连续整数
+real number, rational number: 实数,有理数
+irrational(number): 无理数
+inverse: 倒数
+composite number 合数: e.g.4,6,8,9,10,12,14,15..
+reciprocal: 倒数
+common divisor: 公约数
+multiple: 倍数
+(least)common multiple: (最小)公倍数
+(prime)factor: (质)因子
+common factor: 公因子
+prime number  质数 : e.g.2,3,5,7,11,13,15..
+ordinary scale, decimal scale: 十进制
+nonnegative: 非负的
+tens: 十位
+units: 个位
+mode: 众数
+median: 中数
+common ratio: 公比
+
+#7.数列
+arithmetic progression(sequence: )等差数列
+geometric progression(sequence): 等比数列
+
+#8.其它
+approximate: 
+approximate: 近似
+(anti)clockwise (逆)顺时针方向
+cardinal: 基数
+ordinal: 序数
+direct proportion: 正比
+distinct: 不同的
+estimation: 估计,近似
+parentheses: 括号
+proportion: 比例
+permutation: 排列
+combination: 组合
+table: 表格
+trigonometric function: 三角函数
+unit: 单位,位
+
+
+#1.所有的角
+alternate angle: 内错角
+corresponding angle: 同位角
+vertical angle: 对顶角
+central angle: 圆心角
+interior angle: 内角
+exterior angle: 外角
+supplementary angles: 补角
+complementary angle: 余角
+adjacent angle: 邻角
+acute angle: 锐角
+obtuse angle: 钝角
+right angle: 直角
+round angle: 周角
+straight angle: 平角
+included angle: 夹角
+
+#2.所有的三角形
+equilateral triangle: 等边三角形
+scalene triangle: 不等边三角形
+isosceles triangle: 等腰三角形
+right triangle: 直角三角形
+oblique: 斜三角形
+inscribed triangle: 内接三角形
+
+#3.有关收敛的平面图形,除三角形外
+semicircle: 半圆
+concentric circles: 同心圆
+quadrilateral: 四边形
+pentagon: 五边形
+hexagon: 六边形
+heptagon: 七边形
+octagon: 八边形
+nonagon: 九边形
+decagon: 十边形
+polygon: 多边形
+parallelogram: 平行四边形
+equilateral: 等边形
+plane: 平面
+square: 正方形,平方
+rectangle: 长方形
+regular polygon: 正多边形
+rhombus: 菱形
+trapezoid: 梯形
+
+4.其它平面图形
+arc: 弧
+line, straight line: 直线
+line segment: 线段
+parallel lines: 平行线
+segment of a circle: 弧形
+
+5.有关立体图形
+cube: 立方体,立方数
+rectangular solid: 长方体
+regular solid/regular polyhedron: 正多面体
+circular cylinder: 圆柱体
+cone: 圆锥
+sphere: 球体
+solid: 立体的
+
+#6.有关图形上的附属物
+altitude: 高
+depth: 深度
+side: 边长
+circumference, perimeter: 周长
+radian: 弧度
+surface area: 表面积
+volume: 体积
+arm: 直角三角形的股
+cross section: 横截面
+center of acircle: 圆心
+chord: 弦
+radius: 半径
+angle bisector: 角平分线
+diagonal: 对角线
+diameter: 直径
+edge: 棱
+face of a solid: 立体的面
+hypotenuse: 斜边
+included side: 夹边
+leg: 三角形的直角边
+median of a triangle: 三角形的中线
+base: 底边,底数(e.g.2的5次方,2就是底数)
+opposite: 直角三角形中的对边
+midpoint: 中点
+endpoint: 端点
+vertex(复数形式: vertices)顶点
+tangent: 切线的
+transversal: 截线
+intercept: 截距
+
+#7.有关坐标
+coordinate system: 坐标系
+rectangular coordinate: 直角坐标系
+origin: 原点
+abscissa: 横坐标
+ordinate: 纵坐标
+Number line: 数轴
+quadrant: 象限
+slope: 斜率
+complex plane: 复平面
+
+#8.其它
+plane geometry: 平面几何
+trigonometry: 三角学
+bisect: 平分
+circumscribe: 外切
+inscribe: 内切
+intersect: 相交
+perpendicular: 垂直
+Pythagorean theorem: 勾股定理
+congruent: 全等的
+multilateral: 多边的
+
+#其它相关词汇
+cent: 美分
+penny: 一美分硬币
+nickel: 5美分硬币
+dime: 一角硬币
+dozen: 打(12个)
+score: 廿(20个)
+Centigrade: 摄氏
+Fahrenheit: 华氏
+quart: 夸脱
+gallon: 加仑(1gallon=4quart)
+yard: 码
+meter: 米
+micron: 微米
+inch: 英寸
+foot: 英尺
+minute: 分(角度的度量单位,60分=1度)
+square measure: 平方单位制
+cubic meter: 立方米
+pint: 品脱(干量或液量的单位)
+
+#Unix
+Delta: [a]/ˈdeltə/; [n]<数>变量增量; [or]unix;
+Laplacian: [a]/lɑ:'plɑ:siən/; [n]<数>拉普拉斯算子(调和算子); [adj]<数>拉普拉斯算子的(调和算子的); [or]unix;
+abac: [a]/'eibæk/; [n]座标网;<数>算图,列线图; [or]unix;
+accuracy: [a]/ˈækjərəsi/; [n]<数>精确度,准确性; [add]pl/accuracies; [or]unix;
+acnode: [a]/'æknəʊd/; [n]<数>孤立点;顶点; [or]unix;
+addition: [a]/əˈdɪʃn/; [n]添加;<数>加法;增加物; [add]pl/additions; [or]unix;
+aftereffect: [a]/'ɑːftəɪ,fekt/; [n]后果;余波;<数>后效; [or]unix;
+algebraic: [a]/ˌældʒɪˈbreɪɪk/; [adj]<数>代数的;关于代数学的; [or]unix;
+algorism: [a]/'ælɡərɪzəm/; [n]<数>阿拉伯数字系统;十进位计数法; [or]unix;
+algorithm: [a]/ˈælɡərɪðəm/; [n]<计><数>算法,运算法则; [add]pl/algorithms; [or]unix;
+algorithmic: [a]/,ælɡə'rɪðmɪk/; [adj]<数>算法的;规则系统的; [or]unix;
+aliquant: [a]/'ælɪkwənt/; [adj]不能整除的;除不尽的; [n]不能整除;<数>除不尽的数; [or]unix;
+altitude: [a]/ˈæltɪtjuːd/; [n]高地;高度;<数>顶垂线;(等级和地位等的)高级;海拔; [or]unix;
+annihilator: [a]/ə'naɪəleɪtə/; [n]歼灭者;消灭者;<数>零化子; [or]unix;
+antilogarithm: [a]/ˌæntiˈlɒɡərɪðəm/; [n]逆对数;<数>反对数;真数; [or]unix;
+antiparallel: [a]/,æntɪ'pærəlel/; [adj]<数>反平行的; [or]unix;
+apothem: [a]/'æpəθem/; [n]<数>边心距; [or]unix;
+approximation: [a]/əˌprɒksɪˈmeɪʃn/; [n]<数>近似法;接近;<数>近似值; [add]pl/approximations; [or]unix;
+arbitrary: [a]/ˈɑːbɪtrəri; ˈɑːbɪtri/; [adj]<数>任意的;武断的;专制的; [or]unix;
+arithmetically: [a]/ˌærɪθˈmetɪkli/; [adv]算术上;<数>用算术方法; [or]unix;
+assign: [a]/əˈsaɪn/; [vt]分配;指派;<计><数>赋值; [vi]将财产过户(尤指过户给债权人); [add]pt/assigned,pp/assigned,pr/assigning,s3/assigns; [or]unix;
+astroid: [a]/'æstrɔɪd/; [n]<数>星形线; [adj]星状的; [or]unix;
+asymptote: [a]/'æsɪm(p)təʊt/; [n]<数>渐近线; [or]unix;
+augend: [a]/'ɔ:dʒend/; [n]<数>被加数; [or]unix;
+automorphic: [a]/,ɔ:təu'mɔ:fik/; [adj]<岩>自形的;自同构的;<数>自守的; [or]unix;
+automorphism: [a]/,ɔtə'mɔrfɪzəm/; [n]<数>自同构;自守; [or]unix;
+axiom: [a]/ˈæksiəm/; [n]<数>公理;格言;自明之理; [add]pl/axioms; [or]unix;
+axonometric: [a]/aksə'nɒmetrɪk/; [adj]轴测法的;<数>三向投影的; [or]unix;
+betweenness: [a]/bɪ'twiːnnɪs/; [n]中间状态;<数>中间性; [or]unix;
+biaxiality: [a]/bai,æksi'æləti/; [n]<数>二轴性;双轴应力比;<数>双轴性; [or]unix;
+binary: [a]/ˈbaɪnəri/; [adj]<数>二进制的;二元的,二态的; [add]pl/binaries; [or]unix;
+binormal: [a]/bai'nəuməl/; [n]<数>次法线,<数>副法线; [or]unix;
+bisector: [a]/baɪ'sektə/; [n]<数>二等分线;二等分物; [or]unix;
+bisectrix: [a]/baɪ'sektrɪks/; [n]等分角线;<数>等分线; [add]pl/bisectrices; [or]unix;
+brachistochrone: [a]/brə'kɪstəkrəʊn/; [n]最速落径;<数>捷线; [or]unix;
+category: [a]/ˈkætəɡəri/; [n]种类,分类;<数>范畴; [add]pl/categories; [or]unix;
+catenoid: [a]/'kætn,ɔɪd/; [n]悬线垂度;<数>悬链曲面;悬索曲面; [adj]链状的; [or]unix;
+centralizer: [a]/'sentrəlaizə/; [n]扶正器;定心夹具;<数>中心化子;定中心器; [or]unix;
+centrosymmetry: [a]/,sentrəu'simətri/; [n]<晶体><数>中心对称; [or]unix;
+circulant: [a]/'sə:kjulənt/; [n]<数>循环行列式; [or]unix;
+circularity: [a]/ˌsɜːrkjəˈlærəti/; [n]圆;<数>环状;圈状; [or]unix;
+circumcircle: [a]/'sə:kəm,sə:kl/; [n]<数>外接圆;外切圆; [or]unix;
+circumradius: [a]/,sə:kəm'reidiəs/; [n]<数>外接圆半径; [add]pl/circumradii或circumradiuses; [or]unix;
+coefficient: [a]/ˌkəʊɪˈfɪʃnt/; [n]<数>系数;率;协同因素; [adj]合作的;共同作用的; [add]pl/coefficients; [or]unix;
+cofunction: [a]/'ko,fʊŋkʃən/; [n]<数>余函数; [or]unix;
+collinearity: [a]/kə,lɪniː'ærɪtɪ/; [n]<数>共线性; [or]unix;
+collineation: [a]/,kɔlinə'eiʃən/; [n]直射,共线;<数>直射变换; [or]unix;
+cologarithm: [a]/,ko'lɔɡə,rɪðəm; ,ko'lɑɡə,rɪðəm/; [n]<数>余对数; [or]unix;
+combined: [a]/kəmˈbaɪnd/; [adj]结合的;<数>组合的; [v]使结合;联合(combine的过去分词); [or]unix;
+commensurability: [a]/kə,menʃərə'biliti/; [n]公度;<数>可公度性;<数>可通约性;同单位; [or]unix;
+communality: [a]/kɔmju'næliti/; [n]公社性;集体性;团结;<数>公因子方差; [or]unix;
+commutant: [a]/'kɔmjutənt/; [n]<数>换位;换位子群,导出群; [or]unix;
+concurrent: [a]/kənˈkʌrənt/; [adj]并发的;一致的;同时发生的;并存的; [n]<数>共点;同时发生的事件; [or]unix;
+confocal: [a]/kɒn'fəʊk(ə)l/; [adj]<数>共焦的;同焦点的; [or]unix;
+conformal: [a]/kən'fɔːm(ə)l/; [adj]<数>保角的;共形的;正形的; [or]unix;
+congruence: [a]/ˈkɒŋɡruəns/; [n]一致;适合;<数>全等; [or]unix;
+conicoid: [a]/'kɔnikɔid/; [n]<数>二次曲面; [or]unix;
+conjugacy: [a]/'kɔndʒugəsi/; [n]<数>共轭性; [or]unix;
+connectedness: [a]/kəˈnektɪdnəs/; [n]<数>连通性; [or]unix;
+constraint: [a]/kənˈstreɪnt/; [n]<数>约束;局促,态度不自然;强制; [add]pl/constraints; [or]unix;
+constructible: [a]/kən'strʌktəbl/; [adj]<数>可构成的; [or]unix;
+continuum: [a]/kənˈtɪnjuəm/; [n]<数>连续统;<经>连续统一体;闭联集; [add]pl/continua或continuums; [or]unix;
+contraposition: [a]/kɒntrəpə'zɪʃ(ə)n/; [n]对置,对位;<数>换质位; [or]unix;
+contravariant: [a]/kɔntrə'væriənt/; [adj]逆变的;<数>反变的; [n]<数>反变式;反变量; [or]unix;
+convergency: [a]/kən'vɝdʒənsi/; [n]<数>收敛;集聚;集中;趋同现象;非周期阻尼运动; [or]unix;
+convergent: [a]/kənˈvɜːdʒənt/; [adj]<数>收敛的;会聚性的;趋集于一点的; [or]unix;
+convolution: [a]/ˌkɒnvəˈluːʃn/; [n]<数>卷积;回旋;盘旋;卷绕; [or]unix;
+coplanar: [a]/kəʊ'pleɪnə/; [adj]<数>共面的; [or]unix;
+coplanarity: [a]/kəuplə'nærəti/; [n]<数>共面性;共面;同面性; [or]unix;
+correlation: [a]/ˌkɒrəˈleɪʃn/; [n]<数>相关,关联;相互关系; [add]pl/correlations; [or]unix;
+cosecant: [a]/kəʊ'siːk(ə)nt; -'sek-/; [n]<数>余割; [or]unix;
+coset: [a]/'kəʊset/; [n]<数>陪集; [or]unix;
+cosine: [a]/ˈkəʊsaɪn/; [n]<数>余弦; [or]unix;
+cotangent: [a]/kəʊ'tændʒ(ə)nt/; [n]<数>余切;交易延期费; [or]unix;
+counting: [a]/'kaʊntɪŋ/; [n]<数>计算,计数; [or]unix;
+covariance: [a]/kəʊ'veərɪəns/; [n]<数>协方差;共分散; [or]unix;
+covariant: [a]/koʊˈveriənt,koʊˈværiənt/; [adj]协变的; [n]共变式;<数><物>协变量; [or]unix;
+covariation: [a]/kəu,veəri'eiʃən/; [n]<数>共变;<遗>相关变异; [or]unix;
+crunode: [a]/'krʊnod/; [n]<数>结点;<数>叉点; [or]unix;
+cubical: [a]/'kjuːbɪkəl/; [adj]<数>立方的;立方体的;体积的; [or]unix;
+cumulant: [a]/'kju:mjulənt/; [n]<数>累积量,累积数; [or]unix;
+curvature: [a]/ˈkɜːvətʃə(r)/; [n]弯曲,<数>曲率; [or]unix;
+cylinder: [a]/ˈsɪlɪndə(r)/; [n]圆筒;汽缸;<数>柱面;圆柱状物; [add]pl/cylinders; [or]unix;
+cylindered: [a]/ˈsɪlɪndə(r)/; [n]圆筒;汽缸;<数>柱面;圆柱状物; [add]pl/cylinders; [or]unix;
+decagon: [a]/ˈdekəɡən/; [n]<数>十角形;<数>十边形; [or]unix;
+decahedron: [a]/ˌdekəˈhiːdrən; ˌdekəˈhedrən/; [n]<数>十面体; [add]pl/decahedrons或decahedra; [or]unix;
+decimalism: [a]/'desiməlizəm/; [n]<数>十进法;十进制; [or]unix;
+definability: [a]/di'fainə'biləti/; [n]<数>可定义性; [or]unix;
+denary: [a]/'diːn(ə)rɪ/; [adj]十的;<数>十进制的; [or]unix;
+denumerable: [a]/dɪ'njuːm(ə)rəb(ə)l/; [adj]<数>可数的;可列的; [or]unix;
+developable: [a]/di'veləpəbl/; [adj]可发展的;<数>可展开的; [or]unix;
+differentiable: [a]/,dɪfə'renʃɪəb(ə)l/; [adj]<数>可微的;可辨的;可区分的; [or]unix;
+dihedron: [a]/daɪ'hiːdrən/; <数>二面体; [or]unix;
+dimension: [a]/daɪˈmenʃn; dɪˈmenʃn/; [n]方面;<数>维;尺寸;次元;容积; [adj]规格的; [vt]标出尺寸; [or]unix;
+dimensionless: [a]/daɪ'mɛnʃənlɪs/; [adj]<物>无量纲的;<数>无因次的;无尺寸的; [n]无穷小量; [or]unix;
+directrix: [a]/dɪ'rektrɪks; daɪ-/; [n]<数>准线; [add]pl/directrixes或directrice; [or]unix;
+dispersion: [a]/dɪˈspɜːʃn/; [n]散布;<统计><数>离差;驱散; [or]unix;
+dividend: [a]/ˈdɪvɪdend/; [n]红利;股息;<数>被除数;奖金; [or]unix;
+divisibility: [a]/də,vɪzə'bɪləti/; [n]可分性;<数>可除性; [or]unix;
+division: [a]/dɪˈvɪʒn/; [n]<数>除法;部门;分配;分割;师(军队);赛区; [or]unix;
+dodecagon: [a]/dəʊˈdekəɡən/; [n]<数>十二边形;十二角形; [or]unix;
+dodecahedron: [a]/ˌdəʊdekəˈhiːdrən; ˌdəʊdekəˈhedrən/; [n](几何学的)<数>十二面体; [add]pl/dodecahedeons或dodecahedra; [or]unix;
+dominated: [a]/'dɔmineitid/; [adj]占主导地位的;强势的;占统治地位的;<数>受控的; [v]控制,支配;处于支配地位(dominate的过去式); [or]unix;
+dualization: [a]/,djʊəlɪ'zeʃən/; [n]二元化,<数>对偶化;复线化; [or]unix;
+eccentricity: [a]/ˌeksenˈtrɪsəti/; [n]古怪;怪癖;<数>离心率; [add]pl/eccentricities; [or]unix;
+eigenfunction: [a]/'aiɡən,fʌŋkʃən/; [n]<数>特征函数(等于prope; [prep]function); [or]unix;
+eigenvalue: [a]/'aɪgən,væljuː/; [n]<数>特征值; [or]unix;
+ellipse: [a]/ɪˈlɪps/; [n]<数>椭圆形,<数>椭圆; [add]pl/ellipses; [or]unix;
+ellipticity: [a]/,elɪp'tɪsətɪ/; [n]<数>椭圆率;椭圆形; [or]unix;
+endomorphism: [a]/,endəʊ'mɔːfɪzəm/; [n]<数>自同态;内变质作用; [or]unix;
+enneagon: [a]/'eniəɡɔn/; [n]九角形;<数>九边形; [or]unix;
+enneahedron: [a]/,ɛnɪə'hidrən/; [n]<数>九面体; [add]pl/enneahedra; [or]unix;
+epicyclic: [a]/,ɛpə'saɪklɪk/; [adj]本轮的;<数>周转圆的; [or]unix;
+epicycloid: [a]/,epɪ'saɪklɒɪd/; [n]<数>外摆线,<数>圆外旋轮线; [or]unix;
+ergodic: [a]/ɜː'gɒdɪk/; [adj]<数>遍历性的;<数>各态历经的; [n]遍历性; [or]unix;
+evolutoid: [a]/i:və'lu:tɔid/; [n]<数>广渐屈线; [or]unix;
+explement: [a]/'ekspləmənt/; [n]<数>辅角; [or]unix;
+exponentiation: [a]/,ekspənenʃɪ'eɪʃ(ə)n/; [n]<数>取幂,求幂;乘方; [or]unix;
+extendibility: [a]/ik,stendə'biləti/; [n]<数>可扩展性,<计>可扩充性; [or]unix;
+extrapolation: [a]/ɪkˌstræpəˈleɪʃn/; [n]<数>外推法;推断; [add]pl/extrapolations; [or]unix;
+factorial: [a]/fækˈtɔːriəl/; [adj]因子的,阶乘的; [n]<数>阶乘; [or]unix;
+factorization: [a]/,fæktərai'zeiʃən/; [n]<数>因子分解;<数>因式分解; [or]unix;
+finiteness: [a]/'fainait,nis/; [n]<数>有限性; [or]unix;
+formula: [a]/ˈfɔːmjələ/; [n]<数>公式,准则;配方;婴儿食品; [add]pl/formulas或formulae; [or]unix;
+fractile: [a]/'fræktail/; [n]<数>分位数;分位点; [or]unix;
+fractional: [a]/ˈfrækʃənl/; [adj]部分的;<数>分数的,小数的; [or]unix;
+frustum: [a]/'frʌstəm/; [n]<数>截头锥体;平截头体; [add]pl/frustums或frusta; [or]unix;
+function: [a]/ˈfʌŋkʃn/; [n]功能;<数>函数;职责;盛大的集会; [vi]运行;活动;行使职责; [add]pl/functions,pt/functioned,pp/functioned,pr/functioning,s3/functions; [or]unix;
+functionality: [a]/ˌfʌŋkʃəˈnæləti/; [n]功能;<数>泛函性,函数性; [or]unix;
+generatrix: [a]/,dʒenə'reɪtrɪks/; [n]<数>母线;母面;母点; [add]pl/generatrices; [or]unix;
+geometric: [a]/ˌdʒiːəˈmetrɪk/; [adj]几何学的;<数>几何学图形的; [or]unix;
+haversine: [a]/'hævəsain/; [n]<数>半正矢; [or]unix;
+hendecagon: [a]/henˈdekəɡən/; [n]十一角形;<数>十一边形; [or]unix;
+hendecahedron: [a]/,hendekə'hedrən/; [n]<数>十一面体; [add]pl/hendecahedrons或hendecahedra; [or]unix;
+heptagon: [a]/ˈheptəɡən/; [n]七角形;<数>七边形; [or]unix;
+heptahedron: [a]/ˌheptəˈhiːdrən; ˌheptəˈhedrən/; [n]<数>七面体; [add]pl/heptahedrons或heptahedra; [or]unix;
+hexagram: [a]/ˈheksəɡræm/; [n]<数>六线形;六角星形; [or]unix;
+hexahedron: [a]/ˌheksəˈhiːdrən; ˌheksəˈhedrən/; [n]<数>六面体; [add]pl/hexahedrons或hexahedra; [or]unix;
+holomorphic: [a]/,hɒlə'mɔːfɪk/; [adj]<数>全纯的;正则的; [or]unix;
+homeomorphism: [a]/,hɒmɪə(ʊ)'mɔːfɪz(ə)m; ,həʊm-/; [n]<数>同胚;异质同晶; [or]unix;
+homogeneous: [a]/ˌhɒməˈdʒiːniəs/; [adj]均匀的;<数>齐次的;同种的;同类的,同质的; [or]unix;
+homomorphism: [a]/,hɒmə(ʊ)'mɔːfɪz(ə)m; ,həʊm-/; [n]<数>同态,同形;异质同形; [or]unix;
+hyperbola: [a]/haɪˈpɜːbələ/; [n]<数>双曲线; [add]pl/hyperbolas或hyperbolae; [or]unix;
+hyperboloid: [a]/haɪ'pɜːbəlɒɪd/; [n]<数>双曲面;双曲线体; [or]unix;
+hypercycle: [a]/,haɪpə'saɪkl/; <数>超循环; [or]unix;
+hyperplane: [a]/'haɪpəpleɪn/; [n]<数>超平面; [or]unix;
+hypersurface: [a]/,haipə'sə:fis/; [n]<数>超曲面; [or]unix;
+hypocycloid: [a]/,haɪpə(ʊ)'saɪklɒɪd/; [n]<数>圆内旋轮线; [or]unix;
+hypoid: [a]/'haipɔid/; [adj]<数>准双曲面的;交错轴齿轮的; [or]unix;
+icosahedral: [a]/,aikəusə'hedrəl/; [adj]<数>二十面体的; [or]unix;
+idempotent: [a]/,aɪdem'pəʊt(ə)nt; aɪ'dempət(ə)nt/; [adj]幂等的; [n]<数>幂等; [or]unix;
+incommensurable: [a]/ˌɪnkəˈmenʃərəbl/; [adj]不能比较的;不配比较的;<数>不可通约的; [or]unix;
+indecomposable: [a]/,ɪndiːkəm'pəʊzəb(ə)l/; [adj]不能分解的;<数>不可分的; [or]unix;
+indeterminacy: [a]/ˌɪndɪˈtɜːmɪnəsi/; 不确定;<数>不确定性; [or]unix;
+indexing: [a]/'ɪndɛks/; [n]<图情>标引;<数>指标化;编制指数; [v]指出(index的ing形式);编入索引中; [or]unix;
+infinite: [a]/ˈɪnfɪnət/; [adj]无限的,无穷的;无数的;极大的; [n]无限;<数>无穷大;无限的东西(如空间,时间); [or]unix;
+inradius: [a]/'inreidjəs/; [n]内接圆半径;<数>内径; [or]unix;
+integrand: [a]/'ɪntɪgrænd/; [n]<数>被积函数; [or]unix;
+integraph: [a]/'ɪntɪɡræf/; [n]<数>积分仪;积分器; [or]unix;
+interaction: [a]/ˌɪntərˈækʃn/; [n]相互作用,相互影响;交流;<数>交互作用;互动; [or]unix;
+intercept: [a]/ˌɪntəˈsept/; [vt]拦截;截断;窃听; [n]拦截;<数>截距;截获的情报; [add]pl/intercepts,pt/intercepted,pp/intercepted,pr/intercepting,s3/intercepts; [or]unix;
+intercepting: [a]/,ɪntə'septɪŋ/; [n]<数><军>截取;被截终端; [v]拦截(intercept的ing形式); [or]unix;
+interchangeability: [a]/ˌɪntərˌtʃeɪndʒəˈbɪləti/; [n]<数>可交换性,可交替性; [or]unix;
+interchangeably: [a]/ˌɪntəˈtʃeɪndʒəbli/; [adv]<数>可交换地; [or]unix;
+interlude: [a]/ˈɪntəluːd/; [n]插曲;穿插;幕间节目;<数>插算; [vt]使中断; [vi]插入; [add]pl/interludes; [or]unix;
+invariant: [a]/ɪnˈveəriənt/; [adj]不变的; [n]<数>不变量;<计>不变式; [or]unix;
+invertibility: [a]/in,və:tə'biləti/; [n]<数>可逆性; [or]unix;
+irreducibility: [a]/'iri,dju:sə'biləti/; [n]<数>不可约性; [or]unix;
+irreducible: [a]/ˌɪrɪˈdjuːsəbl/; [adj]<数>不可约的;不能削减的;不能复归的; [or]unix;
+isogonal: [a]/aɪ'sɒɡənəl/; 等方位线; <数>等角的; [or]unix;
+isometric: [a]/ˌaɪsəˈmetrɪk/; [adj]<数>等距的;等角的;等轴的;等体积的; [n]等容线; [or]unix;
+isosceles: [a]/aɪ'sɒsɪliːz/; [adj]二等边的,<数>等腰的; [or]unix;
+isotropic: [a]/,aɪsə(ʊ)'trɒpɪk/; [adj]<物><数>各向同性的;等方性的; [or]unix;
+iteration: [a]/ˌɪtəˈreɪʃn/; [n]<数>迭代;反复;重复; [or]unix;
+iterative: [a]/ˈɪtərətɪv/; [adj]<数>迭代的;重复的,反复的; [n]反复体; [or]unix;
+limacon: [a]/'liməsɔn/; [n]蜗牛线;<数>蚶线; [or]unix;
+locus: [a]/ˈləʊkəs/; [n]<数>轨迹;地点,所在地; [add]pl/loci或loca; [or]unix;
+logarithm: [a]/ˈlɒɡərɪðəm/; [n]<数>对数; [or]unix;
+lozenge: [a]/ˈlɒzɪndʒ/; [n]<数>菱形;锭剂;菱形窗玻璃; [add]pl/lozenges; [or]unix;
+maximization: [a]/ˌmæksɪmaɪˈzeɪʃn/; [n]<数>极大化,最大化; [or]unix;
+maximum: [a]/ˈmæksɪməm/; [n]<数>极大,最大限度;最大量; [adj]最高的;最多的;最大极限的; [add]pl/maximums或maxima; [or]unix;
+mediant: [a]/'miːdɪənt/; [n]中音;<数>中间数; [or]unix;
+meromorphic: [a]/,merə'mɔːfɪk/; [adj]<数>亚纯的; [or]unix;
+metamathematics: [a]/,metəmæθ(ə)'mætɪks/; [n]<数>元数学; [or]unix;
+minuend: [a]/'mɪnjʊend/; [n]<数>被减数; [or]unix;
+monocytic: [a]/məu'nɔdrəmi/; [adj]单子宫的; monodist:; [n]<数>单值; [add]pl/monodramas;monodromy:; [or]unix;
+monodromy: [a]/məu'nɔdrəmi/; [n]<数>单值; [or]unix;
+monoid: [a]/'mɔnɔid/; [n]<数>独异点; [or]unix;
+monomial: [a]/mə'nəʊmɪəl/; [adj]单项的;单个词的; [n]<数>单项式;单名; [or]unix;
+monotropic: [a]/,mɔnəu'trɔpik/; [adj]<物>单变的;<数>单值的;只去寻一种花的; [or]unix;
+multicylinder: [a]/ˌmʌltidaɪˈmenʃənl; ˌmʌltidɪˈmenʃənl/; [adj]<数>多维的;多面的; [or]unix;
+multidimensional: [a]/ˌmʌltidaɪˈmenʃənl; ˌmʌltidɪˈmenʃənl/; [adj]<数>多维的;多面的; [or]unix;
+multiplicand: [a]/,mʌltɪplɪ'kænd; 'mʌltɪplɪ,kænd/; [n]<数>被乘数; [or]unix;
+multiplication: [a]/'mʌltəplɪ,ketɚ/; [n]<数>乘数;倍率器;放大器; [add]pl/multiplications;multiplicative:; [adj]<数>乘法的;增加的; [or]unix;
+multiplicative: [a]/'mʌltɪ,plɪkətɪv/; [adj]<数>乘法的;增加的; [n]乘法;倍数词; [or]unix;
+multiplicator: [a]/'mʌltəplɪ,ketɚ/; [n]<数>乘数;倍率器;放大器; [or]unix;
+multiplier: [a]/ˈmʌltɪplaɪə(r)/; [n]<数>乘数;<电子>倍增器;增加者;繁殖者; [or]unix;
+needless: [a]/'negətɪvɪz(ə)m/; [adj]<数>负的;消极的;否定的;阴性的; [n]否定论;消极论;反对癖性; [add]pt/negatived,pp/negatived,pr/negativing,pl/negatives,s3/negatives;negativism:; [v]需要;必须;缺少(need的三单形式); needy:; [prep]Trainning); [adv](只与must连用)必须地; [vt]否定;拒绝; [vi]否定;否认;无效; [or]unix;
+nilpotent: [a]/nɪl'pəʊt(ə)nt/; [adj]<数>幂零的; [n]幂零; [or]unix;
+nomography: [a]/nɒ'mɒɡrəfɪ/; [n]法律制定论;<数>列线图解法;有关法律制定的论文或书籍; [add]pl/nomographies; [or]unix;
+nonconservative: [a]/'nɔnkən'sə:vətiv/; [adj]<数>非保守的;非守恒的,不可逆流的; [or]unix;
+noncyclic: [a]/'nɔn'saiklik/; [adj]非旋回的;<数>非周期的; [or]unix;
+nonhomogeneous: [a]/'nɔn,hɔmə'dʒi:njəs/; [adj]<数>非齐次的;非均质的;多相的; [or]unix;
+nonperiodic: [a]/'nɔn,piəri'ɔdik/; [adj]<数>非周期的; [or]unix;
+nonpositive: [a]/'nɔn'pɔzətiv/; [adj](整数)负的;(函数)负值的;<数>非正的; [or]unix;
+nonsinusoidal: [a]/'nɔnsainə'sɔidəl/; [adj]<数>非正弦的; [or]unix;
+null: [a]/nʌl/; [adj]无效的,无价值的;等于零的; [n]零,<数>空; [or]unix;
+nullity: [a]/ˈnʌləti/; [n]无效;无价值的事物或人;<数>零度;退化阶数; [add]pl/nullities; [or]unix;
+numeration: [a]/njuːmə'reɪʃ(ə)n/; [n]计算;数字的读法;<数>命数法;编号; [or]unix;
+observability: [a]/əb'zə:vəbiliti/; [n]<数>可观察性; [or]unix;
+octant: [a]/'ɒkt(ə)nt/; [n]<航><水运>八分仪;<数>八分圆;成45°视角的位置; [or]unix;
+octonary: [a]/'ɒktə(ʊ)n(ə)rɪ/; [adj]<数>八进制的;八的;由八组成的; [n]八个一组;八行诗; [add]pl/octonaries; [or]unix;
+ordinal: [a]/ˈɔːdɪnl/; [adj]顺序的,依次的; [n]<数>序数; [add]pl/ordinals; [or]unix;
+orthogonal: [a]/ɔː'θɒg(ə)n(ə)l/; [adj]<数>正交的;直角的; [n]正交直线; [or]unix;
+orthogonality: [a]/,ɔːθɒɡə'nælətɪ/; [n]<数>正交性;相互垂直; [or]unix;
+ovaloid: [a]/'əuvəlɔid/; [adj]卵形的; [n]<数>卵形面; [or]unix;
+overcorrection: [a]/,əʊvəkə'rekʃən/; [n]<数>过校正; [or]unix;
+overdetermined: [a]/,əuvədi'tə:mind/; [adj]<数>超定的;多因素决定的;<数>过定的; [or]unix;
+parametric: [a]/pærə'metrɪk/; [adj]<数><物>参数的;<数><物>参量的; [or]unix;
+partition: [a]/pɑːˈtɪʃn/; [n]划分,分开;<数>分割;隔墙;隔离物; [vt]<数>分割;分隔;区分; [add]pl/partitions,pt/partitioned,pp/partitioned,pr/partitioning,s3/partitions; [or]unix;
+partitioned: [a]/pɑr'tɪʃən/; [adj]分割的;分区的;分段的; [vt]划分(partition的过去分词);<数>分割;把.分成部分; [or]unix;
+pentadecagon: [a]/pen'tədek'əɡən/; [n]<数>十五边形; [or]unix;
+pentagram: [a]/ˈpentəɡræm/; [n]<数>五角星形; [or]unix;
+pentahedral: [a]/,pentə'hiːdrəl/; [adj]五面的;<数>五面体的; [or]unix;
+pentahedron: [a]/ˌpentəˈhiːdrən; ˌpentəˈhedrən/; [n]<数>五面体; [add]pl/pentahedrons或pentahedra; [or]unix;
+perigon: [a]/'periɡən/; [n]三百六十度角,<数>周角; [or]unix;
+periodical: [a]/ˌpɪəriˈɒdɪkl/; [adj]<数>周期的;定期的; [n]期刊;杂志; [add]pl/periodicals; [or]unix;
+periodicity: [a]/,pɪərɪə'dɪsɪtɪ/; [n]<数>周期性;频率;定期性; [add]pl/periodicities; [or]unix;
+periodogram: [a]/piəri'ɔdəgræm/; [n]<电子><数>周期图; [or]unix;
+permutation: [a]/ˌpɜːmjuˈteɪʃn/; [n]<数>排列;<数>置换; [add]pl/permutations; [or]unix;
+pictogram: [a]/ˈpɪktəɡræm/; [n]<数>象形图; [or]unix;
+piecewise: [a]/'pɪs,waɪs/; [adj]<数>分段的; [adv]分段地; [or]unix;
+planarity: [a]/plə'nærətɪ/; [n]<数>平面性;平面化; [or]unix;
+pointwise: [a]/pɔintwaiz/; [adj]<数>逐点的; [or]unix;
+polygonal: [a]/pəˈlɪɡənl/; [adj]<数>多边形的;<数>多角形的; [or]unix;
+polyhedral: [a]/ˌpɑːliˈhiːdrəl,ˌpɑːliˈhedrəl/; [adj]<数>多面的;<数>多面体的; [or]unix;
+polytope: [a]/'pɔlitəup/; [n]<数>多胞形,多面体;可剖分空间; [or]unix;
+precision: [a]/prɪˈsɪʒn/; [n]精度,<数>精密度;精确; [adj]精密的,精确的; [or]unix;
+premultiplication: [a]/pri:,mʌltipli'keiʃən/; [n]<数>自左乘; [or]unix;
+priority: [a]/praɪˈɒrəti/; [n]优先;优先权;<数>优先次序;优先考虑的事; [add]pl/priorities; [or]unix;
+prism: [a]/ˈprɪzəm/; [n]棱镜;<晶体><数>棱柱; [add]pl/prisms; [or]unix;
+prismatoid: [a]/'prɪzmə,tɔɪd/; [n]<数>旁面三角台; [or]unix;
+probability: [a]/ˌprɒbəˈbɪləti/; [n]可能性;机率;<数>或然率; [add]pl/probabilities; [or]unix;
+product: [a]/ˈprɒdʌkt/; [n]产品;结果;<数>乘积;作品; [add]pl/products; [or]unix;
+prolongable: [a]/,pro'lɔŋəbl/; <数>可拓展的; <数>可开拓的; [or]unix;
+proportional: [a]/prəˈpɔːʃənl/; [adj]比例的,成比例的;相称的,均衡的; [n]<数>比例项; [add]pl/proportionals; [or]unix;
+proposition: [a]/ˌprɒpəˈzɪʃn/; [n]<数>命题;提议;主题;议题; [vt]向.提议;向.求欢; [or]unix;
+proximity: [a]/prɒkˈsɪməti/; [n]接近,<数>邻近;接近;接近度,距离;亲近; [or]unix;
+pseudosymmetry: [a]/sju:dəu'simitri/; [n]伪对称,<数>假对称 赝对称; [or]unix;
+quadrantal: [a]/kwɑd'ræntl/; [adj]<数>象限的;四分圆的;四分仪的; [or]unix;
+quadratic: [a]/kwɒˈdrætɪk/; [adj]<数>二次的; [n]二次方程式; [or]unix;
+quadrinomial: [a]/,kwɒdrɪ'nəʊmɪəl/; [n]<数>四项式; [adj]四项的; [or]unix;
+quantifier: [a]/ˈkwɒntɪfaɪə(r)/; [n]<数><语>量词;数量词;精于计算的人; [add]pl/quantifiers; [or]unix;
+quaternary: [a]/kwə'tɜːn(ə)rɪ/; [adj]<数>四进制的;四个一组的; [n]四;四个一组; [add]pl/quaternaries; [or]unix;
+quotient: [a]/ˈkwəʊʃnt/; [n]<数>商;系数;份额; [add]pl/quotients; [or]unix;
+radical: [a]/ˈrædɪkl/; [adj]激进的;根本的;彻底的; [n]基础;激进分子;<物化>原子团;<数>根数; [add]pl/radicals; [or]unix;
+radicand: [a]/'rædɪkænd/; [n]<数>被开方数; [or]unix;
+radication: [a]/,rædi-'keiʃən/; [n]<数>开方;生根; [or]unix;
+ramified: [a]/'ræmifaid/; [adj]<数>分歧的,有分枝的;成为网状; [or]unix;
+random: [a]/ˈrændəm/; [adj]<数>随机的;任意的;胡乱的; [n]随意; [adv]胡乱地; [or]unix;
+randomization: [a]/'rændəmɪ'zeʃən/; [n]<数>随机化,不规则分布;随机选择; [or]unix;
+realizable: [a]/ˈriːəlaɪzəbl; ˈrɪəlaɪzəbl/; [adj]<数>可实现的;可实行的;可感觉到的; [or]unix;
+reciprocal: [a]/rɪˈsɪprəkl/; [adj]互惠的;相互的;倒数的,彼此相反的; [n]<数>倒数;互相起作用的事物; [add]pl/reciprocals; [or]unix;
+rectification: [a]/ˌrektɪfɪˈkeɪʃn/; [n]改正,矫正;<化工>精馏;<电>整流;<数>求长; [or]unix;
+recursion: [a]/rɪˈkɜːʃn/; [n]<数>递归,循环;递归式; [or]unix;
+recursive: [a]/rɪˈkɜːsɪv/; [adj]<数>递归的;循环的; [or]unix;
+reduced: [a]/rɪ'djuːst/; [adj]减少的;<数>简化的;缩减的; [or]unix;
+reducible: [a]/rɪˈduːsəbl/; [adj]<数>可约的,可化简的;可还原的;可缩小的; [or]unix;
+redundancy: [a]/rɪˈdʌndənsi/; [n]<计><数>冗余(等于redundance);裁员;人浮于事; [add]pl/redundancies; [or]unix;
+regressor: [a]/ri'ɡresə/; [n]<数>回归量; [or]unix;
+reinversion: [a]/,riin'və:ʃən/; [n]<数>重反演;重新求逆;复位术,翻回法; [or]unix;
+relativization: [a]/,rɛlətɪvɪ'zeʃən/; [n]<数>相对化,相对性; [or]unix;
+remainder: [a]/rɪˈmeɪndə(r)/; [n]<数>余数,残余;剩余物;其余的人; [adj]剩余的;吃剩的; [vt]廉价出售;削价出售; [vi]廉价出售;削价出售; [add]pl/remainders,pt/remaindered,pr/remaindering,s3/remainders; [or]unix;
+resoluble: [a]/rɪ'zɒljʊb(ə)l/; [adj]可分解的,可溶解的;<数>可解决的; [or]unix;
+reversibility: [a]/rɪˌvɜːrsəˈbɪləti/; [n]<数>可逆性;可撤销;可反转性; [or]unix;
+rhomb: [a]/rɒm(b)/; [n]<数>菱形;斜方形;结晶斜方六面体; [or]unix;
+rhombohedral: [a]/rɔmbəu'hi:drəl/; [adj]菱形的,<数>斜方六面体的; [or]unix;
+rhomboid: [a]/ˈrɒmbɔɪd/; [n]长斜方形,长菱形; [adj]<数>长斜方形的;长菱形的; [or]unix;
+rhombus: [a]/ˈrɒmbəs/; [n]<数>菱形;<数>斜方形; [add]pl/rhombuses或rhombi; [or]unix;
+scalar: [a]/ˈskeɪlə(r)/; [adj]标量的;数量的;梯状的,分等级的; [n]<数>标量;<数>数量; [or]unix;
+semiaxis: [a]/,semɪ'æksɪs/; [n](椭圆等的)<数>半轴; [or]unix;
+semilogarithmic: [a]/'semi,lɔɡə'riðmik, ,semai-/; [adj]<数>半对数的; [or]unix;
+semisimple: [a]/,sɛmaɪ'sɪmpl/; <数>半单的; [or]unix;
+senary: [a]/'siːnərɪ; 'sen-/; [adj]六的;<数>六进制的; [or]unix;
+separability: [a]/ˌseprəˈbɪləti/; [n]<数>可分性,分离性; [or]unix;
+septendecimal: [a]/septen'desiməl/; [adj]<数>十七进制的; [or]unix;
+sequence: [a]/ˈsiːkwəns/; [n]<数><计>序列;顺序;续发事件; [vt]按顺序排好; [add]pt/sequenced,pp/sequenced,pr/sequencing,pl/sequences,s3/sequences; [or]unix;
+signum: [a]/'siɡnəm/; [n]<数>正负号函数;征; [add]pl/signa; [or]unix;
+solvability: [a]/,sɔlvə'bɪləti/; [n]<数>可解性;解决之可能性;溶解度; [or]unix;
+solver: [a]/ˈsɒlvə(r)/; [n]解决者;<计>解算机;<数>求解程序; [or]unix;
+sphericity: [a]/,sfɪə'rɪsətɪ/; [n]<数>球形;球面; [add]pl/sphericities; [or]unix;
+standardization: [a]/ˌstændədaɪˈzeɪʃn/; [n]标准化;<数>规格化;校准; [or]unix;
+stochastic: [a]/stɒ'kæstɪk/; [adj]<数>随机的;猜测的; [or]unix;
+strophoid: [a]/'strofɔɪd/; [n]环诉;<数>环索线; [or]unix;
+subfraction: [a]/'sʌb'frækʃən/; [n]小分支;<数>子分式; [or]unix;
+subset: [a]/ˈsʌbset/; [n]<数>子集;子设备;小团体; [add]pl/subsets; [or]unix;
+substituting: [a]/'sʌbstitju:tiŋ/; [n]取代;<数>代入; [v]代替,取代(substitute的现在分词形式); [or]unix;
+substitution: [a]/ˌsʌbstɪˈtjuːʃn/; [n]代替;<数>置换;代替物; [add]pl/substitutions; [or]unix;
+subtraction: [a]/səbˈtrækʃn/; [n]<数>减法;减少;差集; [add]pl/subtractions; [or]unix;
+subtrahend: [a]/'sʌbtrə,hend/; [n]<数>减数; [or]unix;
+summand: [a]/'sʌmænd/; [n]<数>被加数; [or]unix;
+superposition: [a]/ˌsuːpəpəˈzɪʃn; ˌsjuːpəpəˈzɪʃn/; [n]<数>叠加,重合; [or]unix;
+symmetroid: [a]/'sɪmɪtri/; [n]<数>对称曲面; [or]unix;
+tangential: [a]/tænˈdʒenʃl/; [adj]<数>切线的,<数>正切的;离题的,扯远的; [n]正切,切线; [or]unix;
+tautochrone: [a]/'tɔ:təukrəun/; [n]等时降落轨迹,<数>等时曲线; [or]unix;
+tensor: [a]/ˈtensə(r); ˈtensɔː(r)/; [n]<数>张量;张肌; [or]unix;
+ternary: [a]/'tɜːnərɪ/; [adj]<数>三元的,三重的;<数>三进制的;第三的; [add]pl/ternaries; [or]unix;
+tetradic: [a]/'tɛtrədɪk/; [adj]四个的; [n]<数>四阶张量; [or]unix;
+tetragon: [a]/'tetrəɡən/; [n]<数>四角形; [or]unix;
+tetragonal: [a]/tɪ'træg(ə)n(ə)l/; [adj]<数>四角形的; [or]unix;
+theorem: [a]/ˈθɪərəm/; [n]<数>定理;原理; [add]pl/theorems; [or]unix;
+toroidal: [a]/to'rɔɪdəl/; [adj]环形的;<数>超环面的; [n]曲面(圆环); [or]unix;
+torse: [a]/tɔ:s/; [n]<数>可展曲面;扭曲面; [or]unix;
+tractrix: [a]/'træktrɪks/; [n]<数>曳物线;等切距曲线; [add]pl/tractrices; [or]unix;
+transcendency: [a]/træn'sɛndənsi/; [n]<数>超越;超然性; [or]unix;
+transcendental: [a]/ˌtrænsenˈdentl/; [adj]先验的;卓越的,<数>超越的;超自然的; [or]unix;
+transferable: [a]/trænsˈfɜːrəbl/; [adj]可转让的;<数>可转移的; [or]unix;
+transfinite: [a]/træns'faɪnaɪt; trɑːns-; -nz-/; [adj]<数>超限的;无穷的;无限的; [or]unix;
+trapezium: [a]/trəˈpiːziəm/; [n](英)<数>梯形(等于trapezoid);(美)<数>不规则四边形;大多角骨; [add]pl/trapeziums或trapezia; [or]unix;
+trapezoid: [a]/ˈtræpəzɔɪd/; [n]<数>梯形;<数>不规则四边形; [adj]梯形的;<数>不规则四边形的; [or]unix;
+trapezoidal: [a]/,træpɪ'zɔɪdəl/; [adj]<数>梯形的;不规则四边形的; [or]unix;
+triangular: [a]/traɪˈæŋɡjələ(r)/; [adj]三角的,<数>三角形的;三人间的; [or]unix;
+trident: [a]/ˈtraɪdnt/; [n]三叉戟;<数>三叉线;三齿鱼叉; [or]unix;
+trigonometric: [a]/ˌtrɪɡənəˈmetrɪk/; [adj]<数>三角法的;三角学的; [or]unix;
+trigonometrical: [a]/,trɪgənə'mɛtrɪkl/; [adj]<数>三角法的;三角学的; [or]unix;
+trihedral: [a]/traɪ'hiːdr(ə)l; -'hedr(ə)l/; [adj]有三面的;<数>三面形的; [or]unix;
+trihedron: [a]/traɪˈhɪdrən,traɪˈhedrən/; [n]<数>三面体; [add]pl/trihedrons或trihedra; [or]unix;
+trillion: [a]/ˈtrɪljən/; [n]<数>万亿; [adj]万亿的; num. <数>万亿; [or]unix;
+trisection: [a]/traɪ'sɛkʃən/; [n]三分;<数>三等分; [or]unix;
+trisectrix: [a]/trai'sektriks/; [n]<数>三等分角线;三分角; [or]unix;
+trochoid: [a]/'trəʊkɒɪd/; [n]<数>次摆线;轨迹线; [adj]滑车状的;车轮状的; [or]unix;
+unary: [a]/ˈjuːnəri/; [adj]<数>一元的; [or]unix;
+unconditioned: [a]/ˌʌnkənˈdɪʃnd/; [adj]<数>无条件的;绝对的; [or]unix;
+undecagon: [a]/,ʌn'dekəɡɒn/; 十一角形; <数>十一边形; [or]unix;
+undecidable: [a]/'ʌndi'saidəbl/; [adj]<数>不可判定的; [or]unix;
+undecomposable: [a]/'ʌn,di:kəm'pəuzəbl/; [adj]<数>不可分解的; [or]unix;
+uneven: [a]/ʌnˈiːvn/; [adj]不均匀的;不平坦的;<数>奇数的; [or]unix;
+uniformization: [a]/,jʊnɪfɝmɪ'zeʃən/; [n]均匀化;一致化;<数>单值化; [or]unix;
+unimodal: [a]/,ju:ni'məudəl/; [adj]<数>单峰的;用单峰分布描述的; [or]unix;
+unimodular: [a]/'jʊnɪ'mɑdjʊlɚ/; [adj]单位模的;<数>幺模的; [or]unix;
+unique: [a]/juˈniːk/; [adj]独特的,稀罕的;<数>唯一的,独一无二的; [gd]un; [or]unix;
+unprovability: [a]/'ʌnpruvə'biliti/; [n]<数>不可证明性; [or]unix;
+unweighted: [a]/ʌn'wetɪd/; [adj]无重负的;<数>未加权的;无关紧要的; [v]减重(unweight's pt and pp); [or]unix;
+variance: [a]/ˈveəriəns/; [n]变异;变化;不一致;分歧;<数>方差; [add]pl/variances; [or]unix;
+variate: [a]/'veərɪət/; [n]<数>变量;改变; [or]unix;
+vectorial: [a]/vek'tɔriəl/; [adj]<数>向量的;带菌体的; [or]unix;
+versine: [a]/'vɚ,saɪn/; <数>正矢; [or]unix;
+vindicable: [a]/'vɪndɪkəbl/; [adj]可辩护的;<数>可证明的; [or]unix;
+weighted: [a]/ˈweɪtɪd/; [adj]<数>加权的;加重的;衡量过的; [v]加重量于.;重压(weight的过去分词); [or]unix;
+cartogram: [a]/'kɑːtəgræm/; [n]比较统计地图,统计地图;<统计>统计图; [or]unix;
+chronologize: [a]/krə'nɔlədʒaiz/; [vt]<统计>按年代排列;作年表; [add]pt/chronologized,pp/chronologized,pr/chronologizing; [or]unix;
+demographer: [a]/dɪˈmɒɡrəfə(r)/; [n]<统计>人口统计学家,人口学家; [add]pl/demographers; [or]unix;
+estimator: [a]/'estɪmeɪtə/; [n]<统计>估计量;评价者; [or]unix;
+histogram: [a]/ˈhɪstəɡræm/; [n]<统计>直方图;柱状图; [or]unix;
+multimodal: [a]/,mʌltɪ'məʊdəl/; [adj]<统计>多峰的;多模式的; [n]多峰; [or]unix;
+multimodality: [a]/mʌltimɔ'dæliti/; [n]<统计>多峰性; [or]unix;
+necrology: [a]/ne'krɒlədʒɪ/; [n]死者名册;讣告;<统计>死亡统计学; [add]pl/necrologies; [or]unix;
+quality: [a]/ˈkwɒləti/; [n]质量,<统计>品质;特性;才能; [adj]优质的;高品质的;棒极了; [or]unix;
+quantification: [a]/ˌkwɑːntɪfɪˈkeɪʃn/; [n]<统计>定量,量化; [or]unix;
+statistics: [a]/stə'tɪstɪks/; [n]统计;统计学;<统计>统计资料; [or]unix;
+traceability: [a]/,treɪsə'bɪlətɪ/; [n]<统计>可追溯性;跟踪能力;可描绘; [or]unix;

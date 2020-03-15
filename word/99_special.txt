@@ -1,0 +1,175 @@
+## 数词: 基数词: 序数词
+one: 1st first
+two: 2nd second
+three: 3rd third
+four: 4th fourth
+five: 5th fifth
+
+six: 6th sixth
+seven: 7th seventh
+eight: 8th eighth
+nine: 9th ninth
+ten: 10th tenth
+eleven: 11th eleventh
+twelve: 12th twelfth
+thirteen: 13th thirteenth
+fourteen: 14th fourteenth
+fifteen: 15th fifteenth
+sixteen: 16th sixteenth
+seventeen: 17th seventeenth
+eighteen: 18th eighteenth
+nineteen: 19th nineteenth
+twenty: 20th twentieth
+twenty:-one 21st twenty-first
+twenty:-two 22nd twenty-second
+twenty:-three 23rd twenty-third
+thirty: 30th thirtieth
+forty: 40th fortieth
+fifty: 50th fiftieth
+sixty: 60th sixtieth
+seventy: 70th seventieth
+eighty: 80th eightieth
+ninety: 90th ninetieth
+one: hundred 100th one hundredth
+one: hundred(and) one 101st one hundred and first
+one: hundred(and) two 102nd one hundred and second
+three: hundred 300th three hundredth
+one: thousand 1000th one thousandth
+three: thousand 3000th three thousandth
+
+ten: thousand 10000th ten thousandth
+million: 1000000th millionth
+billion: 1000000000th billionth
+
+## 月份:
+January: (Jan])
+February: (Feb])
+March: (Mar])
+April: (Apr])
+May: (May)
+June: (Jun])
+July: (Jul])
+August: (Aug])
+September: (Sept])
+October: (Oct])
+November: (Nov])
+December: (Dec])
+
+## 星期:
+Monday: (Mon])
+Tuesday: (Tues])
+Wednesday: (Wed])
+Thursday: (Thurs])
+Friday: (Fri])
+Saturday: (Sat])
+Sunday: (Sun])
+
+## 主要国家名称及相关信息:
+国家: COUNTRY n] PERSON n] RELATED ADJECTIVES
+阿富汗: Afghanistan Afghan Afghan
+阿尔及利亚: Algeria Algerian Algerian
+阿根廷: Argentina Argentinian Argentinian
+澳大利亚: Australia Australian Australian
+奥地利: Austria Austrian Austrian
+比利时: Belgium Belgian Belgian
+巴西: Brazil Brazilian Brazilian
+英国: Britain/U]K] = the United Kingdom British British
+缅甸: Burma Burmese Burmese
+加拿大: Canada Canadian Canadian
+中国: China Chinese Chinese
+哥伦比亚: Colombia Colombian Colombian
+古巴: Cuba Cuban Cuban
+丹麦: Denmark Dane Danish
+埃及: Egypt Egyptian Egyptian
+芬兰: Finland Finn Finnish
+法国: France French French
+德国: Germany German German
+希腊: Greece Greek Greek
+荷兰: Holland/Netherlands Dutch Dutch
+匈牙利: Hungary Hungarian Hungarian
+印度: India Indian Indian
+印度尼西亚: Indonesia Indonesian Indonesian
+伊朗: Iran Iranian Iranian
+伊拉克: Iraq Iraqi Iraqi
+爱尔兰: Ireland Irish Irish
+以色列: Israel Israeli Israeli
+意大利: Italy Italian Italian
+日本: Japan Japanese Japanese
+约旦: Jordan Jordanian Jordanian
+肯尼亚: Kenya Kenyan Kenyan
+朝鲜: D]P]R]Korea Korean Korean
+科威特: Kuwait Kuwaiti Kuwaiti
+黎巴嫩: Lebanon Lebanese Lebanese
+卢森堡: Luxembourg Luxembourger Luxembourgish
+马来西亚: Malaysia Malaysian Malaysian
+墨西哥: Mexico Mexican Mexican
+新西兰: New Zealand New Zealander Zelanian
+挪威: Norway Norwegian Norwegian
+巴基斯坦: Pakistan Pakistani Pakistani
+巴拿马: Panama Panamanian Panamanian
+菲律宾: Philippines Filipino Philippine
+波兰: Poland Polish Polish
+葡萄牙: Portugal Portuguese Portuguese
+俄罗斯: Russia Russian Russian
+新加坡: Singapore Singaporean Singaporean
+南非: South Africa South African South African
+韩国: South Korea Korean Korean
+西班牙: Spain Spanish Spanish
+瑞典: Sweden Swedish Swedish
+瑞士: Switzerland Swiss Swiss
+泰国: Thailand Thai Thai
+土耳其: Turkey Turk Turkish
+美国: U]S]A] American American
+越南: Vietnam Vietnamese Vietnamese
+
+## states of USA
+Alabama: [pn] 阿拉巴马州, Montgomery/蒙哥马利; Birmingham/伯明翰;
+Alaska: [pn] 阿拉斯加州, Juneau/朱诺;
+Arizona: [pn] 阿利桑纳州, Phoenix/菲尼克斯;
+Arkansas: [pn] 阿肯色州, Little Rock/小石城;
+California: [pn] 加利福尼亚州, Sacramento/萨克拉门托; Los Angeles/洛杉矶, San Diego/圣地亚哥, Berkeley/伯克利, San Francisco/旧金山, Hollywood/好莱坞;
+Colorado: [pn] 科罗拉多州, Denver/丹佛;
+Connecticut: [pn] 康涅狄格州, Hartford/哈特福德;
+Delaware: [pn] 特拉华州, Dover/多佛;
+Florida: [pn] 佛罗里达州, Tallahassee/塔拉哈西; Orlando/奥兰多;
+Georgia: [pn] 佐治亚州, Atlanta/亚特兰大;
+Hawaii: [pn] 夏威夷州, Honolulu/檀香山;
+Idaho: [pn] 爱达荷州, Boise/博伊西;
+Illinois: [pn] 伊利诺伊州, Springfield/斯普林菲尔德; Chicago/芝加哥;
+Indiana: [pn] 印第安纳州, Indianapolis/印第安纳波利斯;
+Iowa: [pn] 爱荷华州, Des/得梅因 Moines;
+Kansas: [pn] 堪萨斯州, Topeka/托皮卡;
+Kentucky: [pn] 肯塔基州, Frankfort/法兰克福;
+Louisiana: [pn] 路易斯安那州, Baton Rouge/巴吞鲁日; New Orleans/新奥尔良 ;
+Maine: [pn] 缅因州, Augusta/奥古斯塔;
+Maryland: [pn] 马里兰州, Annapolis/安那波利斯;
+Massachusetts: [pn] 马萨诸塞州, Boston/波士顿;
+Michigan: [pn] 密歇根州, Lansing/兰辛; Detroit/底特律;
+Minnesota: [pn] 明尼苏达州, St. Paul/圣保罗;
+Mississippi: [pn] 密西西比州, Jackson County/杰克逊县;
+Missouri: [pn] 密苏里州, Jefferson City/杰斐逊城; St Louis/圣路易斯, Columbia/哥伦比亚;
+Montana: [pn] 蒙大拿州, Helena/海伦那;
+Nebraska: [pn] 内布拉斯加州, Lincoln/林肯市;
+Nevada: [pn] 内华达州, Carson City/卡森城; Las Vgas/拉斯维加斯 ;
+New Hampshire: [pn] 新罕布什尔州, Concord/康科德;
+New Jersey: [pn] 新泽西州, Trenton/特伦顿;
+New Mexico: [pn] 新墨西哥州, Santa Fe/圣菲 ;
+New York: [pn] 纽约州, Albany/奥尔巴尼;
+North Carolina: [pn] 北卡罗来纳州, Raleigh/罗利;
+North Dakota: [pn] 北达科他州, Bismarck/俾斯麦;
+Ohio: [pn] 俄亥俄州, Columbus/哥伦布;
+Oklahoma: [pn] 俄克拉何马州, Oklahoma City/俄克拉何马城 ;
+Oregon: [pn] 俄勒冈州, Salem/塞勒姆;
+Pennsylvania: [pn] 宾夕法尼亚州, Harrisburg/哈里斯堡; Philadelphia/费城, Pittsburgh/匹兹堡;
+Rhode Island: [pn] 罗得岛州, Providence/普罗维登斯;
+South Carolina: [pn] 南卡罗来纳州, Columbia/哥伦比亚;
+South Dakota: [pn] 南达科他州, Pierre/皮尔;
+Tennessee: [pn] 田纳西州, Nashville/纳什维尔;
+Texas: [pn] 得克萨斯州, Austin/奥斯汀; Houston/休斯顿;
+Utah: [pn] 犹他州, Salt Lake City/盐湖城 ;
+Vermont: [pn] 佛蒙特州, Montpelier/蒙彼利埃;
+Virginia: [pn] 弗吉尼亚州, Richmond/里士满;
+Washington: [pn] 华盛顿州, Olympia/奥林匹亚; Seattle/西雅图;
+West Virginia: [pn] 西弗吉尼亚州, Charleston/查尔斯顿;
+Wisconsin: [pn] 威斯康星州, Madison/麦迪逊;
+Wyoming: [pn] 怀俄明州, Cheyenne/夏延;
