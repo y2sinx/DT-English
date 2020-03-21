@@ -37,12 +37,9 @@
 }
 
 
-# revising.txt: 该文件用于修订其它列表中的词条.
-1. 使用`to_revising`将某个修改后的词条追加到该文件.
-2. 查找所有属于某个词表的词条,例如`[or]="zk"`,将其剪切到词表后面
-3. 使用 `EngDict("01_zhongkao_bcz.txt").to_txt()`更新词表.
+# notes.txt: 该文件用于修订其它列表中的词条.
 
-# word/
+# data/wordlist
 01_zhongkao_bcz: 2363
 02_gaokao_bcz: 4124
 03_4j_bcz: 3486
@@ -56,10 +53,12 @@
 12_gre3k_bcz: 2904
 13_gmat_bcz: 3000
 14_tuoyehx_bcz: 1469
-special: 专有名词等
-names: 通过有道查的 corpus-names 词汇, 2741
-unix: 通过有道查的 unix-words 词汇, 71086
 toefl_ibt: 3465; 不要丢弃注释;
+
+#word
+bigtan: 所有词条
+special: 专有名词等
+unix: 通过有道查的 unix-words 词汇, 71086
 
 
 # phrase
