@@ -23,7 +23,7 @@ for row in rows:
 bcz_edt={}
 for key in dt_bcz.keys():
     bcz_edt.update(dt_bcz[key])
-%P len(bcz_edt)
+#%P len(bcz_edt)
 
 bcz=English_Dictionary()
 bcz.edt.update(bcz_edt)
