@@ -1,0 +1,3 @@
+s3-pl: 以元音或浊辅音字母结尾的发/z/,如opens;以清辅音结尾的发/s/音,如maps;以字母t结尾的发/ts/音,如cuts;以字母d结尾的发/dz/音,如hands;以[s],[z],[ʃ],[ʒ],[dʒ],[tʃ]结尾的发[ɪz],如watches;
+cough: /kɔːf/; gh发/f/;
+psoriasis: /səˈraɪəsɪs/; ps相遇不发p;
