@@ -4,4 +4,6 @@ psoriasis: /səˈraɪəsɪs/; ps相遇不发p;
 naive: /naɪˈiːv/; 
 cigar: /sɪˈɡɑːr/; 
 tzar: /zɑː/;
-chloroform: /ˈklɔːrəfɔːrm/; ch一起时发/k/的音
+chloroform: /ˈklɔːrəfɔːrm/; ch一起时发/k/的音;
+pseudonym: /ˈsjuːdənɪm/,/ps/相遇,不发/p/; 
+HanZi: 衔/xián/;

@@ -1,113 +1,16 @@
-@@ 单词, 以[or]为标志
-@@ 句子,以%为标志
-@@ 词组,
-@@ 
+##2020-4-3#23-54
+flotsam: [c]/ˈflɒtsəm/t与s不连读?  
+hell-hole: [a]/ˈhɛlˌhəʊl/; [n]藏污纳垢之地;地狱;[or]bt;  
 
+记单词: 解释性语言用于理解,翻译性语言用于记忆;
 
-
-
-
-
-    
-##2020-3-31#0-32
-
-Sailed the seven seas. % 航行过七大洋.
-can't feel my legs: 腿麻了(感觉不到腿了)
-
-Edinburgh: [a]/'edinbərə/; [n]爱丁堡(英国城市名); [add]; [or]yd;  
-Leeds: [a]/li:dz/; [n]利兹市(英国城市名); [add]; [or]yd;  
-sunbathing: [a]/ˈsʌnbeɪðɪŋ/; [n]日光浴;[v]沐日光浴(sunbathe的ing形式); [add]; [or]yd;
-
-be designed for: 被设计用来做..  
-make sb mad: 把某人逼疯  
-be about sb: 与某人有关系  
-sex-mad: 饥渴难耐的
-##2020-3-31#21-38
-
-衔: /xián/
-pseudonym: /ˈsjuːdənɪm/,/ps/相遇,不发/p/; 
-
-keep thinking: 一直在想  
-tight shoes: 系鞋带  
-treat sb well: 好好对待某人  
-people like me: 像我这样的人  
-have some tea: 喝点茶  
-make a fuss: 小题大做  
-
-
-bright-coloured: [a]/braɪt ˈkʌlərd/; [adj]颜色鲜艳的; [or]bt;  
-strong-minded: [a]/ˌstrɒŋ ˈmaɪndɪd/; [adj]有主见的;意志坚强的; [or]bt;  
-##2020-4-2#19-12
-
-half-life: [a]/ˈhɑːf laɪf/; [n]<核>半衰期; [add]pl/half-lives,; [or]bt;
-red-handed: [a]/ˌred ˈhændɪd/; [adj]正在作案的,当场被发现的,被抓个正着的; [or]bt;
-
-年份: [1806]eighteen-oh-six;
-
-icing on the cake: 锦上添花 
-sb don't say much: 某人不怎么爱说话  
-schoolboy error: 低级错误  
-give sb hope: 给某人希望  
-be not their sort: 跟他们不是一路人  
-sb be more of a poet than a scientist: 与其说某人是科学家,不如说他是诗人  
-the natural wonder: 自然奇观  
-go out of his way to do sth: 背离了应有的方式去做某事  
-a big word: 一个有分量的词(强调某个词所指的含义)  
-swan song: the swan's last song,意指绝唱;  
-last hurrah: 最后的欢呼,最后一搏;
-belittle sth/sb: 小看,轻视;贬低;  
-the best thing since sliced bread: 有史以来最好的东西  
-bread and butter issues: 民生问题  
-jobs and health care: 就业和医疗  
-selling like hotcakes: 非常畅销 
-flat as a pancake: 向煎饼一样平(非常平)
-a tough cookie: 很难对付的人  
-a sharp cookie: 很难被糊弄的人  
-
-You can't have your cake and eat it,too. % 吃了就留不住.鱼和熊掌不可兼得.  
-Half a loaf is better than none. % 得到一丝你想要的东西总比什么也得不到要好.  
-That's the way the cookie crumbles. % 这就是现实,犯不着生气或难过.  
-It is easy as pie. % 这件事易如反掌.  
-eat humble pie: 忍气吞声 
-pie in the sky: 空中阁楼  
-It is like taking candy  from a baby. % 像抢娃娃的糖果一样容易.  
-Good for you. % 好样的.
-If you know which side your bread is buttered on,then you konw what your best interests are and will act to protect them. % 如果你知道什么是你的最大利益,你就会用实际行动去维护它.  
-You're toast. % 你惹大麻烦了.  
-##2020-4-2#19-12
-
-half-life: [a]/ˈhɑːf laɪf/; [n]<核>半衰期; [add]pl/half-lives,; [or]bt;
-red-handed: [a]/ˌred ˈhændɪd/; [adj]正在作案的,当场被发现的,被抓个正着的; [or]bt;
-
-年份: [1806]eighteen-oh-six;
-
-icing on the cake: 锦上添花 
-sb don't say much: 某人不怎么爱说话  
-schoolboy error: 低级错误  
-give sb hope: 给某人希望  
-be not their sort: 跟他们不是一路人  
-sb be more of a poet than a scientist: 与其说某人是科学家,不如说他是诗人  
-the natural wonder: 自然奇观  
-go out of his way to do sth: 背离了应有的方式去做某事  
-a big word: 一个有分量的词(强调某个词所指的含义)  
-swan song: the swan's last song,意指绝唱;  
-last hurrah: 最后的欢呼,最后一搏;
-belittle sth/sb: 小看,轻视;贬低;  
-the best thing since sliced bread: 有史以来最好的东西  
-bread and butter issues: 民生问题  
-jobs and health care: 就业和医疗  
-selling like hotcakes: 非常畅销 
-flat as a pancake: 向煎饼一样平(非常平)
-a tough cookie: 很难对付的人  
-a sharp cookie: 很难被糊弄的人  
-
-You can't have your cake and eat it,too. % 吃了就留不住.鱼和熊掌不可兼得.  
-Half a loaf is better than none. % 得到一丝你想要的东西总比什么也得不到要好.  
-That's the way the cookie crumbles. % 这就是现实,犯不着生气或难过.  
-It is easy as pie. % 这件事易如反掌.  
-eat humble pie: 忍气吞声 
-pie in the sky: 空中阁楼  
-It is like taking candy  from a baby. % 像抢娃娃的糖果一样容易.  
-Good for you. % 好样的.
-If you know which side your bread is buttered on,then you konw what your best interests are and will act to protect them. % 如果你知道什么是你的最大利益,你就会用实际行动去维护它.  
-You're toast. % 你惹大麻烦了.  
+have no proff: 没有证据 
+first love: 初恋  
+bring sb back: 医生把病人救回来  
+race me: 看谁跑得快  
+cannot be denied: 不可否认  
+be never simple: 从来不简单  
+numb the senses: 麻木感觉  
+try to make the best: [vi]尽力而为;
+du: [a]/,di:'ju:/; [n]二重唱;双人组合; [or]bt;  
+环形物语 
