@@ -1,0 +1,31 @@
+tips: 解释性语言用于理解,翻译性语言用于记忆;
+
+among 与 amount 的区别? 
+among是一个介词, 表示"在..之中(>=3)"或"是..当中的一个(one of)":  
+* They hid themselves among the trees. 他们躲在树林中.  
+* Paris is among the largest cities in the world.  
+amount做名词表示"数量;金额", 做动词表示"合计;等于":
+* A large amount(Large amounts) of money was(were) spent on the bridge.  
+* Building cost amounts to six million dollars. 建筑费用达600 万元.  
+* Her reply amounts to a refusal. 她的回答等于拒绝.
+
+
+all but:  
+* 副词: 修饰 v/adj, 表示"几乎"  
+* 介词: 修饰 n, 表示"除了...都"; all=全集-but的宾语  
+% 除了3个女生, 其余的学生都通过了考试.  
+
+at large: 一般的  
+* 整个: society at large % 整个社会   
+* 详细地: The question was discussed at large. 
+* 在逃的: The mountain lion that killed the hiker was still at large.  
+be at home in: 精通  
+% 你不知道巴里精通德语吗？  
+by no means: 绝不  
+% 他个性坚定, 但绝不是什么狂热分子.
+
+cast off: 
+* 摆脱  
+% 他摆脱了害怕心理, 决定去试一试. 
+* 解开:  
+% 让我们解开绳缆然后开船吧.

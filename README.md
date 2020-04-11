@@ -1,5 +1,6 @@
 # English 字典
 ##字典样本
+
 {
   "still": {
     "adv": [
@@ -39,7 +40,7 @@
 
 # notes.txt: 该文件用于修订其它列表中的词条.
 
-# data/wordlist
+# basic
 01_zhongkao_bcz: 2363
 02_gaokao_bcz: 4124
 03_4j_bcz: 3486
