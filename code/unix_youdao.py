@@ -25,7 +25,7 @@ def unix_adding(word):
         for item in s:
             if item.text:
                 meanings = meanings+biaodian(item.text)+'; '
-        meanings = meanings.replace('n. ','[n]').replace('vt. ','[vt]').replace('adj. ','[adj]').replace('adv. ','[adv]')
+        meanings = meanings.replace('n. ','[n]').replace('vt. ','[vt]').replace('adj. ','[a]').replace('adv. ','[ad]')
         return "{}: {} {}{}".format(word,phonetic,meanings,add+';')
     except Exception: return 0
 
