@@ -1,3 +1,419 @@
+^aptitude , 2
+^array , 2
+^article , 2
+^ascend , 2
+^aspect , 2
+^assert , 2
+^association , 2
+^assumption , 2
+^attribute , 2
+^aura , 2
+^austerity , 2
+^avid , 2
+^balmy , 2
+^band , 4
+^bare , 2
+^bear , 2
+^beguile , 2
+^behave , 2
+^benefit , 2
+^bestow , 2
+^betray , 2
+^bias , 2
+^bidding , 3
+^bill , 3
+^blast , 2
+^blessed , 2
+^block , 3
+^blunt , 2
+^board , 2
+^bonanza , 2
+^bond , 2
+^bound , 2
+^breed , 2
+^brighten , 2
+^bulk , 3
+^burning , 2
+^caliber , 2
+^cataclysm , 2
+^catching , 2
+^cause , 2
+^caustic , 2
+^celebrate , 2
+^chafe , 2
+^champion , 2
+^character , 3
+^charge , 4
+^check , 3
+^chop , 2
+^clause , 2
+^cluster , 2
+^coax , 2
+^coin , 2
+^commence , 2
+^commission , 2
+^complaint , 2
+^compliment , 2
+^conclude , 2
+^concrete , 2
+^concur , 2
+^condition , 2
+^conduct , 2
+^confer , 2
+^conservative , 2
+^conservatory , 2
+^content , 2
+^contract , 3
+^contrive , 2
+^convention , 2
+^convey , 2
+^orrespondence ', 
+^counsel , 2
+^court , 2
+^cover , 2
+^craft , 2
+^cram , 2
+^credit , 2
+^critical , 2
+^crooked , 2
+^crystal , 3
+^cult , 2
+^cunning , 2
+^current , 4
+^custom , 2
+^dampen , 2
+^deadly , 2
+^deal , 2
+^decline , 2
+^defend , 2
+^defer , 2
+^delicate , 2
+^demur , 2
+^denounce , 2
+^deport , 2
+^depression , 3
+^descent , 2
+^despoil , 2
+^destine , 2
+^detached , 2
+^detain , 2
+^dingy , 2
+^direct , 2
+^discipline , 2
+^discretion , 2
+^dismal , 2
+^displace , 2
+^dissect , 2
+^distribute , 2
+^divulge , 2
+^doctrine , 3
+^domestic , 2
+^domineering , 2
+^drastic , 2
+^draw , 2
+^drawback , 2
+^due , 2
+^ebb , 2
+^efface , 2
+^elaborate , 2
+^elevate , 2
+^elude , 2
+^elusive , 2
+^embalm , 2
+^embrace , 2
+^embroider , 2
+^enact , 2
+^enrapture , 2
+^enthrall , 2
+^entitle , 2
+^entry , 2
+^erect , 2
+^erratic , 2
+^evacuate , 2
+^exalted , 2
+^exceptional , 2
+^exclusion , 2
+^exile , 2
+^exit , 2
+^expedite , 2
+^expire , 2
+^exponent , 2
+^exquisite , 2
+^extinct , 2
+^extinction , 2
+^extinguish , 2
+^fabricate , 2
+^facet , 2
+^faint , 3
+^fairly , 2
+^faithful , 2
+^fanatic , 2
+^fateful , 2
+^fine , 2
+^fitting , 2
+^fix , 2
+^flaw , 2
+^flounder , 2
+^flush , 2
+^foremost , 2
+^forge , 3
+^forthright , 2
+^fowl , 2
+^fraction , 2
+^fracture , 2
+^fragile , 2
+^further , 2
+^fusion , 2
+^gainsay , 2
+^gap , 2
+^gild , 2
+^glaring , 2
+^glaze , 2
+^gloom , 2
+^gloomy , 2
+^glorious , 2
+^gorge , 2
+^gorgeous , 2
+^grant , 2
+^grasp , 2
+^gratuitous , 2
+^graze , 2
+^gregarious , 2
+^grim , 2
+^habitat , 2
+^hackneyed , 2
+^hail , 2
+^halt , 2
+^hardheaded , 2
+^harsh , 2
+^haunt , 2
+^head , 2
+^hectic , 2
+^hide , 2
+^hilarious , 2
+^hinge , 2
+^hoist , 2
+^hump , 2
+^hunger , 2
+^hurdle , 2
+^illuminate , 2
+^immerse , 2
+^impact , 2
+^imperative , 2
+^impetuous , 2
+^implement , 2
+^implicit , 2
+^impotence , 2
+^imprisonment , 2
+^impulse , 2
+^impulsive , 2
+^incisive , 2
+^indigenous , 2
+^inertia , 2
+^inferior , 2
+^initiate , 2
+^innocent , 2
+^insinuate , 2
+^institute , 2
+^instruct , 2
+^instrument , 3
+^instrumental , 2
+^insular , 2
+^integrity , 2
+^intense , 2
+^interest , 2
+^intoxicate , 2
+^invalid , 2
+^ion , 2
+^juncture , 2
+^kindle , 2
+^laborious , 2
+^launch , 2
+^lavish , 2
+^lead , 3
+^leading , 2
+^leash , 2
+^ledge , 2
+^limestone , 2
+^limp , 2
+^locate , 2
+^lofty , 2
+^log , 2
+^lottery , 2
+^lull , 2
+^luxuriant , 2
+^lyric , 2
+^maintain , 2
+^major , 2
+^mean , 2
+^means , 2
+^mechanics , 2
+^mercury , 2
+^molecule , 2
+^monitor , 2
+^mortal , 2
+^nervous , 2
+^neutralize , 2
+^nostalgia , 2
+^null , 2
+^objective , 2
+^obscure , 3
+^observe , 2
+^occasional , 2
+^odor , 2
+^offhand , 2
+^onset , 2
+^original , 2
+^outfit , 2
+^outstanding , 2
+^parallel , 2
+^partial , 2
+^partially , 2
+^passionate , 2
+^patronage , 2
+^perspective , 2
+^petrify , 2
+^pierce , 2
+^pit , 2
+^pitiful , 2
+^pivot , 2
+^placate , 2
+^poise , 2
+^precipitate , 2
+^precursor , 2
+^preferable , 2
+^preference , 2
+^prescription , 2
+^pressure , 2
+^primary , 2
+^principal , 2
+^process , 2
+^promote , 2
+^prompt , 2
+^propagate , 2
+^proximity , 2
+^punch , 2
+^purge , 2
+^radical , 3
+^radically , 2
+^raise , 2
+^rally , 2
+^rap , 2
+^rapacious , 2
+^ravage , 2
+^ravenous , 2
+^readily , 2
+^realize , 2
+^rebel , 2
+^rebellion , 2
+^reception , 2
+^record , 2
+^redress , 2
+^regimen , 2
+^reject , 2
+^release , 3
+^relieved , 2
+^remit , 2
+^rend , 2
+^render , 2
+^reproduction , 2
+^repulse , 2
+^resident , 2
+^resist , 2
+^respect , 2
+^rich , 2
+^rival , 2
+^role , 2
+^rough , 2
+^rumble , 2
+^rustic , 2
+^saturate , 2
+^save , 2
+^scale , 4
+^scoop , 2
+^scorch , 2
+^scout , 2
+^scrap , 2
+^screen , 2
+^sediment , 2
+^sensible , 2
+^sentimental , 2
+^serene , 2
+^serious , 2
+^session , 2
+^set , 2
+^shade , 2
+^sharp , 2
+^sharpen , 2
+^shrub , 2
+^skimpy , 2
+^sloppy , 2
+^slovenly , 2
+^sly , 2
+^smear , 2
+^sober , 2
+^sole , 3
+^solicit , 2
+^spineless , 2
+^spot , 3
+^sprawl , 2
+^spring , 2
+^spur , 2
+^squash , 2
+^stalk , 3
+^status , 2
+^stick , 2
+^stingy , 2
+^stodgy , 3
+^stoically , 2
+^stout , 2
+^strain , 2
+^strait , 2
+^strike , 2
+^strip , 2
+^stunt , 2
+^subjection , 2
+^submit , 2
+^subsidiary , 2
+^substantiate , 2
+^suit , 2
+^sum , 3
+^superb , 2
+^sustain , 2
+^sustenance , 2
+^sway , 2
+^tease , 2
+^temperate , 2
+^tender , 2
+^tense , 2
+^tentative , 2
+^term , 3
+^tide , 2
+^tingle , 2
+^tip , 2
+^toll , 2
+^torment , 2
+^tower , 2
+^transform , 2
+^transpire , 2
+^traverse , 2
+^tremor , 2
+^trial , 2
+^tug , 2
+^nconventional ', 
+^universal , 2
+^unruly , 2
+^unveil , 2
+^upright , 2
+^uproar , 2
+^urge , 2
+^valid , 2
+^variant , 2
+^vein , 2
+^versatile , 2
+^vital , 2
+ , 2
+
 #该文件夹包含不可覆盖的重复头部
 #1地理 
 insular % [a]海岛的 [ex]Haiwaii's ~ culture; [st]地理; [^]ibt;
@@ -284,13 +700,13 @@ testimony % [n]证言(evidence, affirmation) [st]法律; [^]ibt;
 justify % [vt]证明.是正当的(defend, vindicate); [ex]How can you justify what you did yesterday? [st]法律; [^]ibt;
 substantiate % [vt]证实(corroborate, verify); [ex]Evidences substantiated that he was the murderer. [st]法律; [^]ibt;
 confirm % [vt]证实,确认(substantiate, verify); [ex]Please confirm our reservations at the restaurant. [st]法律; [^]ibt;
-affirm % [vt]证实(assert) [st]法律; [^]ibt;
+affirm2 % [vt]证实(assert) [st]法律; [^]ibt;
 assure % [vt]使确信,向.保证(pledge ); [ex]The doctor assured the patient that everything would be all right. [st]法律; [^]ibt;
 evidence % [n]证据;证人 [st]法律; [^]ibt;
 follow % [v]跟随,遵循(abide by, obey); [ex]If you disregard the doctor's orders, a relapse will follow. [st]法律; [^]ibt;
 observe % [vt]遵守(follow); [ex]All participants of the contest have to observe the rules. [st]法律; [^]ibt;
 observance % [n]遵守 [st]法律; [^]ibt;
-abide % [vi]遵守(adhere, observe); [ex]He will abide by his promise if he gives it. [st]法律; [^]ibt;
+abide2 % [vi]遵守(adhere, observe); [ex]He will abide by his promise if he gives it. [st]法律; [^]ibt;
 accuse % [vt]控告;归咎(charge); [ex]I accused John of hitting my dog. [st]法律; [^]ibt;
 accusation % [n]控告; [ex]Anne objected to the untrue accusations. [st]法律; [^]ibt;
 complaint % [n]控告;诉苦; [ex]The boss had a complaint about Bill's tardiness. [st]法律; [^]ibt;
@@ -978,7 +1394,6 @@ equation % [n]等式; [ex]is a simple equation. [st]数学; [^]ibt;
 quarter % [n]四分之一; [ex]A quarter of a century would be years. [st]数学; [^]ibt;
 fraction % [n]分数 [st]数学; [^]ibt;
 divide % [vt]分割;除; [ex]The woman's estate was divided among her children. [st]数学; [^]ibt;
- [st %;
 
 #18天文
 celestial % [a]天生的,天体的;神圣的(astronomical, heavenly); [ex]The book showed a map of the celestial realms. [st]天文学; [^]ibt;
@@ -1146,7 +1561,6 @@ spectrum % [n]光,光谱,型谱,频谱 [st]物理; [^]ibt;
 wavelength % [n]波长 [st]物理; [^]ibt;
 magnifier % [n]放大镜,放大器 [st]物理; [^]ibt;
 lens % [n]透镜,镜头 [st]物理; [^]ibt;
- [st %;
 
 #20医学
 contagious % [a]传染的(catching, infectious); [ex]Cancer is not contagious, so you shouldn't be afraid to touch someone with cancer. [st]医学; [^]ibt;
@@ -1515,7 +1929,7 @@ capable % [a]有能力的; [ex]The very capable caterer fed everyone well at the
 tact % [n]老练;机智(diplomacy, thoughtfulness) [st]聪颖; [^]ibt;
 sharpen % [vt]使敏锐; [ex]You need to sharpen your eyes in doing experiments. [st]聪颖; [^]ibt;
 adroit % [a]机巧的(skillful, adept, deft); [ex]The elderly man couldn't walk, but he was still adroit with his hands. [st]聪颖; [^]ibt;
-acute % [a]敏锐的(sharp); [ex]Dogs have very acute hearing. [st]聪颖; [^]ibt;
+acute2 % [a]敏锐的(sharp); [ex]Dogs have very acute hearing. [st]聪颖; [^]ibt;
 acumen % [n]敏锐(acuteness); [ex]Bill has a lot of business acumen and earns a high salary. [st]聪颖; [^]ibt;
 
 
@@ -2014,7 +2428,7 @@ outcome % [n]后果;成果(result, consequence) [st]效果; [^]ibt;
 impotence % [n]无效原因 [st]效果; [^]ibt;
 gratuitous % [a]无理由的; [ex]Her gratuitous performance is not expected by the producer. [st]效果; [^]ibt;
 source % [n]来源,源头(beginning, origin) [st]效果; [^]ibt;
-account % [n]原因; [ex]On no account can we ignore the value of knowledge. [st]效果; [^]ibt;
+account2 % [n]原因; [ex]On no account can we ignore the value of knowledge. [st]效果; [^]ibt;
 reason % [n]原因v.推论(deduce) [st]效果; [^]ibt;
 sake % [n]缘故,原因(reason); [ex]He would do anything for money's sake. [st]效果; [^]ibt;
 cause % [vt]导致n.原因(reason); [ex]The heavy rain was the cause of the flood. [st]效果; [^]ibt;
@@ -2156,7 +2570,7 @@ promote % [vt]升职;促进; [ex]You're so happy. Are you promoted? / The gob
 officeholding % [n]任职供给 [st]工作; [^]ibt;
 provide % [vt]提供(supply, furnish, give); [ex]She provides for her family by working in a hospital. [st]工作; [^]ibt;
 provision % [n]供应(supply, furnishing) [st]工作; [^]ibt;
-accommodate % [vt]供给住宿; [ex]This hotel can accommodate guests. [st]工作; [^]ibt;
+accommodate2 % [vt]供给住宿; [ex]This hotel can accommodate guests. [st]工作; [^]ibt;
 furnish % [vt]供应,供给(equip, supply, provide); [ex]The room was furnished with the simplest essentials, a bed, a chair, and a table. [st]工作; [^]ibt;
 render % [vt]提供(provide); [ex]The passengers are not satisfied with the service rendered by the driver. [st]工作; [^]ibt;
 
@@ -2200,7 +2614,7 @@ supersede % [vt]替代(replace, substitute); [ex]The use of robots will someday 
 correlate % [vt]相关联(associate relate); [ex]The scientist could not correlate the data with his hypothesis. [st]关系; [^]ibt;
 grant % [vt]赠予(award, give); [ex]He was granted a pension. [st]关系; [^]ibt;
 subsidiary % [a]辅助的;附属的(supplementary); [ex]The corporation has many subsidiary companies. [st]关系; [^]ibt;
-affinity % [n]密切关系(liking); [ex]There is a close affinity between apes and monkeys. /Mary's affinity for classical music accounts for her large collection of recordings. [st]关系; [^]ibt;
+affinity2 % [n]密切关系(liking); [ex]There is a close affinity between apes and monkeys. /Mary's affinity for classical music accounts for her large collection of recordings. [st]关系; [^]ibt;
 fitting % [a]适合的,相称的; [ex]It is a fitting gesture to offer a reward to someone who returns something you have lost. [st]关系; [^]ibt;
 sway % [v]影响(persuade); [ex]His speech swayed the voters. [st]关系; [^]ibt;
 affect % [vt]影响,感动(influence; impress); [ex]Did the blunder affect your promotion? [st]关系; [^]ibt;
@@ -2300,7 +2714,7 @@ classic % [a]第一流的 [st]名誉; [^]ibt;
 respect % [n&vt]尊重,敬重(admire, esteem, honor); [ex]My parents think that the contemporary young people have no respect for authority. [st]名誉; [^]ibt;
 adore % [vt]敬爱,极喜爱(admire, love, esteem); [ex]Grandpa adored Grandma from the day they first met. [st]名誉; [^]ibt;
 admire % [vt]钦佩(respect);赞美,夸奖; [ex]I have always admired my mother's charm. [st]名誉; [^]ibt;
-advocate % [vt]拥护(hold, maintain); [ex]The social activist advocated change. [st]名誉; [^]ibt;
+advocate2 % [vt]拥护(hold, maintain); [ex]The social activist advocated change. [st]名誉; [^]ibt;
 
 ##气氛 
 hilarious % [a]热闹的 [st]气氛; [^]ibt;
@@ -2716,7 +3130,7 @@ long % [vi]渴望(crave,yearn); [ex]People in the war longed for peace day and n
 crave % [vt]渴求(desire,yearn); [ex]Anne craved unusual food when she was pregnant. [st]梦想; [^]ibt;
 realize % [vt]实现(implement,carry out); [ex]He finally realized his life long ambition to learn how to play the violin. [st]梦想; [^]ibt;
 mean % [vt]意欲(intend); [ex]I didn't mean to hurt you;I am sorry. [st]梦想; [^]ibt;
-yen % [n]热望,渴望v.热望,渴(yearn); [ex]Jane has a yen to go climbing in the Rockies. [st]梦想; [^]ibt;
+yen2 % [n]热望,渴望v.热望,渴(yearn); [ex]Jane has a yen to go climbing in the Rockies. [st]梦想; [^]ibt;
 court % [v]追求(pursue); [ex]He is courting wealth and fame all his life. [st]梦想; [^]ibt;
 
 ##情感 
@@ -2839,9 +3253,9 @@ behave % [v]举止端正,表现; [ex]"Behave yourself',the mother warned her chi
 behavior % [n]行为(conduct,deed) [st]抽象行为; [^]ibt;
 conduct % [v]行为(behave); [ex]She conducted herself stoically in her time of grief. [st]抽象行为; [^]ibt;
 deport % [vt]举止; [ex]She deported herself well. [st]抽象行为; [^]ibt;
-abstract % [a]抽象的(theoretical,conceptual); [ex]Professor Brewer's books are very abstract and hard to read. [st]抽象行为; [^]ibt;
-abstraction % [n]抽象概念; [ex]By looking at what happened in many similar cases,we were able to create an abstraction that also covered other instances. [st]抽象行为; [^]ibt;
-action % [n]行动(activity); [ex]The continuous action of the sewing machine shook the table. [st]抽象行为; [^]ibt;
+abstract2 % [a]抽象的(theoretical,conceptual); [ex]Professor Brewer's books are very abstract and hard to read. [st]抽象行为; [^]ibt;
+abstraction2 % [n]抽象概念; [ex]By looking at what happened in many similar cases,we were able to create an abstraction that also covered other instances. [st]抽象行为; [^]ibt;
+action2 % [n]行动(activity); [ex]The continuous action of the sewing machine shook the table. [st]抽象行为; [^]ibt;
 
 ##处理 
 shift % [n&v]转移;替换(change,alteration); [ex]Workers in this factory work on shifts. [st]处理; [^]ibt;
@@ -2871,7 +3285,7 @@ eradicate % [vt]根除(eliminate,get rid of,remove); [ex]One of the major goals 
 efface % [vt]消除(erase); [ex]Weathering has effaced the inscription on the tombstone so that people cannot read it. [st]处理; [^]ibt;
 despatch % [vt]迅速处理(dispose); [ex]The chairman despatched the meeting in minutes. [st]处理; [^]ibt;
 forsake % [vt]遗弃,抛弃,摒绝(abandon,desert); [ex]I had to forsake my smoking habit because l was having trouble breathing. [st]处理; [^]ibt;
-adopt % [vt]采用(foster); [ex]Susan adopted a strict diet when she learned she was sick. [st]处理; [^]ibt;
+adopt2 % [vt]采用(foster); [ex]Susan adopted a strict diet when she learned she was sick. [st]处理; [^]ibt;
 process % [vt]处理(treat); [ex]These materials are to be processed before they can be used. [st]处理; [^]ibt;
 scrap % [vt]废弃 [st]处理; [^]ibt;
 abandon % [vt]抛弃,放弃(discard,give up); [ex]He abandoned his wife and went away with all their money. [st]处理; [^]ibt;
@@ -2910,7 +3324,7 @@ seize % [vt]夺取,捕获(capture); [ex]The airfield was seized by enemy troops.
 redeem % [vt]取回;赎回(rescue,save); [ex]I redeemed the watch that I had pawned at the pawn shop. [st]得到; [^]ibt;
 procure % [vt]获得,取得(acquire,obtain); [ex]He swears he will procure a solution to this difficult problem. [st]得到; [^]ibt;
 acquire % [vt]获得(obtain,attain); [ex]Susan acquired an appreciation of classical music. [st]得到; [^]ibt;
-acquisitive % [a]可获得的; [ex]She boasts an acquisitive mind. [st]得到; [^]ibt;
+acquisitive2 % [a]可获得的; [ex]She boasts an acquisitive mind. [st]得到; [^]ibt;
 
 ##躲避 
 elude % [vt]躲避(escape,evade); [ex]The gangster eluded the police. [st]躲避; [^]ibt;
@@ -3221,7 +3635,7 @@ pressure % [n]压迫(tension); [ex]He feels the pressure soon after he takes up 
 tease % [vt]强求; [ex]The girl was teasing their mother for more candy. [st]强迫; [^]ibt;
 compel % [vt]强迫(coerce,force); [ex]The boss compelled us to work over the weekend. [st]强迫; [^]ibt;
 constrain % [vt]强迫(compel); [ex]Hunger constrained the orphan to beg for food. [st]强迫; [^]ibt;
-accelerate % [vt]迫使 [st]强迫; [^]ibt;
+accelerate2 % [vt]迫使 [st]强迫; [^]ibt;
 
 ##勤奋 
 laborious % [a]勤劳的; [ex]Anne received a raise for her laborious efforts. [st]勤奋; [^]ibt;
@@ -3271,7 +3685,7 @@ corroborate % [vt]确证(confirm,substantiate); [ex]These data corroborate the h
 grant % [vt]准予; [ex]The governor granted the petitioner's request. [st]认可; [^]ibt;
 admit % [vt]承认(acknowledge,accept); [ex]You should admit the truth. [st]认可; [^]ibt;
 acknowledge % [vt]承认(admit,accept); [ex]Bill acknowledged his failure to complete the job. [st]认可; [^]ibt;
-affirm % [vt]批准 [st]认可; [^]ibt;
+affirm3 % [vt]批准 [st]认可; [^]ibt;
 pardon % [vt]原谅,宽恕; [ex]Pardon,I didn't quite catch your meaning. [st]认可; [^]ibt;
 
 ##失误 
@@ -3561,7 +3975,7 @@ effuse % [vt]流出:散布; [ex]I can't believe that kind of words effuse from h
 accost % [vt]向人搭话(address,speak to); [ex]She was often accosted by complete strangers. [st]说话; [^]ibt;
 
 ##说明 
-account % [n]描述; [ex]When you return,please give an account of your trip. [st]说明; [^]ibt;
+account3 % [n]描述; [ex]When you return,please give an account of your trip. [st]说明; [^]ibt;
 exposition % [n]展览(exhibition);说明,阐明(description) [st]说明; [^]ibt;
 enunciate % [v]阐明;清晰发音(articulate); [ex]You must enunciate your lines.or the audience will never understand you. [st]说明; [^]ibt;
 narrate % [v]叙(describe,recount); [ex]The story is narrated by its hero. [st]说明; [^]ibt;
@@ -3782,9 +4196,9 @@ tally % [vi]符合(accord,agree); [ex]The report tallies with your description o
 coincide % [vi]相符合,相巧合; [ex]Our vacations coincided,so we traveled together. [st]合适; [^]ibt;
 suit % [vt]合适,适应(accommodate,fit,adapt); [ex]This candidate does not suit our qualifications. [st]合适; [^]ibt;
 advisable % [a]合理的(rational,sound); [ex]It is advisable to save part of your paycheck each month. [st]合适; [^]ibt;
-adapt % [v](使)适应(adjust,accommodate); [ex]Jane adapted quickly to the new procedures. [st]合适; [^]ibt;
-adaptable % [a]能适应的; [ex]If you are not adaptable,you will feel uncomfortable in college. [st]合适; [^]ibt;
-adaptation % [n]适应(accomodation); [ex]The movie was an adaptation of a classic novel. [st]合适; [^]ibt;
+adapt2 % [v](使)适应(adjust,accommodate); [ex]Jane adapted quickly to the new procedures. [st]合适; [^]ibt;
+adaptable2 % [a]能适应的; [ex]If you are not adaptable,you will feel uncomfortable in college. [st]合适; [^]ibt;
+adaptation2 % [n]适应(accomodation); [ex]The movie was an adaptation of a classic novel. [st]合适; [^]ibt;
 conformity % [n]一致,符合 [st]合适; [^]ibt;
 
 ##尖刻 
@@ -3808,13 +4222,14 @@ crafty % [a]灵巧的,巧妙的(cunning,sneaky); [ex]The spy thought of a crafty
 elaborate % [vt]精心制作(或计划) adj.精心构思的(careful); [ex]We ask Mary to elaborate her trip to Tibet. [st]精巧; [^]ibt;
 
 ##距离 
+##距离 
 remote % [a]遥远的,远程的(distant.inaccessible) [st]距离; [^]ibt;
 distant % [a]远的(remote); [ex]My parents live in a distant state, and I rarely see them. [st]距离; [^]ibt;
 gap % [n]差距(distance); [ex]A generation gap lies between parents and children. [st]距离; [^]ibt;
 proximity % [n]临近(nearness); [ex]He look around the proximity for his lost dog. [st]距离; [^]ibt;
 distribute % [vt]分布; [ex]pounds of muscles are well distributed over his foot frame. [st]距离; [^]ibt;
 adjacent % [a]邻近的(adjoining neighboring); [ex]Tom's house is adjacent to the part. [st]距离; [^]ibt;
-access % [vt]接近; [ex]Bill could not access any information from the computer. [st]距离; [^]ibt;
+access2 % [vt]接近; [ex]Bill could not access any information from the computer. [st]距离; [^]ibt;
 adjoin % [vt]贴近,毗连,靠近(abut); [ex]The living room adjoins the dining mom. [st]距离; [^]ibt;
 adjoining % [a]接近的.邻接的(adjacent,neighboring); [ex]We requested adjoining rooms at the hotel. [st]距离; [^]ibt;
 
@@ -3956,7 +4371,7 @@ aroma % [n]香气,芬芳,芳香(fragrance,scent,perfume); [ex]The roses gave the
 smell % [v]发出气味; [ex]The fish smells bad in three days. [st]味道; [^]ibt;
 stink % [vi]发出臭味(smell bad); [ex]The garbage stinks up the yard. [st]味道; [^]ibt;
 savor % [vt]尝味(taste,relish); [ex]l want to savor this great moment of accomplishment. [st]味道; [^]ibt;
-acid % [a]酸的(sour, tart)n.酸; [ex]Strong acid corrodes metal. [st]味道; [^]ibt;
+acid2 % [a]酸的(sour, tart)n.酸; [ex]Strong acid corrodes metal. [st]味道; [^]ibt;
 
 ##物理属性 
 hectic % [a]发热的(feverish) [st]物理属性; [^]ibt;
@@ -4163,10 +4578,10 @@ engender % [vt]产生(generate,produce); [ex]John's kind acts engendered my frie
 beget % [vt]引起;产生(arise,bring); [ex]Hunger begets crime. [st]发展; [^]ibt;
 generate % [vt]造成(produce,give rise to); [ex]His improper behavior generates a good deal of suspicion. [st]发展; [^]ibt;
 terminate % [vt]终止(end,finish,conclude,stop); [ex]The author terminated his contract with the publisher. [st]发展; [^]ibt;
-accomplished % [a]完成的; [ex]The prediction was literally accomplished. [st]发展; [^]ibt;
+accomplished2 % [a]完成的; [ex]The prediction was literally accomplished. [st]发展; [^]ibt;
 conclude % [vi]结束; [ex]The movie concludes at ten o'clock. [st]发展; [^]ibt;
 conclusive % [a]决定性的;最后的(decisive,definitive,final); [ex]The committee didn't reach any conclusive decision. [st]发展; [^]ibt;
-advance % [vt]使前进(proceed);提出(propose); [ex]The date of the meeting has been advanced from Friday to Monday. [st]发展; [^]ibt;
+advance2 % [vt]使前进(proceed);提出(propose); [ex]The date of the meeting has been advanced from Friday to Monday. [st]发展; [^]ibt;
 achieve % [vt]完成;实现;达到(accomplish,fulfil); [ex]Bill could not achieve his schooling because he is too lazy. [st]发展; [^]ibt;
 
 ##分离 
@@ -4241,7 +4656,7 @@ attachment % [n]连接物,附件; [ex]The vacuum cleaner has six different attac
 cohere % [vi]附着(connect,fit); [ex]The sushi rice grains cohere. [st]粘附; [^]ibt;
 cling % [vi]黏附(adhere,stick); [ex]The child clung to his mother,begging her not to leave. [st]粘附; [^]ibt;
 adhere % [vi]黏着,坚持(stick,hold,cling); [ex]There is a piece of lettuce adhering to the side of your plate. [st]粘附; [^]ibt;
-adherent % [a]依附的(adhesive,sticky)n.追随者,信徒; [ex]The political party's loyal adherents contributed a lot of money. [st]粘附; [^]ibt;
+adherent2 % [a]依附的(adhesive,sticky)n.追随者,信徒; [ex]The political party's loyal adherents contributed a lot of money. [st]粘附; [^]ibt;
 
 ##频率 
 constant % [a]不变的,持续的(invariable,continous); [ex]The constant noise from the road crew gave Bill a headache. [st]频率; [^]ibt;
@@ -4372,9 +4787,9 @@ intoxicate % [vt]使陶醉; [ex]He was intoxicated by many awards he received an
 lure % [vt]诱惑(entice,tempt); [ex]Many young Japanese engineers have been lured to the Middle East by the promise of high wages. [st]吸引; [^]ibt;
 entice % [vt]诱惑(lure,tempt); [ex]I enticed Mary to dinner by offering to pay for her meal. [st]吸引; [^]ibt;
 tempt % [vt]诱使(lure,entice); [ex]We refused the offer even though it tempted us. [st]吸引; [^]ibt;
-addict % [vt]对.有瘾; [ex]Alcohol may addict you. [st]吸引; [^]ibt;
+addict2 % [vt]对.有瘾; [ex]Alcohol may addict you. [st]吸引; [^]ibt;
 addicted % [a]沉溺的,上瘾的; [ex]Max smokes but he is not addicted. [st]吸引; [^]ibt;
-absorb % [vt]吸收,吸引(attract,allure); [ex]I used a sponge to absorb the spilled milk. [st]吸引; [^]ibt;
+absorb2 % [vt]吸收,吸引(attract,allure); [ex]I used a sponge to absorb the spilled milk. [st]吸引; [^]ibt;
 absorbing % [a]引人入胜的(enchanting,fascinating) [st]吸引; [^]ibt;
 
 ##虚弱 
